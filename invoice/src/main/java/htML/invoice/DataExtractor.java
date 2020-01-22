@@ -29,6 +29,12 @@ public class DataExtractor {
 			e.printStackTrace();
 		}
 	}
+	private void generateHtml()
+	{
+		String path = "some random path here";
+		exec.startCommand("pdftohtml -c "+path+" name.html");
+		exec.startCommand("mv *-*.html read.html");
+	}
 
 	private void writeInit() {
 		try {
