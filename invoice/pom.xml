@@ -63,7 +63,19 @@
 			<artifactId>pdfbox-debugger</artifactId>
 			<version>2.0.18</version>
 		</dependency>
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi</artifactId>
+			<version>3.17</version>
+		</dependency>
 
+		<!-- Used to work with the newer excel file format - `.xlsx` -->
+		<!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->
+		<dependency>
+			<groupId>org.apache.poi</groupId>
+			<artifactId>poi-ooxml</artifactId>
+			<version>3.17</version>
+		</dependency>
 
 	</dependencies>
 </project>

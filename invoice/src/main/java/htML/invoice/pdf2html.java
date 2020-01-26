@@ -17,7 +17,7 @@ public class pdf2html {
 
 	public pdf2html() {
 		try {
-			output = new File("/home/quang/testinfo1.txt");
+			output = new File("/home/quang/html/testinfo7.html");
 			writer = new BufferedWriter(new FileWriter(output));
 			dowork();
 		} catch (Exception e) {
@@ -27,7 +27,7 @@ public class pdf2html {
 
 	private void dowork() {
 		try {
-			InputStream is = new FileInputStream("/home/quang/PythonScript/invoices/6.pdf");// ..... Read PDF file
+			InputStream is = new FileInputStream("/home/quang/PythonScript/invoices/7.pdf");// ..... Read PDF file
 			PDDocument pdd = PDDocument.load(is); // This is the in-memory representation of the PDF document.
 			PDFText2HTML converter = new PDFText2HTML(); // the converter
 			String html = converter.getText(pdd); // That's it!
