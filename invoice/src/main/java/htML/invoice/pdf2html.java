@@ -14,10 +14,11 @@ public class pdf2html {
 
 	private File output;
 	private BufferedWriter writer;
+	private int total;
 
-	public pdf2html() {
+	public pdf2html(int n) {
 		try {
-
+			total = n;
 			dowork();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -26,11 +27,12 @@ public class pdf2html {
 
 	private void dowork() {
 		try {
-			for (int i = 1; i <= 3; ++i) {
+			for (int i = 1; i <= total; ++i) {
 				System.out.println(i);
-				output = new File("/home/quang/html/"+Integer.toString(i)+".html");
+				output = new File("/home/quang/html/" + Integer.toString(i) + ".html");
 				writer = new BufferedWriter(new FileWriter(output));
-				InputStream is = new FileInputStream("/home/quang/PythonScript/invoices/"+Integer.toString(i)+".pdf");// ..... Read PDF file
+				InputStream is = new FileInputStream(
+						"/home/quang/PythonScript/invoices/" + Integer.toString(i) + ".pdf");// ..... Read PDF file
 				PDDocument pdd = PDDocument.load(is); // This is the in-memory representation of the PDF document.
 				PDFText2HTML converter = new PDFText2HTML(); // the converter
 				String html = converter.getText(pdd); // That's it!
@@ -38,8 +40,9 @@ public class pdf2html {
 				writer.append(html);
 				pdd.close();
 				is.close();
+				writer.close();
 			}
-			writer.close();
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
