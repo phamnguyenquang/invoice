@@ -51,7 +51,7 @@ public class DataExtractor {
 
 	public void Extractlabelled() {
 		try {
-			writer = new BufferedWriter(new FileWriter("/home7quang/labelled_invoices.txt"));
+			writer = new BufferedWriter(new FileWriter("resources/text/labelled_invoices.txt"));
 			Element body = doc.select("body").first();
 			Elements test = body.getElementsByTag("p");
 			System.out.println("printing");
@@ -78,9 +78,9 @@ public class DataExtractor {
 	public void ExtractUnlabelled() {
 		try {
 			if (totalDoc > 0) {
-				writer = new BufferedWriter(new FileWriter("resources/unlabelled_invoices.txt"));
+				writer = new BufferedWriter(new FileWriter("resources/text/unlabelled_invoices.txt"));
 				for (int i = 1; i <= totalDoc; ++i) {
-					String file = dir+"/"+Integer.toString(i)+".html";
+					String file = dir + "/" + Integer.toString(i) + ".html";
 					input = new File(file);
 					doc = Jsoup.parse(input, "UTF-8", "localhost");
 					Element body = doc.select("body").first();
@@ -91,7 +91,7 @@ public class DataExtractor {
 							writer.append("\n");
 						}
 					}
-					
+
 				}
 				writer.close();
 			}
