@@ -36,7 +36,7 @@ public class pdf2html {
 				PDDocument pdd = PDDocument.load(is); // This is the in-memory representation of the PDF document.
 				PDFText2HTML converter = new PDFText2HTML(); // the converter
 				String html = converter.getText(pdd); // That's it!
-//				System.out.println(html);
+				System.out.println(html);
 				writer.append(html);
 				pdd.close();
 				is.close();

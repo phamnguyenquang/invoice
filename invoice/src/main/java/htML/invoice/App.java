@@ -8,9 +8,9 @@ import DataGenerator.TrainingDataGenerator;
  */
 public class App {
 	public static void main(String[] args) {
-//		DataExtractor dd = new DataExtractor("/home/quang/PythonScript/invoices/test2s.html");
-//		dd.extract();
-		new pdf2html(7);
+		DataExtractor dd = new DataExtractor(7);
+		dd.ExtractUnlabelled();
+//		new pdf2html(7);
 //		new TrainingDataGenerator(500, "/home/quang/javaDataGen.txt");
 	}
 }

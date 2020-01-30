@@ -20,6 +20,8 @@ public class DataExtractor {
 	private String filepath;
 	private Document doc;
 	private CommandExecutor exec;
+	private String dir = "/home/quang/html";
+	private int totalDoc = 0;
 
 	private void initialize() {
 		try {
@@ -29,29 +31,11 @@ public class DataExtractor {
 			e.printStackTrace();
 		}
 	}
-	private void generateHtml()
-	{
+
+	private void generateHtml() {
 		String path = "some random path here";
-		exec.startCommand("pdftohtml -c "+path+" name.html");
+		exec.startCommand("pdftohtml -c " + path + " name.html");
 		exec.startCommand("mv *-*.html read.html");
-	}
-
-	private void writeInit() {
-		try {
-			output = new File("/home/quang/testinfo.txt");
-			writer = new BufferedWriter(new FileWriter(output));
-		} catch (Exception e) {
-			e.printStackTrace();
-		}
-	}
-
-	private void writeTerm() {
-		try {
-			writer.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 	}
 
 	public DataExtractor(String path) {
@@ -59,11 +43,15 @@ public class DataExtractor {
 		filepath = path;
 		input = new File(filepath);
 		initialize();
-		writeInit();
 	}
 
-	public void extract() {
+	public DataExtractor(int num) {
+		totalDoc = num;
+	}
+
+	public void Extractlabelled() {
 		try {
+			writer = new BufferedWriter(new FileWriter("/home7quang/labelled_invoices.txt"));
 			Element body = doc.select("body").first();
 			Elements test = body.getElementsByTag("p");
 			System.out.println("printing");
@@ -71,16 +59,42 @@ public class DataExtractor {
 			for (int i = 0; i < test.size(); ++i) {
 				writer.append(test.get(i).text());
 				writer.append(" ");
-				if (i == 2) {
+				if (i == 1) {
 					writer.append("0");
 					writer.append("\n");
-				} else if (i == 4) {
+				} else if (i == 3) {
 					writer.append("1");
 					writer.append("\n");
 				}
 			}
 			writer.append("2");
-			writeTerm();
+			writer.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
+	}
+
+	public void ExtractUnlabelled() {
+		try {
+			if (totalDoc > 0) {
+				writer = new BufferedWriter(new FileWriter("/home/quang/unlabelled_invoices.txt"));
+				for (int i = 1; i <= totalDoc; ++i) {
+					String file = dir+"/"+Integer.toString(i)+".html";
+					input = new File(file);
+					doc = Jsoup.parse(input, "UTF-8", "localhost");
+					Element body = doc.select("body").first();
+					Elements test = body.getElementsByTag("p");
+					for (int j = 0; j < test.size(); ++j) {
+						if (j == 0 || j == 2) {
+							writer.append(test.get(j).text());
+							writer.append("\n");
+						}
+					}
+					
+				}
+				writer.close();
+			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
