@@ -78,7 +78,7 @@ public class DataExtractor {
 	public void ExtractUnlabelled() {
 		try {
 			if (totalDoc > 0) {
-				writer = new BufferedWriter(new FileWriter("/home/quang/unlabelled_invoices.txt"));
+				writer = new BufferedWriter(new FileWriter("resources/unlabelled_invoices.txt"));
 				for (int i = 1; i <= totalDoc; ++i) {
 					String file = dir+"/"+Integer.toString(i)+".html";
 					input = new File(file);

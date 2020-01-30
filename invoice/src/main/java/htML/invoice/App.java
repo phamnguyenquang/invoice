@@ -8,9 +8,9 @@ import DataGenerator.TrainingDataGenerator;
  */
 public class App {
 	public static void main(String[] args) {
-		DataExtractor dd = new DataExtractor(7);
-		dd.ExtractUnlabelled();
+//		DataExtractor dd = new DataExtractor(5);
+//		dd.ExtractUnlabelled();
 //		new pdf2html(7);
-//		new TrainingDataGenerator(500, "/home/quang/javaDataGen.txt");
+		new TrainingDataGenerator(500, "resources/javaDataGen.txt");
 	}
 }
