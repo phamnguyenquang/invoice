@@ -1,7 +1,3 @@
-ICA [Address Unknow 10]
-[10101010]
-[The Franchise] [Address Unknown]
-[48484848]
 ICA [Address Unknow 10] [Unknown], [NA] [44444444] [10101010] [ica@ica.unknown]
 Bill to ABXY [Woodlands Ave 6] [SG], [SG] [73070]
 Ubisoft Inc [Truong Chinh 10] [Q1], [TP HCM] [720000] [058826612] [ubi@rec.unknown]
