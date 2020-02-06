@@ -13,7 +13,7 @@ public class App {
 //		DataExtractor dd = new DataExtractor(5);
 //		dd.ExtractUnlabelled();
 //		new pdf2html(7);
-//		new TrainingDataGenerator(500, "resources/text/javaDataGen.txt");
-		new NERTest();
+		new TrainingDataGenerator(500, "resources/text/",false);
+//		new NERTest();
 	}
 }
