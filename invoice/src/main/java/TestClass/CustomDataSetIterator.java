@@ -1,4 +1,4 @@
-package ML;
+package TestClass;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -24,8 +24,6 @@ import org.nd4j.linalg.factory.Nd4j;
 import org.nd4j.linalg.indexing.INDArrayIndex;
 import org.nd4j.linalg.indexing.NDArrayIndex;
 import org.nd4j.linalg.io.ClassPathResource;
-
-import TestClass.BoW;
 
 public class CustomDataSetIterator implements DataSetIterator {
 
