@@ -40,16 +40,16 @@ public class DataSetMaker {
 			sentences = new ArrayList<String>();
 			len = 0;
 			labelnames = new ArrayList<String>();
-			labelnames.add("name");
-			labelnames.add("addr1");
-			labelnames.add("addr2");
-			labelnames.add("addr3");
-			labelnames.add("addr4");
-			labelnames.add("state");
-			labelnames.add("zip");
-			labelnames.add("phone");
-			labelnames.add("mail");
-			labelnames.add("city");
+			labelnames.add("sender");
+			labelnames.add("receiver");
+//			labelnames.add("addr2");
+//			labelnames.add("addr3");
+//			labelnames.add("addr4");
+//			labelnames.add("state");
+//			labelnames.add("zip");
+//			labelnames.add("phone");
+//			labelnames.add("mail");
+//			labelnames.add("city");
 
 			BoWVectorizer = new BoW("/resources/text/JavaDataGen.txt");
 			tokenizerFactory = new DefaultTokenizerFactory();

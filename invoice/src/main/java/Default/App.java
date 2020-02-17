@@ -8,6 +8,7 @@ import NER.NERTest;
 import TestClass.BoW;
 import TestClass.CSVTest;
 import htML.invoice.DataExtractor;
+import pyscript.TestImport;
 
 /**
  * Hello world!
@@ -21,17 +22,17 @@ public class App {
 //		new TrainingDataGenerator(500, "resources/text/", false, false);
 //		new NERTest();
 //		new CNN();
-		BoW test = new BoW("/resources/text/imdb_labelled.txt");
-		test.WriteToCSV("/resources/dataSet/train/sender1.txt", "/resources/dataSet/temp/sender.txt", "0");
-		test.WriteToCSV("/resources/dataSet/train/receiver1.txt", "/resources/dataSet/temp/sender.txt", "1");
-		try {
-			test.FinishTrainingWrite();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		test.WriteToTestCSV("/resources/dataSet/predict/unlabelled_invoices.txt", "/resources/dataSet/temp/fit.txt");
-		new CSVTest(test.getArraySize());
-
+//		BoW test = new BoW("/resources/text/JavaData.txt");
+//		test.WriteToCSV("/resources/dataSet/train/sender1.txt", "/resources/dataSet/temp/sender.txt", "0");
+//		test.WriteToCSV("/resources/dataSet/train/receiver1.txt", "/resources/dataSet/temp/sender.txt", "1");
+//		try {
+//			test.FinishTrainingWrite();
+//		} catch (IOException e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
+//		test.WriteToTestCSV("/resources/dataSet/predict/unlabelled_invoices.txt", "/resources/dataSet/temp/fit.txt");
+//		new CSVTest(test.getArraySize());
+		new TestImport();
 	}
 }

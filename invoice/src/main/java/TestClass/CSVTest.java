@@ -9,9 +9,12 @@ import org.datavec.api.records.reader.impl.csv.CSVRecordReader;
 import org.datavec.api.split.FileSplit;
 import org.deeplearning4j.datasets.datavec.RecordReaderDataSetIterator;
 import org.deeplearning4j.eval.Evaluation;
+import org.deeplearning4j.nn.api.OptimizationAlgorithm;
 import org.deeplearning4j.nn.conf.MultiLayerConfiguration;
 import org.deeplearning4j.nn.conf.NeuralNetConfiguration;
+import org.deeplearning4j.nn.conf.layers.Convolution1DLayer;
 import org.deeplearning4j.nn.conf.layers.DenseLayer;
+import org.deeplearning4j.nn.conf.layers.EmbeddingLayer;
 import org.deeplearning4j.nn.conf.layers.OutputLayer;
 import org.deeplearning4j.nn.multilayer.MultiLayerNetwork;
 import org.deeplearning4j.nn.weights.WeightInit;
@@ -37,8 +40,8 @@ public class CSVTest {
 	private File file;
 
 	public CSVTest(int size) {
-		doWork();
 		labelIndex = size;
+		doWork();
 	}
 
 	private void doWork() {
@@ -51,6 +54,14 @@ public class CSVTest {
 			DataSetIterator iterator = new RecordReaderDataSetIterator(recordReader, batchSize, labelIndex,
 					noOfClasses);
 			DataSet allData = iterator.next();
+			// -------------------------------------------------
+			System.out.println("Features");
+			System.out.println("rows " + allData.getFeatures().rows());
+			System.out.println("col " + allData.getFeatures().columns());
+			System.out.println("labels");
+			System.out.println("rows " + allData.getLabels().rows());
+			System.out.println("col " + allData.getLabels().columns());
+			// -------------------------------------------------
 			allData.shuffle();
 			SplitTestAndTrain testAndTrain = allData.splitTestAndTrain(0.65); // Use 65% of data for training
 
@@ -67,12 +78,21 @@ public class CSVTest {
 			int outputNum = 2;
 			long seed = 6;
 
+//			MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder().seed(seed)
+//					.activation(Activation.SIGMOID).weightInit(WeightInit.XAVIER).updater(new Sgd(0.1)).l2(1e-4).list()
+//					.layer(new DenseLayer.Builder().nIn(numInputs).nOut(2).build())
+//					.layer(new DenseLayer.Builder().nIn(2).nOut(2).build())
+//					.layer(new OutputLayer.Builder(LossFunctions.LossFunction.XENT).activation(Activation.SIGMOID)
+//							.nIn(2).nOut(2).build())
+//					.build();
+
 			MultiLayerConfiguration conf = new NeuralNetConfiguration.Builder().seed(seed)
-					.activation(Activation.SIGMOID).weightInit(WeightInit.XAVIER).updater(new Sgd(0.1)).l2(1e-4).list()
-					.layer(new DenseLayer.Builder().nIn(numInputs).nOut(2).build())
-					.layer(new DenseLayer.Builder().nIn(2).nOut(2).build())
-					.layer(new OutputLayer.Builder(LossFunctions.LossFunction.XENT).activation(Activation.SIGMOID)
-							.nIn(2).nOut(2).build())
+					.activation(Activation.SIGMOID).optimizationAlgo(OptimizationAlgorithm.STOCHASTIC_GRADIENT_DESCENT)
+					.weightInit(WeightInit.XAVIER).updater(new Sgd(0.1)).l2(1e-4).list()
+					.layer(new DenseLayer.Builder().nIn(10).nOut(10).activation(Activation.RELU).build())
+					.layer(new DenseLayer.Builder().nIn(10).nOut(2).activation(Activation.RELU).build())
+					.layer(new OutputLayer.Builder(LossFunctions.LossFunction.RECONSTRUCTION_CROSSENTROPY)
+							.activation(Activation.RELU).nIn(2).nOut(2).build())
 					.build();
 
 			// run the model

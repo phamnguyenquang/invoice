@@ -102,21 +102,23 @@ public class CustomDataSetIterator implements DataSetIterator {
 
 	private DataSet nextDataSet(int num) throws IOException {
 		// First: load reviews to String. Alternate positive and negative reviews
-		List<String> reviews = new ArrayList<String>(num);
-		boolean[] positive = new boolean[num];
+		List<String> reviews = new ArrayList<String>();
+		System.out.println(num);
+		boolean[] sender = new boolean[num];
+
 		for (int i = 0; i < num && cursor < senderData.size() + receiverData.size(); i++) {
 			if (cursor % 2 == 0) {
 				// Load positive review
 				int senderPos = cursor / 2;
 				String review = senderData.get(senderPos);
 				reviews.add(review);
-				positive[i] = true;
+				sender[i] = true;
 			} else {
 				// Load negative review
 				int receiverPos = cursor / 2;
 				String review = receiverData.get(receiverPos);
 				reviews.add(review);
-				positive[i] = false;
+				sender[i] = false;
 			}
 			cursor++;
 		}
@@ -135,7 +137,7 @@ public class CustomDataSetIterator implements DataSetIterator {
 		// or 0 if data is just padding
 		INDArray featuresMask = Nd4j.zeros(reviews.size(), maxLength);
 		INDArray labelsMask = Nd4j.zeros(reviews.size(), maxLength);
-
+		float[][] labelData = new float[reviews.size()][2];
 		for (int i = 0; i < reviews.size(); i++) {
 			List<String> tokens = tokenizerFactory.create(reviews.get(i)).getTokens();
 
@@ -157,18 +159,31 @@ public class CustomDataSetIterator implements DataSetIterator {
 			featuresMask.get(new INDArrayIndex[] { NDArrayIndex.point(i), NDArrayIndex.interval(0, seqLength) })
 					.assign(1);
 
-			int idx = (positive[i] ? 0 : 1);
-			int lastIdx = Math.min(tokens.size(), maxLength);
-			labels.putScalar(new int[] { i, idx }, 1.0); // Set label: [0,1] for negative, [1,0] for
-															// positive
-			labelsMask.putScalar(new int[] { i, lastIdx - 1 }, 1.0); // Specify that an output exists at the final time
+			int idx = (sender[i] ? 0 : 1);
+			if(idx == 0)
+			{
+				labelData[i][0]=0;
+				labelData[i][1]=1;
+			}
+			else
+			{
+				labelData[i][0]=1;
+				labelData[i][1]=0;
+			}
+//			int lastIdx = Math.min(tokens.size(), maxLength);
+//			labels.putScalar(new int[] { i, idx }, 1.0); // Set label: [0,1] for negative, [1,0] for
+
+			// positive
+//			labelsMask.putScalar(new int[] { i, lastIdx - 1 }, 1.0); // Specify that an output exists at the final time
 																		// step for this example
 		}
+		
+		labelsMask = Nd4j.create(labelData);
 
 		System.out.println("Feature row " + features.rows());
 		System.out.println("Feature col " + features.columns());
 		System.out.println("label row " + labelsMask.rows());
-		System.out.println("label row " + labelsMask.columns());
+		System.out.println("label col " + labelsMask.columns());
 
 		return new DataSet(features, labelsMask);
 

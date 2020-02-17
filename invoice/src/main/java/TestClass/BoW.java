@@ -41,7 +41,7 @@ public class BoW {
 
 	private void dowork() {
 		try {
-//			String test = "sender 0 [AddressSend 0][AddressMisc 0][City 0][72000][012457850][email@sender0.example].";
+			String test = "sender 0 [AddressSend 0][AddressMisc 0][City 0][72000][012457850][email@sender0.example].";
 			String baseDir = new ClassPathResource(directory).getPath();
 
 			System.out.println(baseDir);
@@ -55,7 +55,9 @@ public class BoW {
 					.build();
 			bow.fit();
 			System.out.println(bow.getVocabCache().containsWord("Bill"));
-//			INDArray testArr = bow.transform(test);
+			INDArray testArr = bow.transform(test);
+			System.out.println("column="+testArr.columns());
+			System.out.println("row="+testArr.rows());
 //			INDArray padded = Nd4j.pad(testArr, new int[] {0,2},Nd4j.PadMode.CONSTANT);
 //			float[] testF = testArr.toFloatVector();
 //			for (int i = 0; i < testF.length; ++i) {
