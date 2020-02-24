@@ -9,16 +9,19 @@ import java.io.IOException;
 
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.tools.PDFText2HTML;
+import org.nd4j.linalg.io.ClassPathResource;
 
 public class pdf2html {
 
 	private File output;
 	private BufferedWriter writer;
-	private int total;
+	private String dir;
+	private String outDir;
 
-	public pdf2html(int n) {
+	public pdf2html(String baseDir, String out) {
 		try {
-			total = n;
+			dir = new ClassPathResource(baseDir).getPath();
+			outDir = new ClassPathResource(out).getPath();
 			dowork();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -27,12 +30,15 @@ public class pdf2html {
 
 	private void dowork() {
 		try {
-			for (int i = 1; i <= total; ++i) {
-				System.out.println(i);
-				output = new File("resources/html/" + Integer.toString(i) + ".html");
+
+			File list = new File(dir);
+
+			for (File f : list.listFiles()) {
+				System.out.println("processing: " + f.getName());
+				output = new File(outDir + f.getName().replace(".pdf", "") + ".html");
 				writer = new BufferedWriter(new FileWriter(output));
-				InputStream is = new FileInputStream("resources/pdf/" + Integer.toString(i) + ".pdf");// ..... Read PDF
-																										// file
+				InputStream is = new FileInputStream(dir + f.getName());// ..... Read PDF
+																		// file
 				PDDocument pdd = PDDocument.load(is); // This is the in-memory representation of the PDF document.
 				PDFText2HTML converter = new PDFText2HTML(); // the converter
 				String html = converter.getText(pdd); // That's it!

@@ -58,22 +58,57 @@ public class TestImport {
 			}
 
 //			MultiLayerConfiguration model = KerasModelImport.importKerasSequentialConfiguration(pythonScript);
-			
 
 			KerasTokenizer tokenizer = KerasTokenizer.fromJson(kerasToken);
-			tokenizer.fitOnTexts(listTrain);
+			System.out.println("before: " + tokenizer.getNumWords());
+//			tokenizer.fitOnTexts(listTrain);
+			
+			int k = tokenizer.getWordIndex().size();
+			System.out.println("vocab size = "+k);
 
-			INDArray Feature = tokenizer.textsToMatrix(listTrain, TokenizerMode.COUNT);
-			INDArray lab = Nd4j.create(label);
+			Integer[][] test = tokenizer.textsToSequences(listTrain);
 
-			DataSet newData = new DataSet(Feature, lab);
+			System.out.println("row: "+test.length);
 
+			for (int i = 0; i < test[0].length; ++i) {
+				System.out.println(test[0][i]);
+			}
+
+			float[][] featureData = new float[500][100]; // 500 is file length, 100 is max padding length
+
+			for (int i = 0; i < 500; ++i) {
+				for (int j = 0; j < 100; ++j) {
+					if (j < test[i].length) {
+						featureData[i][j] = test[i][j];
+					} else {
+						featureData[i][j] = 0;
+					}
+				}
+			}
+//
+//			INDArray Feature = tokenizer.textsToMatrix(listTrain, TokenizerMode.TFIDF).transpose();
+//			float dat[][] = Feature.toFloatMatrix();
+//			INDArray lab = Nd4j.create(label);
+//			System.out.println(Feature.rows());
+//			System.out.println(Feature.columns());
+			
+			INDArray Feature1 = Nd4j.create(featureData);
+
+//			DataSet newData = new DataSet(Feature, lab);
+//
 			MultiLayerNetwork net = KerasModelImport.importKerasSequentialModelAndWeights(pythonH5, false);
 			net.init();
-
+				
 //			net.fit(newData);
 
-			INDArray testOutput = net.output(Feature);
+//			INDArray testOutput = net.output(Feature1);
+			int p[] = net.predict(Feature1);
+			
+			System.out.println("file length: "+p.length);
+
+			for (int i = 0; i < p.length; ++i) {
+				System.out.println(p[i]);
+			}
 
 		} catch (
 
