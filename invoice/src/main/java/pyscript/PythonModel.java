@@ -26,6 +26,7 @@ public class PythonModel {
 	private String baseDir;
 	private String fullPathToTokenFile;
 	private String fullPathToh5;
+	private String fullPathToModel;
 	private KerasTokenizer tokenizer;
 	private MultiLayerNetwork model;
 	private String[] data;
@@ -38,7 +39,7 @@ public class PythonModel {
 	}
 
 	private String[] readFile(String filePath) throws IOException {
-		FileReader fileReader = new FileReader(filePath);
+		FileReader fileReader = new FileReader(new ClassPathResource(filePath).getPath());
 		BufferedReader bufferedReader = new BufferedReader(fileReader);
 		String line = null;
 		List<String> sentences = new ArrayList<String>();
@@ -68,13 +69,14 @@ public class PythonModel {
 		return featureData;
 	}
 
-	public PythonModel(String token, String parameter, int pad) {
+	public PythonModel(String token, String model, String weight, int pad) {
 		try {
 			tokenName = token;
-			h5File = parameter;
+			h5File = weight;
 			setBaseDir("resources/python/exported/");
 			fullPathToTokenFile = new ClassPathResource(baseDir + tokenName).getPath();
 			fullPathToh5 = new ClassPathResource(baseDir + h5File).getPath();
+			fullPathToModel = new ClassPathResource(baseDir + model).getPath();
 			tokenizer = KerasTokenizer.fromJson(fullPathToTokenFile);
 			PaddingLength = pad;
 		} catch (Exception e) {
@@ -86,9 +88,13 @@ public class PythonModel {
 		try {
 			String[] list = readFile(filepath);
 			INDArray Feature = Nd4j.create(TokenizeData(list));
-			model = KerasModelImport.importKerasSequentialModelAndWeights(fullPathToh5, false);
-			model.init();
-			p = model.predict(Feature);
+			model = KerasModelImport.importKerasSequentialModelAndWeights(fullPathToModel, fullPathToh5, true);
+//			model.init();
+			INDArray output = model.output(Feature);
+			p = new int[output.rows()];
+			for (int i = 0; i < p.length; ++i) {
+				p[i] = Math.round(output.getRow(i).toFloatVector()[0]);
+			}
 
 		} catch (Exception e) {
 			e.printStackTrace();

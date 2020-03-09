@@ -4,12 +4,12 @@ import java.io.IOException;
 
 import DataGenerator.TrainingDataGenerator;
 import ML.CNN;
-import NER.NERPreprocess;
+import NER.OpenNlpPreprocess;
 import TestClass.BoW;
 import TestClass.CSVTest;
 import TestClass.NERTest;
+import TestClass.TestImport;
 import htML.invoice.DataExtractor;
-import pyscript.TestImport;
 
 /**
  * Hello world!

@@ -97,28 +97,6 @@
 			<version>1.0.0-beta4</version>
 		</dependency>
 		<dependency>
-			<groupId>org.jfree</groupId>
-			<artifactId>jfreechart</artifactId>
-			<version>1.0.19</version>
-		</dependency>
-		<dependency>
-			<groupId>io.pkts</groupId>
-			<artifactId>pkts-core</artifactId>
-			<version>3.0.0</version>
-			<type>jar</type>
-		</dependency>
-		<dependency>
-			<groupId>io.pkts</groupId>
-			<artifactId>pkts-streams</artifactId>
-			<version>3.0.0</version>
-			<type>jar</type>
-		</dependency>
-		<dependency>
-			<groupId>nz.ac.waikato.cms.weka</groupId>
-			<artifactId>weka-stable</artifactId>
-			<version>3.8.0</version>
-		</dependency>
-		<dependency>
 			<groupId>org.deeplearning4j</groupId>
 			<artifactId>dl4j-spark_2.11</artifactId>
 			<version>1.0.0-beta2_spark_2</version>
@@ -129,5 +107,24 @@
 			<artifactId>pydatavec</artifactId>
 			<version>1.0.0-beta6</version>
 		</dependency>
+		<!-- standford CoreNLP -->
+		<dependency>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+			<version>3.9.2</version>
+		</dependency>
+		<dependency>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+			<version>3.9.2</version>
+			<classifier>models</classifier>
+		</dependency>
+		<dependency>
+			<groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+			<version>3.9.2</version>
+			<classifier>models-german</classifier>
+		</dependency>
+
 	</dependencies>
 </project>

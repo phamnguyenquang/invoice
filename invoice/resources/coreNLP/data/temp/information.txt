@@ -1,12 +1,12 @@
 Invoice
-Bill to Quang Pho [Nguyen Thai Hoc 8/6] [Tuy Hoa], [Phu Yen] [750000]
 Invoice Number: 231001 Date: January 30, 2020
 Item Description Price Qty Total
-1 Computer peripherals 1000.00 1 1000.00 2 Harddisk 2000E 2000 1 2000.00 3 The TEXbook 100.00 100 10000.00 4 Product Four 5000.00 1 5000.00 5 Product Five 5000.00 2 10000.00
+1 Logitech Computer peripherals 1000.00 1 1000.00 2 Harddisk 2000E 2000 1 2000.00 3 The TEXbook 100.00 100 10000.00 4 Razer Mouse Pad 5000.00 1 5000.00 5 Razer Death Adder 5000.00 2 10000.00
+Total 28000.00
 1
 Invoice
-Bill to Quang Pho [Woodlands Ave 6] [SG], [SG] [73070]
 Invoice Number: 231001 Date: January 30, 2020
 Item Description Price Qty Total
-1 Computer peripherals 1000.00 1 1000.00 2 Harddisk 2000E 2000 1 2000.00 3 The TEXbook 100.00 100 10000.00 4 Product Four 5000.00 1 5000.00 5 Product Five 5000.00 2 10000.00
+1 Toshiba Computer peripherals 1000.00 1 1000.00 2 Harddisk 2000E 2000 1 2000.00 3 The TEXbook 100.00 100 10000.00 4 Razer Mouse Pad 5000.00 1 5000.00 5 Razer Death Adder 5000.00 2 10000.00
+Total 28000.00
 1
