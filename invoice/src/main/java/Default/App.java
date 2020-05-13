@@ -1,22 +1,36 @@
 package Default;
 
+import DataGenerator.TrainingPdfGenerator;
+import Misc.PdfToImage;
 import NER.CoreNlpPreprocess;
 import NER.OpenNlpPreprocess;
 import htML.invoice.DataExtractor;
+import htML.invoice.MassDataExtractor;
 import htML.invoice.pdf2html;
 import pyscript.PythonModel;
 
 public class App {
 
 	public static void main(String[] args) {
+		TrainingPdfGenerator pdfgen = new TrainingPdfGenerator("HomogeneousInvoice.tex", "GenericInvoice", 1, 0);
+		for (int i = 0; i < 10; ++i) {
+			String name = "GenericInvoice" + Integer.toString(i);
+			pdfgen.setPdfName(name);
+			pdfgen.generateData();
+		}
+
+		// Misc, convert PDF to Image
+//		new PdfToImage("/home/quang/2.pdf");
 		// Extracting pdf
-//		new pdf2html("resources/pdf/", "resources/html/");
-//		new DataExtractor("resources/html/", "resources/coreNLP/data/original/").ExtractUnlabelled();
-		new CoreNlpPreprocess("unlabelled_invoices.txt", "receipient.txt", "information.txt","neural").doWork();
+		new pdf2html("resources/pdf/", "resources/html/");
+		new MassDataExtractor("resources/html/", "resources/coreNLP/data/original/").extract();
+//		new CoreNlpPreprocess("unlabelled_invoices.txt","neural")
+//				.doWork();
+//		new TagSwitcher("/resources/html/2.html").doWork();
 //		PythonModel test = new PythonModel("tokenizer.json", "model_config.json","model_weights.h5", 100);
 //		test.GetPredictResult("resources/coreNLP/data/temp/unlabelled_invoices.txt");
 //		test.WriteResultToFile();
-		
+
 	}
 
 }

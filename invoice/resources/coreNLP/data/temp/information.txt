@@ -1,12 +1,13 @@
+Hugh Jackman Logan Shadlalay [Gruner 14] [Frankfurt am Main], [Germany] [61169] [06031-7910-0] [info@computeruniverse.net]
 Invoice
-Invoice Number: 231001 Date: January 30, 2020
+Christ Helmwood von Champ De Mars [Smith Rd 1] [New York][Florence] [England] [60318]
 Item Description Price Qty Total
-1 Logitech Computer peripherals 1000.00 1 1000.00 2 Harddisk 2000E 2000 1 2000.00 3 The TEXbook 100.00 100 10000.00 4 Razer Mouse Pad 5000.00 1 5000.00 5 Razer Death Adder 5000.00 2 10000.00
-Total 28000.00
+Total 28000.000
 1
+Computerverse GmbH [Gruner Weg 14] [Friedberg], [Germany] [61169] [06031-7910-0] [info@computeruniverse.net]
 Invoice
-Invoice Number: 231001 Date: January 30, 2020
+FH Frankfurt Pham Nguyen Quang
+[60318]
 Item Description Price Qty Total
-1 Toshiba Computer peripherals 1000.00 1 1000.00 2 Harddisk 2000E 2000 1 2000.00 3 The TEXbook 100.00 100 10000.00 4 Razer Mouse Pad 5000.00 1 5000.00 5 Razer Death Adder 5000.00 2 10000.00
-Total 28000.00
+Total 28000.000
 1

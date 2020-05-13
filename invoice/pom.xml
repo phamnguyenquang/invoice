@@ -28,6 +28,7 @@
 			<version>1.8.3</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox -->
+		<!-- Apache pdfbox and related pdf -->
 		<dependency>
 			<groupId>org.apache.pdfbox</groupId>
 			<artifactId>pdfbox</artifactId>
@@ -81,6 +82,7 @@
 			<artifactId>opennlp-tools</artifactId>
 			<version>1.9.2</version>
 		</dependency>
+		<!-- DL4j related APIs -->
 		<dependency>
 			<groupId>org.deeplearning4j</groupId>
 			<artifactId>deeplearning4j-core</artifactId>
@@ -101,7 +103,6 @@
 			<artifactId>dl4j-spark_2.11</artifactId>
 			<version>1.0.0-beta2_spark_2</version>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.deeplearning4j/pydatavec -->
 		<dependency>
 			<groupId>org.deeplearning4j</groupId>
 			<artifactId>pydatavec</artifactId>
@@ -125,6 +126,12 @@
 			<version>3.9.2</version>
 			<classifier>models-german</classifier>
 		</dependency>
-
+		<!-- Google Guava for some file manipulation -->
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+			<version>28.0-jre</version>
+		</dependency>
+		
 	</dependencies>
 </project>
