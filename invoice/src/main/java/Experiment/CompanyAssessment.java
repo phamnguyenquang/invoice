@@ -26,6 +26,16 @@ public class CompanyAssessment {
 		}
 	}
 
+	public CompanyAssessment(String dir) {
+		AssessDir = dir;
+		try {
+			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
+			doWork();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
 	private void doWork() {
 		try {
 			String line = reader.readLine();

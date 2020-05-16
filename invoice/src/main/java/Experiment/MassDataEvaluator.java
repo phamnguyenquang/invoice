@@ -7,8 +7,12 @@ public class MassDataEvaluator {
 	private File[] fileList;
 	private File FileDir;
 	private File[] logList;
-	private String LogDi = "/resources/coreNLP/data/Log/";
+	private String LogDir = "/resources/coreNLP/data/Log/";
 	private boolean[] result;
+	private boolean isDate;
+	private boolean isPerson;
+	private boolean isCompany;
+	private boolean isLocation;
 
 	private BufferedWriter[] writer;
 
@@ -23,6 +27,11 @@ public class MassDataEvaluator {
 		fileList = FileDir.listFiles();
 		writer = new BufferedWriter[totalFile];
 
+	}
+	
+	private void dataAssessment()
+	{
+		
 	}
 
 	private void doWork() {

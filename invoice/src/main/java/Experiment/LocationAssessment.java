@@ -25,6 +25,16 @@ public class LocationAssessment {
 			e.printStackTrace();
 		}
 	}
+	public LocationAssessment(String dir) {
+		AssessDir = dir;
+		try {
+			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
+			doWork();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
 
 	public void doWork() {
 		try {

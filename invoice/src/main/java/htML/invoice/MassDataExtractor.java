@@ -4,6 +4,7 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -37,8 +38,8 @@ public class MassDataExtractor {
 		Element body = doc.select("body").first();
 		Elements test = body.getElementsByTag("p");
 		int i = test.size();
-		writer = new BufferedWriter[i];
-		for (int j = 0; j < i; ++j) {
+		writer = new BufferedWriter[i - 4];
+		for (int j = 0; j < i - 4; ++j) {
 			try {
 				writer[j] = new BufferedWriter(new FileWriter(outDir + "file" + Integer.toString(j) + ".txt"));
 			} catch (IOException e) {
@@ -63,16 +64,25 @@ public class MassDataExtractor {
 				initialize(f);
 				Element body = doc.select("body").first();
 				Elements test = body.getElementsByTag("p");
-				System.out.println("printing");
-				System.out.println(test.size());
-				for (int i = 0; i < test.size(); ++i) {
-					writer[i].append(test.get(i).text());
-					writer[i].append("\n");
+				for (int i = 0; i < test.size() - 4; ++i) {
+					if (!test.get(i).text().toLowerCase().equals("invoice")) {
+						writer[i].append(test.get(i).text());
+						writer[i].append("\n");
+					}
 				}
 
 			}
 			for (int i = 0; i < writer.length; ++i) {
 				writer[i].close();
+			}
+
+			fileList = new File(outDir);
+
+			for (File f : fileList.listFiles()) {
+				System.out.println(f.length());
+				if (f.length() == 0) {
+					f.delete();
+				}
 			}
 
 		} catch (Exception e) {

@@ -27,6 +27,16 @@ public class DateAssessment {
 		}
 	}
 
+	public DateAssessment(String dir) {
+		AssessDir = dir;
+		try {
+			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
+			doWork();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+
 	private void doWork() {
 		try {
 			String line = reader.readLine();
@@ -51,7 +61,7 @@ public class DateAssessment {
 					DateAnomaly++;
 				}
 				if (sentence.get(1).toLowerCase().contains("number") || sentence.get(1).toLowerCase().contains("o")
-						|| sentence.get(1).toLowerCase().contains("person")|| sentence.get(1).contains("O")) {
+						|| sentence.get(1).toLowerCase().contains("person") || sentence.get(1).contains("O")) {
 					MonthAnomaly++;
 				}
 			}

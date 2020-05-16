@@ -44,6 +44,7 @@ public class Annotator {
 	private boolean date;
 	private boolean money;
 	// -------------------------------------------------------------
+	private BufferedWriter debugLog;
 	private BufferedWriter trackerLog;
 
 	public Annotator(String input, String algo) {
@@ -63,8 +64,8 @@ public class Annotator {
 			// properties, can be used to set custom Model
 			// Load some valid pretrained model here
 			// ------------------------------------------------------------------------------------------------
-			String fileModel = new ClassPathResource("resources/coreNLP/CustomAnnotator/eunews.de.crf.gz").getPath();
-			props.setProperty("ner.model", fileModel);
+//			String fileModel = new ClassPathResource("resources/coreNLP/CustomAnnotator/eunews.de.crf.gz").getPath();
+//			props.setProperty("ner.model", fileModel);
 			// ------------------------------------------------------------------------------------------------
 //			props.load(IOUtils.readerFromString("StanfordCoreNLP-german.properties"));
 			// set a property for an annotator, in this case the coref annotator is being
@@ -72,6 +73,8 @@ public class Annotator {
 			props.setProperty("coref.algorithm", algorithm);
 			// build pipeline
 			pipeline = new StanfordCoreNLP(props);
+			String trackdb = new ClassPathResource(outPutDIr + "logDebug.txt").getPath();
+			debugLog = new BufferedWriter(new FileWriter(trackdb));
 			String track = new ClassPathResource(outPutDIr + "log.txt").getPath();
 			trackerLog = new BufferedWriter(new FileWriter(track));
 			// create a document object
@@ -120,14 +123,16 @@ public class Annotator {
 			// annnotate the document
 			pipeline.annotate(document);
 			CoreSentence sentence = document.sentences().get(0);
-			trackerLog.append(s);
-			trackerLog.append("\n");
+			debugLog.append(s);
+			debugLog.append("\n");
 			nerTags = sentence.nerTags();
 			for (int i = 0; i < nerTags.size(); ++i) {
 				if (i > 0) {
+					debugLog.append(",");
 					trackerLog.append(",");
 				}
 				trackerLog.append(nerTags.get(i));
+				debugLog.append(nerTags.get(i));
 				if (nerTags.get(i).toLowerCase().contains("person")) {
 					name = true;
 				}
@@ -146,7 +151,8 @@ public class Annotator {
 					location = true;
 				}
 			}
-			trackerLog.append("\n");
+			debugLog.append("\n");
+			debugLog.append("\n");
 			trackerLog.append("\n");
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -230,6 +236,7 @@ public class Annotator {
 			e.printStackTrace();
 		} finally {
 			try {
+				debugLog.close();
 				trackerLog.close();
 			} catch (IOException e) {
 				e.printStackTrace();

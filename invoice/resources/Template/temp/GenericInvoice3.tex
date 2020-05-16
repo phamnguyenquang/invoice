@@ -1,80 +1,26 @@
-\documentclass[a4paper]{letter}
-\usepackage{fp}
-\usepackage{booktabs}
-\usepackage{ragged2e}
-\usepackage{longtable}
-\usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
-\usepackage{textcomp}
-\usepackage{eurosym}
-\newcounter{cnt}
-\setcounter{cnt}{0}
-\def\inc{\stepcounter{cnt}\thecnt}
-\gdef\TotalHT{0}
-\newcommand{\product}[4]{%
-\inc &#1  &#2   &#3  &#4   &\FPmul\temp{#3}{#4}\FPround\temp{\temp}{3}\temp 
-%% Totalize
-\FPadd\total{\TotalHT}{\temp}%
-\FPround\total{\total}{3}%
-\global\let\TotalHT\total%
-\\ }
-\newcommand{\totalttc}{
-   \TotalHT  }
-\begin{document}
-\RaggedRight
-%SENDER INFORMATION
-%---------------------------------------
-\begin{minipage}[t]{0.5\textwidth}
-	\begin{flushleft}
-		\textbf{\huge  Jannik Hoffmann Ltd} \\
-		{\large Scheidswald str 61}\\
-		{\large 53517, Nha Trang, Hamburg, Singapore}\\
-		{\large email@example.net}
-	\end{flushleft}
-\end{minipage}%
-%
-\begin{minipage}[t]{0.5\textwidth}
- 	\begin{flushright}
- 		\textbf{\huge Invoice}
- 	\end{flushright}
-\end{minipage}%
-%---------------------------------------
+\documentclass{letter} 
+\usepackage{invoice} 
+\address{Josh Parker \\
+         5650 Webster Ave \\
+         West Palm Beach, Florida 33405 \\
+         JParker@mail.com} 
+\date{31-May-2010} 
 
-\par\noindent\rule{\textwidth}{0.4pt}   
+\begin{document} 
+\begin{letter}{$CustomerName \\ 
+               $CustomerStreet \\ 
+               $CustomerZip} 
+\opening{Invoice no. $Number} 
+Dear customer,
 
-%RECEIVER INFORMATION
-%---------------------------------------
-\begin{minipage}[t]{0.5\textwidth}
-	\begin{flushleft}
-	%---------------------------------------
-	 	\textbf{\large Michelle   Schreiber } \\
-		{\large Scheidswald str 61}\\
-		{\large 16366, Denver, Guangdong, Russia}\\
-	%---------------------------------------
-	\end{flushleft}
-\end{minipage}
-%
-\begin{minipage}[t]{0.5\textwidth}
- 	\begin{flushright} 	
- 	%---------------------------------------
-		\textbf{\large Invoice Number:} 231001\\
-		\textbf{\large Date:} 18 April 2020\\		
-		%---------------------------------------
- 	\end{flushright}
-\end{minipage}%
-%
-%---------------------------------------
-\begin{longtable}{cp{4.0cm}rrrr}
-\toprule
-Item   &Description &  &Price  & Qty & Total \\
-\midrule
-    \product{Computer peripherals}{€}{1000.00}{1}
-    \product{Harddisk 2000E}{€}{2000}{1}
-    \product{The \TeX book}{€}{100.00}{100}
-    \product{Mouse Four}{€}{5000.00}{1}
-    \product{Keyboard Five}{€}{5000.00}{2}
-\midrule
-    &&&&& Total \totalttc\\
-\bottomrule
-\end{longtable}
-\end{document}
+... 
+
+\begin{invoice}{Euro}{0} 
+\ProjectTitle{Example Project} 
+
+
+\end{invoice} 
+
+\closing{Best regards} 
+\end{letter} 
+\end{document} 

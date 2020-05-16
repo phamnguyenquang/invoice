@@ -13,14 +13,13 @@ public class App {
 
 	public static void main(String[] args) {
 		TrainingPdfGenerator pdfgen = new TrainingPdfGenerator("HomogeneousInvoice.tex", "GenericInvoice", 1, 0);
-		for (int i = 0; i < 10; ++i) {
-			String name = "GenericInvoice" + Integer.toString(i);
+		for (int i = 0; i < 1000; ++i) {
+			String name = "NonGenericInvoice" + Integer.toString(i);
 			pdfgen.setPdfName(name);
 			pdfgen.generateData();
 		}
 
 		// Misc, convert PDF to Image
-//		new PdfToImage("/home/quang/2.pdf");
 		// Extracting pdf
 		new pdf2html("resources/pdf/", "resources/html/");
 		new MassDataExtractor("resources/html/", "resources/coreNLP/data/original/").extract();

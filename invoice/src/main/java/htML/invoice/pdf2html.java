@@ -34,20 +34,22 @@ public class pdf2html {
 			File list = new File(dir);
 
 			for (File f : list.listFiles()) {
-				System.out.println("processing: " + f.getName());
-				output = new File(outDir + f.getName().replace(".pdf", "") + ".html");
-				writer = new BufferedWriter(new FileWriter(output));
-				InputStream is = new FileInputStream(dir + f.getName());// ..... Read PDF
-																		// file
-				PDDocument pdd = PDDocument.load(is); // This is the in-memory representation of the PDF document.
-				PDFText2HTML converter = new PDFText2HTML(); // the converter
+				if (!f.isDirectory()) {
+					System.out.println("processing: " + f.getName());
+					output = new File(outDir + f.getName().replace(".pdf", "") + ".html");
+					writer = new BufferedWriter(new FileWriter(output));
+					InputStream is = new FileInputStream(dir + f.getName());// ..... Read PDF
+																			// file
+					PDDocument pdd = PDDocument.load(is); // This is the in-memory representation of the PDF document.
+					PDFText2HTML converter = new PDFText2HTML(); // the converter
 //				converter.setSortByPosition(true);
-				String html = converter.getText(pdd); // That's it!
-				System.out.println(html);
-				writer.append(html);
-				pdd.close();
-				is.close();
-				writer.close();
+					String html = converter.getText(pdd); // That's it!
+					System.out.println(html);
+					writer.append(html);
+					pdd.close();
+					is.close();
+					writer.close();
+				}
 			}
 
 		} catch (Exception e) {
