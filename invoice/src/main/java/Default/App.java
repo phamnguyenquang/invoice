@@ -24,7 +24,7 @@ public class App {
 		new pdf2html("resources/pdf/", "resources/html/");
 		new MassDataExtractor("resources/html/", "resources/coreNLP/data/original/").extract();
 //		new CoreNlpPreprocess("unlabelled_invoices.txt","neural")
-//				.doWork();
+//				.doWork();t
 //		new TagSwitcher("/resources/html/2.html").doWork();
 //		PythonModel test = new PythonModel("tokenizer.json", "model_config.json","model_weights.h5", 100);
 //		test.GetPredictResult("resources/coreNLP/data/temp/unlabelled_invoices.txt");

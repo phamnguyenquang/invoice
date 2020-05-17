@@ -17,6 +17,7 @@ public class DictionaryReader {
 	private String CitiesPath;
 	private String StatePath;
 	private String CountryPath;
+	private String MiddleNamePath;
 	// ------------------------------
 	// Reader and file
 	private BufferedReader fileReader;
@@ -26,6 +27,7 @@ public class DictionaryReader {
 	private File Cities;
 	private File States;
 	private File Countries;
+	private File MiddleName;
 
 	// ------------------------------
 	// counters
@@ -35,6 +37,7 @@ public class DictionaryReader {
 	private int Csize;
 	private int CitySize;
 	private int StateSize;
+	private int MidNameSize;
 
 	public DictionaryReader(String dicDir) {
 //		String dicDir = new ClassPathResource(dictDir).getPath();
@@ -44,6 +47,7 @@ public class DictionaryReader {
 		CitiesPath = dicDir + "Cities.txt";
 		StatePath = dicDir + "States.txt";
 		CountryPath = dicDir + "Countries.txt";
+		MiddleNamePath = dicDir + "MidName.txt";
 		try {
 			Name = new File(NamePath);
 			SureName = new File(SureNamePath);
@@ -51,12 +55,14 @@ public class DictionaryReader {
 			Cities = new File(CitiesPath);
 			States = new File(StatePath);
 			Countries = new File(CountryPath);
+			MiddleName = new File(MiddleNamePath);
 			nSize = getSize(Name);
 			snSize = getSize(SureName);
 			Osize = getSize(Organization);
 			CitySize = getSize(Cities);
 			StateSize = getSize(States);
 			Csize = getSize(Countries);
+			MidNameSize = getSize(MiddleName);
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -100,6 +106,12 @@ public class DictionaryReader {
 		return line;
 	}
 
+	public String getRandomMiddleName() {
+		int i = ThreadLocalRandom.current().nextInt(0, MidNameSize);
+		String line = getLineContent(MiddleName, i);
+		return line;
+	}
+
 	public String getRandomSureName() {
 		int i = ThreadLocalRandom.current().nextInt(0, snSize);
 		String line = getLineContent(SureName, i);
@@ -127,6 +139,43 @@ public class DictionaryReader {
 	public String getRandomStatte() {
 		int i = ThreadLocalRandom.current().nextInt(0, StateSize);
 		String line = getLineContent(States, i);
+		return line;
+	}
+
+	// -----------------------------------------------------------
+	// controlled output from List
+	public String getSureNameAt(int index) {
+		String line = getLineContent(SureName, index);
+		return line;
+	}
+
+	public String getMidNameAt(int index) {
+		String line = getLineContent(MiddleName, index);
+		return line;
+	}
+
+	public String getNameAt(int index) {
+		String line = getLineContent(Name, index);
+		return line;
+	}
+
+	public String getCompanyAt(int index) {
+		String line = getLineContent(Organization, index);
+		return line;
+	}
+
+	public String getStateAt(int index) {
+		String line = getLineContent(States, index);
+		return line;
+	}
+
+	public String getCityAt(int index) {
+		String line = getLineContent(Cities, index);
+		return line;
+	}
+
+	public String getCountrAt(int index) {
+		String line = getLineContent(Countries, index);
 		return line;
 	}
 
