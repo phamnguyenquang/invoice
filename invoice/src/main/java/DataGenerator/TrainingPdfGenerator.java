@@ -22,32 +22,36 @@ public class TrainingPdfGenerator {
 	private void generateSenderNameContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName();
-		SenderAddress = "Scheidswald str 61, ";
-		SenderLocation = Integer.toString(i)+", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
+//		SenderAddress = "Scheidswald str 61, ";
+		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
+		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
 	}
 
 	private void generateSenderCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + "Ltd";
-		SenderAddress = "Scheidswald str 61";
-		SenderLocation = Integer.toString(i)+", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
+//		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + "Ltd";
+		SenderName = name.getRandomCompanyName();
+		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
+		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
 	}
 
 	private void generateRecNameContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName();
-		ReceiverAddress = "Scheidswald str 61";
-		ReceiverLocation = Integer.toString(i)+", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
+//		ReceiverAddress = "Scheidswald str 61";
+		ReceiverAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
+		ReceiverLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
 	}
 
 	private void generateRecCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + "Ltd";
-		ReceiverAddress = "Scheidswald str 61";
-		ReceiverLocation = Integer.toString(i)+", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
+//		ReceiverAddress = "Scheidswald str 61";
+		ReceiverAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
+		ReceiverLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
 	}
 
