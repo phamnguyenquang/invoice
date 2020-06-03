@@ -53,10 +53,23 @@ public class LatexTemplateParser {
 		initialize();
 	}
 
+	public void setPdfPath(String name) {
+		pdfOutPath = name;
+		File f = new File(pdfOutPath);
+		if (!f.exists() || !f.isDirectory()) {
+			f.mkdir();
+		}
+		initialize();
+	}
+
 	public void setSenderInfo(String senderName, String senderAddr, String senderLocation) {
 		converter.replace("SenderName", senderName);
 		converter.replace("SenderAddr", senderAddr);
 		converter.replace("SenderLocation", senderLocation);
+	}
+
+	public void setDate(String date) {
+		converter.replace("Date", date);
 	}
 
 	public void setReceiverInfo(String receiverName, String receiverAddr, String receiverLocation) {

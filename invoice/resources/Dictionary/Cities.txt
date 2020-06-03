@@ -48,3 +48,4 @@ Lisbon
 Budapest
 Denver
 Philadelphia
+Bangkok

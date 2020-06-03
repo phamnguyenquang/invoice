@@ -25,7 +25,7 @@ public class NameAssessment {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public NameAssessment(String dir) {
 		AssessDir = dir;
 		try {
@@ -35,7 +35,6 @@ public class NameAssessment {
 			e.printStackTrace();
 		}
 	}
-
 
 	private void doWork() {
 		try {
@@ -53,8 +52,8 @@ public class NameAssessment {
 				if (fileContent.get(i) != " ") {
 					sentence = split2(fileContent.get(i), 5);
 					System.out.println(sentence.get(1));
-					if (sentence.get(0).toLowerCase().contains("per") && sentence.get(1).toLowerCase().contains("per")
-							&& sentence.get(2).toLowerCase().contains("per")) {
+					if (sentence.get(0).toLowerCase().contains("person")
+							&& sentence.get(1).toLowerCase().contains("person")) {
 						anomaly++;
 					}
 				}

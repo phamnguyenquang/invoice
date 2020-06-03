@@ -18,6 +18,9 @@ public class DictionaryReader {
 	private String StatePath;
 	private String CountryPath;
 	private String MiddleNamePath;
+	private String[] months = { "January", "February", "March", "April", "May", "June", "July", "August", "September",
+			"October", "November", "December", "Jan", "Feb", "Mar", "Apr", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov",
+			"Dec" };
 	// ------------------------------
 	// Reader and file
 	private BufferedReader fileReader;
@@ -38,6 +41,7 @@ public class DictionaryReader {
 	private int CitySize;
 	private int StateSize;
 	private int MidNameSize;
+	private int monthSize = months.length;
 
 	public DictionaryReader(String dicDir) {
 //		String dicDir = new ClassPathResource(dictDir).getPath();
@@ -106,6 +110,17 @@ public class DictionaryReader {
 		return line;
 	}
 
+	public String getGeneratedCompanyName(String endWord) {
+		int i = ThreadLocalRandom.current().nextInt(0, snSize);
+		String line = getLineContent(SureName, i);
+		line += " ";
+		i = ThreadLocalRandom.current().nextInt(0, nSize);
+		line += getLineContent(Name, i);
+		line += " ";
+		line += endWord;
+		return line;
+	}
+
 	public String getRandomMiddleName() {
 		int i = ThreadLocalRandom.current().nextInt(0, MidNameSize);
 		String line = getLineContent(MiddleName, i);
@@ -139,6 +154,15 @@ public class DictionaryReader {
 	public String getRandomStatte() {
 		int i = ThreadLocalRandom.current().nextInt(0, StateSize);
 		String line = getLineContent(States, i);
+		return line;
+	}
+
+	public String getRandomDate() {
+		String line = "";
+		int i = ThreadLocalRandom.current().nextInt(0, monthSize);
+		int j = ThreadLocalRandom.current().nextInt(0, 31);
+		int k = ThreadLocalRandom.current().nextInt(2000, 3000);
+		line = Integer.toString(j) + ", " + months[i] + ", " + Integer.toString(k);
 		return line;
 	}
 

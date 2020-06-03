@@ -7,6 +7,7 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import org.apache.hadoop.hdfs.protocol.proto.ClientNamenodeProtocolProtos.MkdirsRequestProto;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.tools.PDFText2HTML;
 import org.nd4j.linalg.io.ClassPathResource;
@@ -22,6 +23,10 @@ public class pdf2html {
 		try {
 			dir = new ClassPathResource(baseDir).getPath();
 			outDir = new ClassPathResource(out).getPath();
+			File f = new File(outDir);
+			if (!f.exists() || !f.isDirectory()) {
+				f.mkdir();
+			}
 			dowork();
 		} catch (Exception e) {
 			e.printStackTrace();

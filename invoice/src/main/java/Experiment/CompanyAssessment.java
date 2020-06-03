@@ -63,7 +63,7 @@ public class CompanyAssessment {
 			System.out.println("size " + total);
 			System.out.println("correct data " + correct);
 			double accuracy = correct / total;
-			System.out.println("name Percentage: " + accuracy);
+			System.out.println("org Percentage: " + accuracy);
 			result = accuracy;
 		} catch (Exception e) {
 			e.printStackTrace();
