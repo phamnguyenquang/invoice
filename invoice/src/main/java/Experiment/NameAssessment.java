@@ -16,6 +16,7 @@ public class NameAssessment {
 	private List<String> fileContent = new ArrayList<String>();
 	private BufferedReader reader;
 	private double result;
+	private Pattern namePattern;
 
 	public NameAssessment() {
 		try {
@@ -38,6 +39,8 @@ public class NameAssessment {
 
 	private void doWork() {
 		try {
+			namePattern = Pattern.compile("^(PERSON)[\\s](PERSON)[\\s](PERSON)[\\s]");
+//			namePattern = Pattern.compile("^((PERSON)[\\s])+");
 			String line = reader.readLine();
 			int anomaly = 0;
 			ArrayList<String> sentence = new ArrayList<String>();
@@ -52,8 +55,7 @@ public class NameAssessment {
 				if (fileContent.get(i) != " ") {
 					sentence = split2(fileContent.get(i), 5);
 					System.out.println(sentence.get(1));
-					if (sentence.get(0).toLowerCase().contains("person")
-							&& sentence.get(1).toLowerCase().contains("person")) {
+					if (namePattern.matcher(fileContent.get(i)).find()) {
 						anomaly++;
 					}
 				}

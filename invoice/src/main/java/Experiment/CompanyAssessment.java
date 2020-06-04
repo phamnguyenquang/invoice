@@ -16,10 +16,13 @@ public class CompanyAssessment {
 	private List<String> fileContent = new ArrayList<String>();
 	private BufferedReader reader;
 	private double result;
+	private Pattern CompanyPattern;
 
 	public CompanyAssessment() {
 		try {
 			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
+//			CompanyPattern = Pattern.compile("^(ORGANIZATION)[\\s](ORGANIZATION)[\\s]((ORGANIZATION)[\\s])+");
+			CompanyPattern = Pattern.compile("^((ORGANIZATION)[\\s])+");
 			doWork();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -51,10 +54,7 @@ public class CompanyAssessment {
 			for (int i = 0; i < fileContent.size(); ++i) {
 				if (fileContent.get(i) != " ") {
 					sentence = split2(fileContent.get(i), 5);
-					if (sentence.get(0).toLowerCase().contains("organization")
-							&& sentence.get(1).toLowerCase().contains("organization")
-							&& sentence.get(2).toLowerCase().contains("organization")
-							&& sentence.get(3).toLowerCase().contains("organization")) {
+					if (CompanyPattern.matcher(fileContent.get(i)).find()) {
 						correct++;
 					}
 				}

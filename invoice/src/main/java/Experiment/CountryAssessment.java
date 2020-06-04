@@ -17,6 +17,7 @@ public class CountryAssessment {
 	private List<String> fileContent = new ArrayList<String>();
 	private BufferedReader reader;
 	private double result;
+	
 
 	public CountryAssessment() {
 		try {

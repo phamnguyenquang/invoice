@@ -24,11 +24,11 @@ public class MassDataEvaluator {
 	private BufferedReader reader2;
 	private List<String> first;
 	private List<String> second;
-	Pattern datePattern;
-	Pattern CompanyPattern;
-	Pattern PersonPattern;
-	Pattern LocationPattern;
-	Matcher matcher;
+	private Pattern datePattern;
+	private Pattern CompanyPattern;
+	private Pattern PersonPattern;
+	private Pattern LocationPattern;
+	private Matcher matcher;
 
 	public MassDataEvaluator(String dir) {
 		LogDir = dir;
