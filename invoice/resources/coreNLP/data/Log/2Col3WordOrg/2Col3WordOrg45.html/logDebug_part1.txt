@@ -1,0 +1,3 @@
+Daisy 93 86817, San Francisco, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

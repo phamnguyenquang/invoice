@@ -1,0 +1,3 @@
+Alice 37 70203, Boston, Bangkok,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

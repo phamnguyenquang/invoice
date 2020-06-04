@@ -1,0 +1,3 @@
+Katelyn James Ström Inc Angelina 97 49113, Taipei, Tuscany, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,O,ORGANIZATION,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

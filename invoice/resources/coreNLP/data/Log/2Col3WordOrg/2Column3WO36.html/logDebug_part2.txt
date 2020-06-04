@@ -1,0 +1,3 @@
+Stella 19 35955, Chicago, Tuscany,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

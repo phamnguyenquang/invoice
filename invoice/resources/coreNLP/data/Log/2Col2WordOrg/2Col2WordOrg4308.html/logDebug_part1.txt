@@ -1,0 +1,3 @@
+Claire 28 81890, Moscow, Buriam,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

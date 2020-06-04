@@ -1,0 +1,3 @@
+Faith Victoria Nordström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

@@ -1,0 +1,3 @@
+Adrian Arvidsson Kylie 7 81593, Florence, Floria, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

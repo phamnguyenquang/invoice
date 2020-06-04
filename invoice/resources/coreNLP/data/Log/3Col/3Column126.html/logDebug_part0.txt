@@ -1,0 +1,3 @@
+Télécom ParisTech Amelia 23 29003, Singapore, Heibei, Denmark email@example.net
+O,O,O,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,COUNTRY,LOCATION,COUNTRY,URL,O
+

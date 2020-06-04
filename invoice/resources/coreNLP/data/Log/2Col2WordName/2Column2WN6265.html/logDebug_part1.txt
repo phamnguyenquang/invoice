@@ -1,0 +1,3 @@
+Marcus 88 87894, Berlin, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

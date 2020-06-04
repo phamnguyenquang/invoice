@@ -1,0 +1,3 @@
+31450, Stuttgart, Saarland, Ireland
+NUMBER,CITY,LOCATION,COUNTRY
+

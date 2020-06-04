@@ -1,0 +1,3 @@
+Zoey Björk Kenneth 51 51808, Minsk, Guang- dong, laos
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,O
+

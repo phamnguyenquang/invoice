@@ -1,0 +1,3 @@
+Juan Pålsson Mya 54 65939, Sydney, Floria, Italy Invoice Number: 231001
+PERSON,O,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

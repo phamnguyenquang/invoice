@@ -1,0 +1,3 @@
+Carter Bergqvist Jessica 19 78110, Stuttgart, Amnat Charoen, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Clara 70 39440, Munich, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

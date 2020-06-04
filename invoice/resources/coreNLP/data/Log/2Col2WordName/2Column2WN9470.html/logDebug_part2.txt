@@ -1,0 +1,3 @@
+Jordyn John Lundberg Inc Ezra 12 86314, Venice, Bangkok, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

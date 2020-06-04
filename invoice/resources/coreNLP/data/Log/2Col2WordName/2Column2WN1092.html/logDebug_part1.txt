@@ -1,0 +1,3 @@
+Joseph 82 53628, Los Angeles, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

@@ -1,0 +1,3 @@
+Valeria 57 48100, Osaka, Kentucky, South
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

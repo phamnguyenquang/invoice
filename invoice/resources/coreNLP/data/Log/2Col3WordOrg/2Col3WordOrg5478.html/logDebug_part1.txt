@@ -1,0 +1,3 @@
+49287, Taipei, Bayern, Switzerland
+NUMBER,CITY,LOCATION,COUNTRY
+

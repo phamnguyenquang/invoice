@@ -1,0 +1,3 @@
+Maddox Wallin Jeremiah 86 35128, Rome, Hessen, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

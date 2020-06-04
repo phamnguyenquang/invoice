@@ -1,0 +1,3 @@
+Bennett Löfgren Paige 88 63680, Frankfurt am Main , Huabei, Japan Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

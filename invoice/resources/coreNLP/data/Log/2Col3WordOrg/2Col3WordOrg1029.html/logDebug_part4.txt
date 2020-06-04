@@ -1,0 +1,3 @@
+Kylie Strömberg Ximena 98 48209, Frankfurt am Main , Guangzhou, VietNam Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,O,CITY,COUNTRY,O,O,NUMBER
+

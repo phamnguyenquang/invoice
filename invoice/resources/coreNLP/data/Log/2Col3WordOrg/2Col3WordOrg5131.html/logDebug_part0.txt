@@ -1,0 +1,3 @@
+Eva Kate Lundström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

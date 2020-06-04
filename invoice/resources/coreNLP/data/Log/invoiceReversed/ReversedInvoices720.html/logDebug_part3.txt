@@ -1,0 +1,3 @@
+Mark Eriksson Avery 65 51013, Stuttgart, Tuscany, Canada
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

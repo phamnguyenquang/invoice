@@ -1,0 +1,3 @@
+Kai 64 70404, Barcelona, khanh Hoa,
+O,NUMBER,NUMBER,ORGANIZATION,O,PERSON
+

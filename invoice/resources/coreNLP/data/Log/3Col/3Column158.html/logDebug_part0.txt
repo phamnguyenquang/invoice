@@ -1,0 +1,3 @@
+Hikari Tsushin Adrian 32 12971, Berlin, Chiang Rai, Ireland email@example.net
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,URL,O
+

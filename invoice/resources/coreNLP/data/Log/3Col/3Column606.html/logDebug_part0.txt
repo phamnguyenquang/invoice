@@ -1,0 +1,3 @@
+Sensis Adeline 54 17381, San Francisco, Bayern, Turkey email@example.net
+PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,URL,O
+

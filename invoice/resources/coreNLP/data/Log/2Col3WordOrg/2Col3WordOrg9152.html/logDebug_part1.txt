@@ -1,0 +1,3 @@
+Alexander 6 76548, Munich, Bremen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+48072, Frankfurt am Main , Hessen, ThaiLand
+NUMBER,CITY,O,O,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Charlotte Öberg Taylor 84 39600, Osaka, Hawaii, Argentina Invoice Number: 231001
+CITY,O,PERSON,NUMBER,NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

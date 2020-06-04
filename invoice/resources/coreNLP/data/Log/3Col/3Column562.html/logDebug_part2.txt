@@ -1,0 +1,3 @@
+Zachary Fredriksson Stella 98 28842, Los Angeles, Bay- ern, Turkey
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,O,COUNTRY
+

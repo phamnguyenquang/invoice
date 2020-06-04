@@ -1,0 +1,3 @@
+Everett 54 71623, Boston, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

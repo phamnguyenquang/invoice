@@ -1,0 +1,3 @@
+John Åberg Jameson 52 49254, Vancouver, Indi- ana, Japan
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY
+

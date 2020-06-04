@@ -1,0 +1,3 @@
+Madeline 96 88567, Los Angeles, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

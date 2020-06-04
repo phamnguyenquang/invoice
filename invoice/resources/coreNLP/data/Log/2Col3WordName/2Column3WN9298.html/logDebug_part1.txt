@@ -1,0 +1,3 @@
+John 70 70954, Last Vegas, Bangkok,
+PERSON,NUMBER,NUMBER,O,O,CITY
+

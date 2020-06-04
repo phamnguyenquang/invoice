@@ -1,0 +1,3 @@
+Alaina 66 81525, Vancouver, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

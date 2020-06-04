@@ -1,0 +1,3 @@
+66905, Berlin, Amnat Charoen, Germany
+NUMBER,CITY,CITY,CITY,COUNTRY
+

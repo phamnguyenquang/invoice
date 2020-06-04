@@ -1,0 +1,3 @@
+Adeline 93 13808, Munich, Hawaii, South
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

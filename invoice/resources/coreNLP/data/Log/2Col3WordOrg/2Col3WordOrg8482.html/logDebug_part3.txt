@@ -1,0 +1,3 @@
+Victor Berggren Leonardo 41 37455, Vancouver, khanh Hoa, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,LOCATION,COUNTRY,O,O,NUMBER
+

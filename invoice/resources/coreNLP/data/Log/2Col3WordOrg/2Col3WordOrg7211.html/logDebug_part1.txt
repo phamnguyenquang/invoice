@@ -1,0 +1,3 @@
+Catherine 43 75373, Minsk, Tuscany, Japan
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

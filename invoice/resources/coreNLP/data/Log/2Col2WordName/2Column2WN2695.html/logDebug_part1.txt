@@ -1,0 +1,3 @@
+95307, Bonn, Bayern, Switzerland
+NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Alan 30 96582, San Francisco, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

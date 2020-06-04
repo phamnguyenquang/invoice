@@ -1,0 +1,3 @@
+Julian Hansen Josiah 23 71692, Istanbul, Bayern, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Savannah Öberg Paige 68 68130, Vienna, Saarland, Singapore Invoice Number: 231001
+CITY,O,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

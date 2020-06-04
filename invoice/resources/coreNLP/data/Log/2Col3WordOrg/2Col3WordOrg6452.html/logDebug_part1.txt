@@ -1,0 +1,3 @@
+Wyatt 47 22095, Last Vegas, Buriam,
+PERSON,NUMBER,NUMBER,O,O,O
+

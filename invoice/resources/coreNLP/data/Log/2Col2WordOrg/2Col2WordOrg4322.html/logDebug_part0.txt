@@ -1,0 +1,3 @@
+Aidan Sandström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

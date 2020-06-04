@@ -1,0 +1,3 @@
+Andrew 36 92417, Los Angeles, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

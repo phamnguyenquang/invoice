@@ -1,0 +1,3 @@
+Gabriel 67 25442, Osaka, Bangkok, Saudi
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

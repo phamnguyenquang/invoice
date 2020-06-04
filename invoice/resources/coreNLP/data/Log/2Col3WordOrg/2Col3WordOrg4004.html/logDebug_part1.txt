@@ -1,0 +1,3 @@
+Nathan 46 54476, Hanoi, Buriam, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

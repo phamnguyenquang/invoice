@@ -1,0 +1,3 @@
+Adrian 83 54214, Minsk, Bayern, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

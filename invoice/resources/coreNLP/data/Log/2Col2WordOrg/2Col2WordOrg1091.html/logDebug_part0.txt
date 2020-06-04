@@ -1,0 +1,3 @@
+Bradley Lindström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

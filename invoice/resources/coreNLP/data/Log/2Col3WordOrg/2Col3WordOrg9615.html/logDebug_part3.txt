@@ -1,0 +1,3 @@
+Valentina Dahl Stella 30 24296, Los Angeles, Hawaii, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

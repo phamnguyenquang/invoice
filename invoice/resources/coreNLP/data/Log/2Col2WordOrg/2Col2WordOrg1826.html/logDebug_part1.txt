@@ -1,0 +1,3 @@
+Bryson 66 95769, Venice, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

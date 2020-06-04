@@ -1,0 +1,3 @@
+Emery Bergman Elizabeth 96 44596, Berlin, Buriam, South Africa Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

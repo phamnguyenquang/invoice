@@ -1,0 +1,3 @@
+Kennedy 79 57922, Vienna, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

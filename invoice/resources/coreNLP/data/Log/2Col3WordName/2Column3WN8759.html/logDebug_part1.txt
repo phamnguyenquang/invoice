@@ -1,0 +1,3 @@
+Valerie 14 45645, Vancouver, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

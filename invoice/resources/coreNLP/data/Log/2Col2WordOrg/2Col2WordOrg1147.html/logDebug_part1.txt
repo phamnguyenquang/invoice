@@ -1,0 +1,3 @@
+Alexis 13 96395, Moscow, Buriam,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

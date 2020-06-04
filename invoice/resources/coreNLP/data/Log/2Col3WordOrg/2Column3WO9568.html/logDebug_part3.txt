@@ -1,0 +1,3 @@
+Vanessa Bengtsson Elias 19 98484, Taipei, Bayern, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,DATE,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

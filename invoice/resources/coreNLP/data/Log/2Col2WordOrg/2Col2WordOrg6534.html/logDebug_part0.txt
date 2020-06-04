@@ -1,0 +1,3 @@
+Victor Lindström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

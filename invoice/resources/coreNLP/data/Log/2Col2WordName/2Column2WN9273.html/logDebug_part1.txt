@@ -1,0 +1,3 @@
+69878, Moscow, Hamburg, ThaiLand
+NUMBER,CITY,CITY,COUNTRY
+

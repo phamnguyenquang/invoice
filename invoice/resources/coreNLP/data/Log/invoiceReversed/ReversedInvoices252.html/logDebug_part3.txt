@@ -1,0 +1,3 @@
+Summer Bengtsson Summer 47 61608, Minsk, Hessen, Cambodia
+DATE,PERSON,DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

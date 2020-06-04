@@ -1,0 +1,3 @@
+Leo Sandström Inc
+PERSON,PERSON,O,ORGANIZATION
+

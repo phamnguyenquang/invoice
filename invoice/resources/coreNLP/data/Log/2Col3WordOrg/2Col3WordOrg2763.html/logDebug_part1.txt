@@ -1,0 +1,3 @@
+Michelle 19 92836, Osaka, Guangzhou,
+PERSON,NUMBER,NUMBER,LOCATION,CITY
+

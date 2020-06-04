@@ -1,0 +1,3 @@
+Adam 68 90076, Amsterdam, Floria,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

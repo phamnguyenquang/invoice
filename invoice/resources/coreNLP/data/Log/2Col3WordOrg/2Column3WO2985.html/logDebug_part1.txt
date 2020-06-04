@@ -1,0 +1,3 @@
+Kimberly 31 96233, Berlin, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

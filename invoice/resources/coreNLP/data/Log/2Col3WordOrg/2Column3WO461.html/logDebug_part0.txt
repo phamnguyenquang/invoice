@@ -1,0 +1,3 @@
+Lincoln Kate Engström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

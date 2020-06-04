@@ -1,0 +1,3 @@
+Eric 58 97466, Lisbon, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

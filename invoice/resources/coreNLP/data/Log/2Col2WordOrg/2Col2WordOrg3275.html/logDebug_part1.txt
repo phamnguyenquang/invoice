@@ -1,0 +1,3 @@
+Roman 19 62835, Munich, Bangkok,
+MISC,NUMBER,NUMBER,PERSON,PERSON
+

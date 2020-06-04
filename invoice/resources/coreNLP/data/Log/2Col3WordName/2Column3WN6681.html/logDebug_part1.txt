@@ -1,0 +1,3 @@
+Joseph 88 80914, Amsterdam, Kentucky,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

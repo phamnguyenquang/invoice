@@ -1,0 +1,3 @@
+Valeria Öberg Adeline 67 76888, Sydney, Chiang Mai, United Kingdom Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

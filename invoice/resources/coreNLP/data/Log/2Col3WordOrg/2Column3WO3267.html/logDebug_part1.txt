@@ -1,0 +1,3 @@
+Samuel 97 15019, Budapest, Amnat
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

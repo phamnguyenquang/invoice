@@ -1,0 +1,3 @@
+Jennifer Bergqvist Vivian 65 18839, San Francisco, Binh Thuan, Cambodia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,LOCATION,COUNTRY
+

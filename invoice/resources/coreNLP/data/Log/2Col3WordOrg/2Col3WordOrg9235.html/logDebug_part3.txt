@@ -1,0 +1,3 @@
+Giovanni Bergqvist Ezekiel 69 45578, Los Angeles, Tuscany, United Kingdom Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

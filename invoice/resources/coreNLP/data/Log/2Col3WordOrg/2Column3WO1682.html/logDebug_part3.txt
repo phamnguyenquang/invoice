@@ -1,0 +1,3 @@
+Sebastian Sandberg Mariah 60 53218, Dublin, Hessen, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

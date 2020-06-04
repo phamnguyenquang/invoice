@@ -1,0 +1,3 @@
+Kenneth 98 75440, Munich, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

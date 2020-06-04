@@ -1,0 +1,3 @@
+Brody Eriksson Natalie 2 39930, Vienna, Huabei, ThaiLand
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

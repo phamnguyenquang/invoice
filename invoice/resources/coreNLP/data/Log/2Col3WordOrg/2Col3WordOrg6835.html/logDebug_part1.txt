@@ -1,0 +1,3 @@
+Mackenzie 92 95362, Vancouver, Chai Nat,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

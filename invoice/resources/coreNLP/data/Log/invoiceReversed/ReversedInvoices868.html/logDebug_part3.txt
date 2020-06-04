@@ -1,0 +1,3 @@
+Avery Arvidsson Emmanuel 27 95078, Chicago, Bangkok, Saudi Arabia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY
+

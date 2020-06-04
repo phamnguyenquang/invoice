@@ -1,0 +1,3 @@
+Noah Eliasson Nicolas 17 83688, Toronto, khanh Hoa, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,O,O,NUMBER
+

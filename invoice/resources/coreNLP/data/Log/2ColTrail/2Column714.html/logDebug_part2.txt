@@ -1,0 +1,3 @@
+90716, Osaka, Bangkok, New Zealand
+NUMBER,LOCATION,CITY,COUNTRY,COUNTRY
+

@@ -1,0 +1,3 @@
+Nicole 92 41071, Paris, Tuscany, Argentina
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

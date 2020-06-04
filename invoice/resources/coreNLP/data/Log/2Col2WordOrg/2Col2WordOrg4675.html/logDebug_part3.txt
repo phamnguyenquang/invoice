@@ -1,0 +1,3 @@
+Ava Söderberg Savannah 54 73451, Los Angeles, Hamburg, Switzerland Invoice Number: 231001
+PERSON,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

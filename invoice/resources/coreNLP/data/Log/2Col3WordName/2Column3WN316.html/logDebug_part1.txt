@@ -1,0 +1,3 @@
+Samantha 64 12295, Moscow, Phu Yen,
+PERSON,NUMBER,NUMBER,CITY,O,O
+

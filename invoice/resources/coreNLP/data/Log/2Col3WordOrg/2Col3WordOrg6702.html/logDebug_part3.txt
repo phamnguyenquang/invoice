@@ -1,0 +1,3 @@
+Avery Hermansson Noah 66 16104, Rome, Tuscany, China Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

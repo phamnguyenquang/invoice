@@ -1,0 +1,3 @@
+Katherine 68 34248, Sydney, Hamburg, Mexico
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

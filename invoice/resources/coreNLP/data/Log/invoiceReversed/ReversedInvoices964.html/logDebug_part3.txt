@@ -1,0 +1,3 @@
+Christopher Berglund Vanessa 12 17073, Minsk, Tuscany, Brazil
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

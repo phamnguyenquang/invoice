@@ -1,0 +1,3 @@
+Destiny Jane Pålsson Inc Taylor 16 31854, Taipei, Saarland, France Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Eli Samuelsson Madison 27 60496, Frankfurt am Main , Indiana, Canada
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY
+

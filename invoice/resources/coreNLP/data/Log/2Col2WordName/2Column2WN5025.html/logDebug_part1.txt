@@ -1,0 +1,3 @@
+65304, Moscow, Huabei, China email@example.net Date: 18 April 2020
+NUMBER,CITY,LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
+

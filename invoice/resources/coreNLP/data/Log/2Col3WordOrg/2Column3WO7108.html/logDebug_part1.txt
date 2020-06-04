@@ -1,0 +1,3 @@
+Leonardo 55 89670, Osaka, khanh Hoa,
+PERSON,NUMBER,NUMBER,LOCATION,O,PERSON
+

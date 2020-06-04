@@ -1,0 +1,3 @@
+Kai Hansen Alexandra 73 23111, Taipei, Guangdong, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

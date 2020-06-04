@@ -1,0 +1,3 @@
+Bryan Fransson Brandon 39 38593, Tokyo, Huabei, Turkey
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

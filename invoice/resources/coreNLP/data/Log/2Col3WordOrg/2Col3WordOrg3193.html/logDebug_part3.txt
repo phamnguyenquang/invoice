@@ -1,0 +1,3 @@
+Mia Mårtensson Summer 45 80973, Minsk, Floria, laos Invoice Number: 231001
+PERSON,O,O,DATE,DATE,NUMBER,CITY,LOCATION,O,O,O,NUMBER
+

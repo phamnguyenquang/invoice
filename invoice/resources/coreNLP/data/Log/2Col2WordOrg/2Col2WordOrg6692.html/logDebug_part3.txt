@@ -1,0 +1,3 @@
+Jace Ekström Kyle 88 99016, Seoul, Chiang Rai, Denmark Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

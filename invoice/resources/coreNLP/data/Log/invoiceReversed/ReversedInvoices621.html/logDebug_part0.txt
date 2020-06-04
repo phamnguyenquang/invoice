@@ -1,0 +1,3 @@
+Invoice Gabriele d’Annunzio University
+O,PERSON,O,ORGANIZATION,ORGANIZATION
+

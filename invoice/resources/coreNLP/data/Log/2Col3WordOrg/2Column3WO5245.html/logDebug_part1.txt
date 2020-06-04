@@ -1,0 +1,3 @@
+Kennedy 47 19623, Melbourne, Binh Thuan,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Autumn 43 45407, Munich, Bayern, Turkey
+DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

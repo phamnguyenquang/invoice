@@ -1,0 +1,3 @@
+Angelina 78 85974, Tokyo, Chiang Rai,
+MISC,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

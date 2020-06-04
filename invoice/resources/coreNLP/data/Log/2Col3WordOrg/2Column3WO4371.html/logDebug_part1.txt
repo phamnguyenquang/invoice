@@ -1,0 +1,3 @@
+Leonardo 47 93256, Last Vegas, Bangkok,
+PERSON,NUMBER,NUMBER,O,O,CITY
+

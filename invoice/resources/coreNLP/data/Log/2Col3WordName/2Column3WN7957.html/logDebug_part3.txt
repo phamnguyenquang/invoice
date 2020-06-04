@@ -1,0 +1,3 @@
+Vanessa Jane Håkansson Ltd David 96 38549, Stuttgart, Guangzhou, laos Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,O,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Lydia Söderberg Rachel 74 25709, Denver, khanh Hoa, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,PERSON,COUNTRY,O,O,NUMBER
+

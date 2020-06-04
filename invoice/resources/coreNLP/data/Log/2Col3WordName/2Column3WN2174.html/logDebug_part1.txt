@@ -1,0 +1,3 @@
+Avery 50 42235, Last Vegas, Indiana,
+PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE
+

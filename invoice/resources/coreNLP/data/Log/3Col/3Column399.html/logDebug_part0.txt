@@ -1,0 +1,3 @@
+Viva Rose 60 85015, Berlin, Seattles, Brazil email@example.net
+PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,URL,O
+

@@ -1,0 +1,3 @@
+Julia 27 65375, Paris, khanh Hoa, Russia
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

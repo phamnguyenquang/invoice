@@ -1,0 +1,3 @@
+Micah Bergqvist Miguel 29 77816, Istanbul, Bangkok, Japan
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

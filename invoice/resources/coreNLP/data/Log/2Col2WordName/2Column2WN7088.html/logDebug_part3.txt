@@ -1,0 +1,3 @@
+Autumn William Hedlund Corp Kennedy 86 63685, Amsterdam, Hamburg, Switzerland Invoice Number: 231001
+DATE,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,COUNTRY,O,O,NUMBER
+

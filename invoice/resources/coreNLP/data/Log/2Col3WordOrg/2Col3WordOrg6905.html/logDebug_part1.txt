@@ -1,0 +1,3 @@
+Adriana 68 49011, Munich, Seattles,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Samantha 96 69299, Hanoi, Seattles, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Austin Pålsson Jayla 8 42053, Los Angeles, Hessen, Turkey Invoice Number: 231001
+O,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

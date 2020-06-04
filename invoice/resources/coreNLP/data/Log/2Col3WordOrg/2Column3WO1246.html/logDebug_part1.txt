@@ -1,0 +1,3 @@
+Emmanuel 62 15668, Rome, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

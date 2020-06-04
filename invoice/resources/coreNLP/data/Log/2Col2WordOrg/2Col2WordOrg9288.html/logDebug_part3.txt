@@ -1,0 +1,3 @@
+Nicolas Strömberg Melanie 75 86873, Vancouver, Hawaii, ThaiLand Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

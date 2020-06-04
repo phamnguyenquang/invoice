@@ -1,0 +1,3 @@
+Summer Nordin Connor 58 54844, Taipei, Ang Thong, South Africa Invoice Number: 231001
+DATE,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

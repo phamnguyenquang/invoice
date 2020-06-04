@@ -1,0 +1,3 @@
+Anthony 87 32176, Vancouver, Seattles,
+PERSON,NUMBER,NUMBER,O,O
+

@@ -1,0 +1,3 @@
+Eliza Lindholm Alice 5 90000, Ho Chi Minh, Bre- men, South Korea
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,O,COUNTRY,COUNTRY
+

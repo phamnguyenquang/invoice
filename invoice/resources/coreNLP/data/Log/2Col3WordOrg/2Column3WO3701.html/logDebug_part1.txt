@@ -1,0 +1,3 @@
+Nathaniel 64 24882, Bonn, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

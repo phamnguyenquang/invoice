@@ -1,0 +1,3 @@
+Makayla Söderberg Nathaniel 55 52494, Stuttgart, Saar- land, United Kingdom
+LOCATION,O,O,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,O,COUNTRY,COUNTRY
+

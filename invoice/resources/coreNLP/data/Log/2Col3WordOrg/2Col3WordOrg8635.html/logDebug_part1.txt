@@ -1,0 +1,3 @@
+Izabella 98 96080, Denver, Bayern, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Invoice Viettel Telecom Valerie 90
+O,O,O,PERSON,NUMBER
+

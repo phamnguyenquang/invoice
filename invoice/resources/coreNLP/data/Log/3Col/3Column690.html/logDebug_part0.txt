@@ -1,0 +1,3 @@
+Telenor Carter 41 29958, Lisbon, Chiang Rai, Turkey email@example.net
+PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,URL,O
+

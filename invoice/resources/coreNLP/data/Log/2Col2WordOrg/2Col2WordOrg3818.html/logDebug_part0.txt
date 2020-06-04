@@ -1,0 +1,3 @@
+Joel Hellström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

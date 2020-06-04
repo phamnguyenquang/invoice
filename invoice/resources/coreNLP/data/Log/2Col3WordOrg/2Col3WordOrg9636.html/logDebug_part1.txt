@@ -1,0 +1,3 @@
+Adalyn 7 27695, Minsk, Chai Nat,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Mackenzie 70 78805, Moscow, Bremen, France
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

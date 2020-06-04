@@ -1,0 +1,3 @@
+Nicole 20 95438, Los Angeles, Floria,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

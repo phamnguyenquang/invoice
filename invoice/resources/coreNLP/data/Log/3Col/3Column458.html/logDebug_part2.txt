@@ -1,0 +1,3 @@
+Adeline Pettersson Julian 14 84896, Shanghai, Hessen, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

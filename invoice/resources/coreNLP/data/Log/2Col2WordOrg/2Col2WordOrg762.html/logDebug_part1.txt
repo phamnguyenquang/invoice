@@ -1,0 +1,3 @@
+John 69 42234, Barcelona, Hawaii,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

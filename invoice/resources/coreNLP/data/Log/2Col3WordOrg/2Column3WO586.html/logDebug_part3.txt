@@ -1,0 +1,3 @@
+Chase Nordin Malachi 85 36329, Nha Trang, Seattles, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

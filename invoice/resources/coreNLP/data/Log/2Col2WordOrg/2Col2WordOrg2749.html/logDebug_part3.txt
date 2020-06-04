@@ -1,0 +1,3 @@
+Harper Söderberg Victoria 83 35935, SaiGon, Guangzhou, Australia Invoice Number: 231001
+PERSON,O,O,ORGANIZATION,NUMBER,NUMBER,LOCATION,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+23489, Munich, Seattles, United Kingdom
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
+

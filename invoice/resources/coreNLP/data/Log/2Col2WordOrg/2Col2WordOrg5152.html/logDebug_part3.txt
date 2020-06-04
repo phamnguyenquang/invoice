@@ -1,0 +1,3 @@
+Kayden Nyberg Violet 16 18213, Osaka, Amnat Charoen, Philippines Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,CITY,CITY,COUNTRY,O,O,NUMBER
+

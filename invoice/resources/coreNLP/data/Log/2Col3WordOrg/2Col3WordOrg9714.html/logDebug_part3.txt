@@ -1,0 +1,3 @@
+Nora Söderberg Brooklynn 5 68326, Berlin, Guangzhou, South Africa Invoice Number: 231001
+PERSON,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Eli 67 56931, Frankfurt am Main , Amnat Charoen, Singapore
+O,NUMBER,NUMBER,CITY,O,O,PERSON,PERSON,PERSON
+

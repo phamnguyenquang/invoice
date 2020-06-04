@@ -1,0 +1,3 @@
+Daniel 72 39064, Last Vegas, Chiang Mai,
+PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Kenneth 95 26505, Stuttgart, Bangkok,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+25743, Florence, Phu Yen, Russia email@example.net Date: 18 April 2020
+NUMBER,CITY,LOCATION,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+

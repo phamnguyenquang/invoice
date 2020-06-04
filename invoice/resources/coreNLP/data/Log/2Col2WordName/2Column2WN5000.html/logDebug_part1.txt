@@ -1,0 +1,3 @@
+13812, Minsk, Bayern, South Korea
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
+

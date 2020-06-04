@@ -1,0 +1,3 @@
+Julian James Nordström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

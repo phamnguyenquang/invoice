@@ -1,0 +1,3 @@
+Valentina Edward Åberg Pte Ltd Maverick 72 56875, Vancouver, Chai Nat, Indonesia s Invoice Number: 231001
+PERSON,PERSON,O,ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,O,NUMBER
+

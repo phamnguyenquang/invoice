@@ -1,0 +1,3 @@
+Harmony Söderberg Elena 18 73994, Ho Chi Minh, Floria, Saudi Arabia Invoice Number: 231001
+O,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,LOCATION,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

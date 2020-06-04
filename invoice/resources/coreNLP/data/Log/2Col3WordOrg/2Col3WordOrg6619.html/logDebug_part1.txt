@@ -1,0 +1,3 @@
+Valerie 83 78318, Istanbul, Floria, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Delilah Löfgren Charlotte 25 48208, Denver, Buriam, South Africa Invoice Number: 231001
+O,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

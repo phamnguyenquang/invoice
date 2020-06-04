@@ -1,0 +1,3 @@
+Ivan Thomas Wikström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

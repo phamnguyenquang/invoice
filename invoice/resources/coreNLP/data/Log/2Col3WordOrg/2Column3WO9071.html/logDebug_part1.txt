@@ -1,0 +1,3 @@
+Izabella 54 56499, Barcelona, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

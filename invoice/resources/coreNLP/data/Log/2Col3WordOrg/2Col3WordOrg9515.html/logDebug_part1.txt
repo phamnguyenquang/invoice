@@ -1,0 +1,3 @@
+Ariana 39 83625, Moscow, Bangkok, China
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

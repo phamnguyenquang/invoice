@@ -1,0 +1,3 @@
+Autumn Lindholm Natalia 25 44252, Sydney, Bremen, China Invoice Number: 231001
+DATE,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

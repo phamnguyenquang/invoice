@@ -1,0 +1,3 @@
+Faith Elizabeth Lindgren Inc Richard 13 61321, Amsterdam, Binh Thuan, New Zealand Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

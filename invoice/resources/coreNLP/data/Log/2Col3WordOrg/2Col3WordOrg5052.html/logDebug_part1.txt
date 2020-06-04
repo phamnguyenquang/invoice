@@ -1,0 +1,3 @@
+Julianna 85 88591, Osaka, khanh Hoa,
+PERSON,NUMBER,NUMBER,LOCATION,O,PERSON
+

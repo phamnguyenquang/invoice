@@ -1,0 +1,3 @@
+Catherine 7 42104, Minsk, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

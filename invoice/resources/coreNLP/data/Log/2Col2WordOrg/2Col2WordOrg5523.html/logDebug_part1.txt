@@ -1,0 +1,3 @@
+64211, Minsk, Hamburg, Switzerland
+NUMBER,CITY,CITY,COUNTRY
+

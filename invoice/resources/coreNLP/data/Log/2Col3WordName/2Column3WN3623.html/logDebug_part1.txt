@@ -1,0 +1,3 @@
+Lucas 20 39176, Hanoi, Seattles, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

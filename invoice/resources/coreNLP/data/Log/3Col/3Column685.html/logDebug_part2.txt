@@ -1,0 +1,3 @@
+Katherine Ahmed Nicolas 26 10797, Toronto, Tuscany, Turkey
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

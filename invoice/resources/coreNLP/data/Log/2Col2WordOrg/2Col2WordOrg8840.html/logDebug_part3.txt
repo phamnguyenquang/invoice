@@ -1,0 +1,3 @@
+Adrian Pålsson Ruby 25 57199, Florence, Indiana, ThaiLand Invoice Number: 231001
+PERSON,O,O,O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

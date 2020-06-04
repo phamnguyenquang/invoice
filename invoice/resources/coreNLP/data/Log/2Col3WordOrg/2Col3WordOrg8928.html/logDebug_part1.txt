@@ -1,0 +1,3 @@
+Adam 17 24800, Vienna, Buriam,
+O,NUMBER,NUMBER,PERSON,PERSON
+

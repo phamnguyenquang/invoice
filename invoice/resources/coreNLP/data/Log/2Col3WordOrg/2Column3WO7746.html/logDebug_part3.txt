@@ -1,0 +1,3 @@
+Jessica Håkansson Summer 15 79148, Los Angeles, Tuscany, China Invoice Number: 231001
+PERSON,O,O,DATE,DATE,NUMBER,CITY,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

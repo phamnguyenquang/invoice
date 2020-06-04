@@ -1,0 +1,3 @@
+Invoice Carl von Ossietzky
+O,PERSON,PERSON,PERSON
+

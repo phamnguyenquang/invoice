@@ -1,0 +1,3 @@
+Bradley Öberg Valerie 77 62980, Minsk, Huabei, Switzerland Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

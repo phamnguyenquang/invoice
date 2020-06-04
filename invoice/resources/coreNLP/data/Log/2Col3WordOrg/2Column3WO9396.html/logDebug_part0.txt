@@ -1,0 +1,3 @@
+Alan Elizabeth Sandström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

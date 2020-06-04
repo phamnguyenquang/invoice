@@ -1,0 +1,3 @@
+Axel 66 48250, Moscow, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

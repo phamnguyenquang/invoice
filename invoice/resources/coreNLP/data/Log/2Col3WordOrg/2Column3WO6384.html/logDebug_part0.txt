@@ -1,0 +1,3 @@
+Cole Robert Wikström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

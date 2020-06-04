@@ -1,0 +1,3 @@
+Avery 97 26487, Los Angeles, Tuscany,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

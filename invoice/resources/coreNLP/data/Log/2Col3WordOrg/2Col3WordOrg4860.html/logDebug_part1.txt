@@ -1,0 +1,3 @@
+Angelina 24 32683, Florence, Chiang Mai,
+MISC,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

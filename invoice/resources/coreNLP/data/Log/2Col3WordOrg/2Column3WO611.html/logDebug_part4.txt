@@ -1,0 +1,3 @@
+Mark Lindgren Kinsley 98 65482, Paris, Saarland, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

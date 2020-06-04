@@ -1,0 +1,3 @@
+Michael Eriksson Alexandra 46 32677, Stuttgart, Amnat Charoen, New Zealand
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
+

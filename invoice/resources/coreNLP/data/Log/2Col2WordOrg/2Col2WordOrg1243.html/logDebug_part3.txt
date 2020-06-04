@@ -1,0 +1,3 @@
+Summer Engström Benjamin 11 37171, Osaka, California, Ireland Invoice Number: 231001
+DATE,O,O,PERSON,NUMBER,NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

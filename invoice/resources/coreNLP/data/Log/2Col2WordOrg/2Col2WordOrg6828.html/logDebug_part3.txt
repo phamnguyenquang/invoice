@@ -1,0 +1,3 @@
+Sofia Andreasson Elena 79 68681, Montreal, Amnat Charoen, South Africa Invoice Number: 231001
+CITY,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

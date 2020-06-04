@@ -1,0 +1,3 @@
+Nicholas 45 42527, Stuttgart, Hessen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

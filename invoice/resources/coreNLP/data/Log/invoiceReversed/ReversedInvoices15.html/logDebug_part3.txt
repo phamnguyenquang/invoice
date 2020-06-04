@@ -1,0 +1,3 @@
+Xavier Söderberg Malachi 98 63164, Stuttgart, Buriam, Japan
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

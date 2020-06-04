@@ -1,0 +1,3 @@
+Nicolas 27 59581, Budapest, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

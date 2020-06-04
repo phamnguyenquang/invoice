@@ -1,0 +1,3 @@
+James 52 30850, Moscow, Bangkok, Turkey
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Rouen Normandy University Reagan 44 95615, Seoul, Guangzhou, Japan email@example.net
+ORGANIZATION,ORGANIZATION,ORGANIZATION,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O
+

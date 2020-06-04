@@ -1,0 +1,3 @@
+42096, Frankfurt am Main , Amnat Charoen, laos
+NUMBER,CITY,O,O,PERSON,PERSON,O
+

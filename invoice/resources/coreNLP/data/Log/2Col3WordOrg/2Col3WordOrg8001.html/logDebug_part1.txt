@@ -1,0 +1,3 @@
+Kai 45 34499, Shanghai, Ang Thong,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

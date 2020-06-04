@@ -1,0 +1,3 @@
+Ryker Andersson Antonio 19 57181, Venice, Chiang Rai, Indonesia s
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O
+

@@ -1,0 +1,3 @@
+Bradley 42 88517, Munich, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

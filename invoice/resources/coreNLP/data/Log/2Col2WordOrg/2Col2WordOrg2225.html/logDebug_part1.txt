@@ -1,0 +1,3 @@
+Nathan 29 74308, Barcelona, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

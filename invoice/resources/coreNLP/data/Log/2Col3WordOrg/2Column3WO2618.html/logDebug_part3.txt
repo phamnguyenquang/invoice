@@ -1,0 +1,3 @@
+Nicolas Arvidsson Oliver 49 62425, Minsk, Saarland, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

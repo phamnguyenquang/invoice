@@ -1,0 +1,3 @@
+Lindström Ltd Juan 62
+PERSON,O,ORGANIZATION,O,NUMBER
+

@@ -1,0 +1,3 @@
+Valerie 68 77268, Venice, Tuscany, Italy
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

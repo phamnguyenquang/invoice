@@ -1,0 +1,3 @@
+Joseph Hansen Jade 10 80901, Dublin, Huabei, laos Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,O,O,NUMBER
+

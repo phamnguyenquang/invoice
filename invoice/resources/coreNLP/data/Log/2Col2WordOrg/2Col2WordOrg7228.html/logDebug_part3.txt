@@ -1,0 +1,3 @@
+Anthony Månsson Patrick 66 13124, Singapore, Hessen, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,COUNTRY,LOCATION,COUNTRY,O,O,NUMBER
+

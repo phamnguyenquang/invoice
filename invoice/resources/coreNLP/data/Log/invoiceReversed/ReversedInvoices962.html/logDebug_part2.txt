@@ -1,0 +1,3 @@
+Vincent Fredriksson Daisy 8 60248, Taipei, Buriam, Cambodia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

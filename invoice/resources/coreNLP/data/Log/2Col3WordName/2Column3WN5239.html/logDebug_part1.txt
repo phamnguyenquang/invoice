@@ -1,0 +1,3 @@
+Nathan 41 33374, Moscow, Seattles, laos
+PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

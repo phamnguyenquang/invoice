@@ -1,0 +1,3 @@
+Hazel 7 89341, Minsk, Hamburg, Russia
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

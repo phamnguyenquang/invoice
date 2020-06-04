@@ -1,0 +1,3 @@
+Eric 85 27213, Barcelona, Hawaii,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

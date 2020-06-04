@@ -1,0 +1,3 @@
+Julia 66 81537, Berlin, Seattles, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

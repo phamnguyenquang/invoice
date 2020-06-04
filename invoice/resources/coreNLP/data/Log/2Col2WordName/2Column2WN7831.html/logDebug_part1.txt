@@ -1,0 +1,3 @@
+James 62 66630, Berlin, khanh Hoa, Japan
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

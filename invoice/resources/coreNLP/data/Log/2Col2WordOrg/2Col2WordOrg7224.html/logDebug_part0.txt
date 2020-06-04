@@ -1,0 +1,3 @@
+Alexis Bergström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

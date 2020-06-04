@@ -1,0 +1,3 @@
+87480, Florence, Bayern, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
+

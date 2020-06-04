@@ -1,0 +1,3 @@
+Summer 85 38747, Moscow, Amnat Charoen,
+DATE,NUMBER,NUMBER,CITY,PERSON,PERSON
+

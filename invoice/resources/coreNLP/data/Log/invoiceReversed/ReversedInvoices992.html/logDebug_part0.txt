@@ -1,0 +1,3 @@
+Invoice Wrocław University of Science and Technology
+O,O,O,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION
+

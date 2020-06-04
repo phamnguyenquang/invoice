@@ -1,0 +1,3 @@
+Sydney Karlsson Norah 22 74057, Venice, California, Canada
+CITY,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+

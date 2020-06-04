@@ -1,0 +1,3 @@
+Adriana 43 57149, Moscow, Binh Thuan,
+PERSON,NUMBER,NUMBER,CITY,PERSON,PERSON
+

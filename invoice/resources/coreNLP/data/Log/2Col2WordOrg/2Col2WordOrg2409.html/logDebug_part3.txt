@@ -1,0 +1,3 @@
+Nicole Gunnarsson Kaleb 50 60988, Istanbul, Saarland, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

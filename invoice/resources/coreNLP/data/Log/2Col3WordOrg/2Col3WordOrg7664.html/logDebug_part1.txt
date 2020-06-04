@@ -1,0 +1,3 @@
+Kendall 19 29476, San Francisco, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

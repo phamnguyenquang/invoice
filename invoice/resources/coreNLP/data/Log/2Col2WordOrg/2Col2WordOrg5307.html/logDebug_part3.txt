@@ -1,0 +1,3 @@
+Michelle Pålsson Andrea 90 84299, Moscow, khanh Hoa, Switzerland Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
+

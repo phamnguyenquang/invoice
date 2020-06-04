@@ -1,0 +1,3 @@
+Natalia Månsson Cooper 57 95778, Ho Chi Minh, Guangzhou, Argentina Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,CITY,COUNTRY,O,O,NUMBER
+

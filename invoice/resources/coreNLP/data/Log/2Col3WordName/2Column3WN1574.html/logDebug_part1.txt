@@ -1,0 +1,3 @@
+Avery 23 55902, Tokyo, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

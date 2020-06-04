@@ -1,0 +1,3 @@
+Josephine 98 39063, Minsk, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

@@ -1,0 +1,3 @@
+Kai 90 44875, Sydney, Amnat Charoen,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

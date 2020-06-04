@@ -1,0 +1,3 @@
+Cole Engström Roman 47 32023, Paris, Bremen, Denmark Invoice Number: 231001
+O,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

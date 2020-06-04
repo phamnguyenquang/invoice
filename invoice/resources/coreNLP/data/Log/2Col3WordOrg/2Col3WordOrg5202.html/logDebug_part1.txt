@@ -1,0 +1,3 @@
+Daniela 52 35856, Frankfurt am Main ,
+PERSON,NUMBER,NUMBER,CITY,O,O
+

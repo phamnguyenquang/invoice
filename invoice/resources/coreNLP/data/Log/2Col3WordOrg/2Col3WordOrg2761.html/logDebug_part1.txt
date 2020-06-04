@@ -1,0 +1,3 @@
+Stephanie 18 51291, Amsterdam, Kentucky,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

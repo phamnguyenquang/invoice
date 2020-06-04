@@ -1,0 +1,3 @@
+Cora Danielsson Evan 27 69627, Shanghai, Chiang Mai, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

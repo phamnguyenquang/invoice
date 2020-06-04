@@ -1,0 +1,3 @@
+Paris Descartes University Avery 52 33242, Melbourne, Bangkok, Germany email@example.net
+ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,COUNTRY,URL,O
+

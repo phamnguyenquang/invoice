@@ -1,0 +1,3 @@
+Giovanni 77 11294, Singapore, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

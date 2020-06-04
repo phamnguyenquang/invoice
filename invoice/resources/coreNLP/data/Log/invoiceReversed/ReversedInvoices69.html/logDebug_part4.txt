@@ -1,0 +1,3 @@
+Alice Olofsson Parker 70 49278, Barcelona, Hawaii, Brazil
+PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

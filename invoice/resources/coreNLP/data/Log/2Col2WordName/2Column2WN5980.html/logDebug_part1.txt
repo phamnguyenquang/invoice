@@ -1,0 +1,3 @@
+65148, Frankfurt am Main , Bangkok, Indonesia s
+NUMBER,CITY,O,O,CITY,COUNTRY,O
+

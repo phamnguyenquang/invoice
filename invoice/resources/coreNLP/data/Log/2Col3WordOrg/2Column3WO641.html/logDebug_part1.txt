@@ -1,0 +1,3 @@
+Kennedy 68 99399, Vienna, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

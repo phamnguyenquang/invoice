@@ -1,0 +1,3 @@
+Summer Ahmed Alexis 79 76370, San Francisco, Seattles, South Africa Invoice Number: 231001
+DATE,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

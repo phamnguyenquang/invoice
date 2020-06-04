@@ -1,0 +1,3 @@
+Julian 73 24910, Vancouver, Binh Thuan,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

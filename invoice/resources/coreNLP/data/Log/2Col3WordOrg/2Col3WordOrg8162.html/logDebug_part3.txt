@@ -1,0 +1,3 @@
+Ruby Lindgren Sebastian 76 23482, Osaka, khanh Hoa, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,O,LOCATION,COUNTRY,O,O,NUMBER
+

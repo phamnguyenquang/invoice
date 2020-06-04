@@ -1,0 +1,3 @@
+Samuel Danielsson Mark 70 98351, Budapest, Guangdong, Russia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+

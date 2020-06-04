@@ -1,0 +1,3 @@
+Nicole Åberg Alyssa 78 10001, Istanbul, Chiang Mai, Switzerland Invoice Number: 231001
+MISC,O,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

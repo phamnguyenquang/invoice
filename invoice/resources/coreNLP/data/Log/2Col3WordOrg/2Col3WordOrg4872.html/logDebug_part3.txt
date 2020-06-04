@@ -1,0 +1,3 @@
+James Lindgren Oscar 35 53345, Frankfurt am Main , Bangkok, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,CITY,COUNTRY,O,O,NUMBER
+

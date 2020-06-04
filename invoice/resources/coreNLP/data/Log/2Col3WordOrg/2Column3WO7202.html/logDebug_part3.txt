@@ -1,0 +1,3 @@
+Jacob Eklund Victor 42 65200, Venice, Guangzhou, New Zealand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

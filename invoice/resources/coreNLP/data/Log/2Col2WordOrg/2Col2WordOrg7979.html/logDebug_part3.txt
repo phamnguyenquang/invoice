@@ -1,0 +1,3 @@
+Charlotte Pålsson Violet 82 34746, Abu Dhabi, Chiang Rai, ThaiLand Invoice Number: 231001
+O,O,O,O,NUMBER,NUMBER,PERSON,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

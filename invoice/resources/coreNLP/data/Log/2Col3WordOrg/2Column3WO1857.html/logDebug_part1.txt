@@ -1,0 +1,3 @@
+Bella 7 23005, Seoul, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

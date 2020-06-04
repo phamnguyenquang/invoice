@@ -1,0 +1,3 @@
+Daniela 27 21678, Bonn, Hamburg, laos
+PERSON,NUMBER,NUMBER,CITY,CITY,O
+

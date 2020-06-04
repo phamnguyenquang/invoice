@@ -1,0 +1,3 @@
+Kimberly 48 43373, Berlin, Floria, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

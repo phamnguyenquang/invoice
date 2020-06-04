@@ -1,0 +1,3 @@
+Axel Lindström Inc
+PERSON,PERSON,O,ORGANIZATION
+

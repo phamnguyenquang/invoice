@@ -1,0 +1,3 @@
+Jake Nyström Nathaniel 78 44122, Los Angeles, Hamburg, Germany Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Thomas Claesson Grace 82 24859, Frankfurt am Main , Chiang Rai, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

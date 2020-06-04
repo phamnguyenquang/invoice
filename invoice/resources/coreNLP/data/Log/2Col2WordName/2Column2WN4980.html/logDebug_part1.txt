@@ -1,0 +1,3 @@
+Olivia 90 82578, Last Vegas, Chiang Rai,
+O,NUMBER,NUMBER,O,O,PERSON,PERSON
+

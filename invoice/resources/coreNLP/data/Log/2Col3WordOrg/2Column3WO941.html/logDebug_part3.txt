@@ -1,0 +1,3 @@
+Brian Nordin Nicole 73 50816, Berlin, Hessen, Brazil Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

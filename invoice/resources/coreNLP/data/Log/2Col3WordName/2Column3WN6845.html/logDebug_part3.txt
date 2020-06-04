@@ -1,0 +1,3 @@
+Sofia Kate Karlsson Inc Harrison 33 51984, Lisbon, Chiang Rai, laos Invoice Number: 231001
+CITY,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,O,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Lillian 26 53314, Minsk, Bayern, Germany
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

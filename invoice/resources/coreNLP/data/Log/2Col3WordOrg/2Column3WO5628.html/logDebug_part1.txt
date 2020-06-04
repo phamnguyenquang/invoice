@@ -1,0 +1,3 @@
+Adriana 46 47881, Minsk, Seattles, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

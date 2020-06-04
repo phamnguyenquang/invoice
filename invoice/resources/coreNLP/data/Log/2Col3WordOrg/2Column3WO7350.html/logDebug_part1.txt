@@ -1,0 +1,3 @@
+Stephanie 73 10818, Barcelona, Indiana,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

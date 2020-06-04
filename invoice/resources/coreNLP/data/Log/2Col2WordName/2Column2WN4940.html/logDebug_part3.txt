@@ -1,0 +1,3 @@
+Chloe Alexander Nordin Corp Elias 45 72052, Tokyo, Bayern, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+

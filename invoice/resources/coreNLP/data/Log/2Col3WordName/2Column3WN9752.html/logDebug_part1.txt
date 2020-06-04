@@ -1,0 +1,3 @@
+Nicholas 96 32425, Moscow, Bayern, laos
+PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

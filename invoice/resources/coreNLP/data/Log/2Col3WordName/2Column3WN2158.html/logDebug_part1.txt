@@ -1,0 +1,3 @@
+Elijah 55 65741, Last Vegas, Bangkok,
+PERSON,NUMBER,NUMBER,O,O,CITY
+

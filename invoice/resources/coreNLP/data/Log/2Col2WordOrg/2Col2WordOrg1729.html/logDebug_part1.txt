@@ -1,0 +1,3 @@
+Claire 65 96596, Barcelona, Binh Thuan,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

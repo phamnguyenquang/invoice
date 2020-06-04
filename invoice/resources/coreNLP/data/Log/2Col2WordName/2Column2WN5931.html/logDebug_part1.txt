@@ -1,0 +1,3 @@
+35535, Osaka, Chiang Rai, Japan email@example.net Date: 18 April 2020
+NUMBER,LOCATION,CITY,CITY,COUNTRY,O,O,O,DATE,DATE,DATE
+

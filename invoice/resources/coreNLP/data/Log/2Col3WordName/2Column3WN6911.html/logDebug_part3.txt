@@ -1,0 +1,3 @@
+Caleb Louise Lind Corp Kevin 38 38425, Berlin, Binh Thuan, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,O,NUMBER
+

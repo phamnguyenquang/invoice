@@ -1,0 +1,3 @@
+Izabella 38 52096, Berlin, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

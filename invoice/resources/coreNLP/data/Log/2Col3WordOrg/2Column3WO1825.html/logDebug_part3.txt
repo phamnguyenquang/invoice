@@ -1,0 +1,3 @@
+Avery Larsson Alexis 44 16944, Melbourne, khanh Hoa, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,PERSON,COUNTRY,O,O,NUMBER
+

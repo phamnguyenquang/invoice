@@ -1,0 +1,3 @@
+Alexis 58 26081, Vancouver, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Kai 25 72411, Shanghai, Amnat
+O,NUMBER,NUMBER,PERSON,PERSON
+

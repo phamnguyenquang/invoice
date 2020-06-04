@@ -1,0 +1,3 @@
+Adriana 81 69709, Budapest, Bangkok,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

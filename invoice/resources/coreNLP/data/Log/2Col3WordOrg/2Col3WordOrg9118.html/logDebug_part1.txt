@@ -1,0 +1,3 @@
+Catherine 38 54160, Rome, khanh Hoa, Japan
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

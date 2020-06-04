@@ -1,0 +1,3 @@
+Elizabeth Karlsson Emmanuel 25 71921, Singapore, Seattles, United Kingdom Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,COUNTRY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Lindström Cora 65
+PERSON,O,PERSON,NUMBER
+

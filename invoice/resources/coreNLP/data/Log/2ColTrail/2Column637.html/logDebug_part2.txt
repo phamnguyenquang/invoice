@@ -1,0 +1,3 @@
+49744, Amsterdam, Indiana, Mexico
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+

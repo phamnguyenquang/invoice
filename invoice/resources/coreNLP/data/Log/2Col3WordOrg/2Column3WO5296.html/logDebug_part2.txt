@@ -1,0 +1,3 @@
+52037, Lisbon, Hamburg, Switzerland
+NUMBER,CITY,CITY,COUNTRY
+

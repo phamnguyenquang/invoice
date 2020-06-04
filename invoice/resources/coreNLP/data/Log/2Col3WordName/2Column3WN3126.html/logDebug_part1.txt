@@ -1,0 +1,3 @@
+Vanessa 60 64022, Last Vegas, Ang Thong,
+PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
+

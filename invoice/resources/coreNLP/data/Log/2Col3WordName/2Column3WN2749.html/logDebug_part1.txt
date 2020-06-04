@@ -1,0 +1,3 @@
+Camila 87 12975, Los Angeles, Heibei,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

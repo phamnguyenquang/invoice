@@ -1,0 +1,3 @@
+Alana Ekström Inc
+PERSON,PERSON,O,ORGANIZATION
+

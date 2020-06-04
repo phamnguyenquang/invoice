@@ -1,0 +1,3 @@
+Cole John Wikström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

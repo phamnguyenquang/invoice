@@ -1,0 +1,3 @@
+Sofia Abrahamsson Maddox 46 12444, Frankfurt am Main , Bangkok, New Zealand Invoice Number: 231001
+CITY,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

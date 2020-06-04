@@ -1,0 +1,3 @@
+Daniel Lindgren Austin 34 64211, Sydney, Guang- dong, Denmark
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,COUNTRY
+

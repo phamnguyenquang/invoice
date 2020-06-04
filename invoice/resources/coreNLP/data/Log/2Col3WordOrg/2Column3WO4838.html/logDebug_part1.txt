@@ -1,0 +1,3 @@
+Jordan 54 23580, Moscow, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

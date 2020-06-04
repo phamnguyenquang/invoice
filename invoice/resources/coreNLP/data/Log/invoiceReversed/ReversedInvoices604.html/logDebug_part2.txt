@@ -1,0 +1,3 @@
+Samantha Jonsson Isabella 89 35656, Chicago, Chai Nat, Turkey
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY
+

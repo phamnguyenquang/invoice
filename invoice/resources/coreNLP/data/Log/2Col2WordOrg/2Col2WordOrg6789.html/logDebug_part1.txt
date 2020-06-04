@@ -1,0 +1,3 @@
+Aidan 79 41993, Beijing, Seattles, Canada
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

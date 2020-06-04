@@ -1,0 +1,3 @@
+Natalia Wallin Samantha 20 76403, Nha Trang, Binh Thuan, South Korea
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,COUNTRY
+

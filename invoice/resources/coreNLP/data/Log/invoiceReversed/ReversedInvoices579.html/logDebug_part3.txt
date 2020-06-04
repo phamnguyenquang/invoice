@@ -1,0 +1,3 @@
+Calvin Nordin Jordan 96 68987, Bonn, Bremen, Denmark
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+90917, Osaka, Bangkok, United Kingdom
+NUMBER,LOCATION,CITY,COUNTRY,COUNTRY
+

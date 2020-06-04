@@ -1,0 +1,3 @@
+Elena 37 78325, Rome, Bayern, laos
+PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

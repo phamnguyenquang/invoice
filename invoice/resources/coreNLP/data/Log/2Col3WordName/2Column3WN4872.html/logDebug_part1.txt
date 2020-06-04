@@ -1,0 +1,3 @@
+Anna 37 21984, Budapest, Huabei,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

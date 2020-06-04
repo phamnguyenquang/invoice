@@ -1,0 +1,3 @@
+Miles 13 95814, Minsk, Kentucky,
+O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

@@ -1,0 +1,3 @@
+Alyssa 48 27671, Tokyo, Seattles, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

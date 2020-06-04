@@ -1,0 +1,3 @@
+Robert Andreasson Brooklyn 93 83989, Paris, Bayern, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

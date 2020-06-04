@@ -1,0 +1,3 @@
+78518, Moscow, Hamburg, Singapore
+NUMBER,CITY,CITY,COUNTRY
+

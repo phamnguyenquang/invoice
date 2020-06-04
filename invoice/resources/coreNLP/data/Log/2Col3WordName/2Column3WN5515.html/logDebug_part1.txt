@@ -1,0 +1,3 @@
+12952, Minsk, Amnat Charoen, Philippines
+NUMBER,CITY,CITY,CITY,COUNTRY
+

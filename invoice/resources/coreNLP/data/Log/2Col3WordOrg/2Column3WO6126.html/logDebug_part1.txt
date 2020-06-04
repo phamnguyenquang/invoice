@@ -1,0 +1,3 @@
+Kennedy 69 74975, San Francisco, Buriam,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+69941, Berlin, Bangkok, Saudi Arabia
+NUMBER,CITY,CITY,COUNTRY,COUNTRY
+

@@ -1,0 +1,3 @@
+Nicole Lindgren Jonah 66 18168, Istanbul, Floria, Argentina
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

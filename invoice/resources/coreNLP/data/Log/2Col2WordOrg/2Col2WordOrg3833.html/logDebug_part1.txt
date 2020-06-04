@@ -1,0 +1,3 @@
+Nathaniel 54 99071, Denver, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

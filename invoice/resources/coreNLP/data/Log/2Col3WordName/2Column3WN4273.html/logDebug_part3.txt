@@ -1,0 +1,3 @@
+Tristan Peter Nordin Pte Ltd Cora 67 18289, Moscow, Saarland, Germany Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

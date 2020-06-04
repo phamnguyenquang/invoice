@@ -1,0 +1,3 @@
+Valerie Forsberg Clara 12 23917, Lisbon, Tuscany, Denmark Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

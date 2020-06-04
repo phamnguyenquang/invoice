@@ -1,0 +1,3 @@
+Ava 92 52901, Berlin, Amnat Charoen,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

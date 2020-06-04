@@ -1,0 +1,3 @@
+Kaleb Lundqvist Vincent 73 21011, Venice, Floria, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

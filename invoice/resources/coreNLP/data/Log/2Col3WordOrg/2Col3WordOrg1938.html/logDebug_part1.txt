@@ -1,0 +1,3 @@
+Kennedy 74 44370, Tokyo, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

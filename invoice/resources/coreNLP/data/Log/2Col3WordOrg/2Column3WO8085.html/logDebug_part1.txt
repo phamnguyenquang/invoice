@@ -1,0 +1,3 @@
+Julian 88 34684, Los Angeles, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

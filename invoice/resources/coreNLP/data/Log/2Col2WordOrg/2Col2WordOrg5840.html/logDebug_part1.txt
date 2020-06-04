@@ -1,0 +1,3 @@
+Summer 50 29081, Munich, Bangkok, Russia
+DATE,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

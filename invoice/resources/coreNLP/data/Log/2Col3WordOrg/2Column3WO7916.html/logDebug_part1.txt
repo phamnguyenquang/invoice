@@ -1,0 +1,3 @@
+Bradley 72 96374, Barcelona, Floria, Mexico
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

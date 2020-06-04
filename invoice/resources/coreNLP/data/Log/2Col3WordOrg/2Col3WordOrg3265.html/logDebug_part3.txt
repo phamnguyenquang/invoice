@@ -1,0 +1,3 @@
+Silas Månsson Nicolas 93 29890, Frankfurt am Main , Tuscany, Turkey Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,O,O,LOCATION,COUNTRY,O,O,NUMBER
+

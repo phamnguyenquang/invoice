@@ -1,0 +1,3 @@
+Kinsley 69 94891, Ho Chi Minh, California,
+PERSON,NUMBER,NUMBER,O,O,O,STATE_OR_PROVINCE
+

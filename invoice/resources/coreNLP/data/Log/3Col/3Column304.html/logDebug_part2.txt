@@ -1,0 +1,3 @@
+Charles Norberg Samuel 17 16707, Milan, Amnat Charoen, South Korea
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
+

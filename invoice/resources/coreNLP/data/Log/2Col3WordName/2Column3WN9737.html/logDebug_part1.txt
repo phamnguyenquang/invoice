@@ -1,0 +1,3 @@
+39372, Los Angeles, Bayern, France
+NUMBER,CITY,CITY,LOCATION,COUNTRY
+

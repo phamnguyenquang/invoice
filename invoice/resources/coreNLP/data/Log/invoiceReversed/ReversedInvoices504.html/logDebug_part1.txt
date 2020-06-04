@@ -1,0 +1,3 @@
+Stella 69 51495, Seoul, Bangkok, Indonesia
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

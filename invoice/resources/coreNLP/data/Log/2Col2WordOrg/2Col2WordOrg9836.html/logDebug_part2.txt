@@ -1,0 +1,3 @@
+Gael Pålsson Addison 98 95245, Osaka, Chai Nat, Switzerland Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

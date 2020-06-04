@@ -1,0 +1,3 @@
+Natalia 14 39319, Osaka, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

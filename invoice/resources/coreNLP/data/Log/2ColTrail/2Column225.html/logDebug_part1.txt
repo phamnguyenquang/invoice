@@ -1,0 +1,3 @@
+Connor 4 86458, SaiGon, Bangkok, Russia
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

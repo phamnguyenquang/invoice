@@ -1,0 +1,3 @@
+Tristan Ali Nora 21
+O,PERSON,PERSON,NUMBER
+

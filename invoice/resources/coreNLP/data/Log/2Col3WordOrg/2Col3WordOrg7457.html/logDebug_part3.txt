@@ -1,0 +1,3 @@
+Vincent Nordin Blake 4 76224, Dublin, Chiang Mai, New Zealand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

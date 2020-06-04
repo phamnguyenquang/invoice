@@ -1,0 +1,3 @@
+Genesis 15 60023, Minsk, Seattles, Australia
+O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

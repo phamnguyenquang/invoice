@@ -1,0 +1,3 @@
+Nicole 10 98783, Sydney, Seattles, Ireland
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

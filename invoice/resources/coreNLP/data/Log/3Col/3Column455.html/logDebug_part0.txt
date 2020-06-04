@@ -1,0 +1,3 @@
+Carl von Ossietzky University of Oldenburg Ryleigh 44 63047, Beijing, Hessen, laos email@example.net
+PERSON,O,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,O,URL,O
+

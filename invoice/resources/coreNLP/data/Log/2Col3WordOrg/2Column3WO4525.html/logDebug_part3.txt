@@ -1,0 +1,3 @@
+Kai Nordin Daisy 90 89697, Frankfurt am Main , Kentucky, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

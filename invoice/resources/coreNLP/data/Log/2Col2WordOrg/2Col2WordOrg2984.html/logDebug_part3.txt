@@ -1,0 +1,3 @@
+Ayden Pålsson Julia 78 56401, Frankfurt am Main , Henan, Indonesia s Invoice Number: 231001
+LOCATION,O,O,PERSON,NUMBER,NUMBER,O,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,O,NUMBER
+

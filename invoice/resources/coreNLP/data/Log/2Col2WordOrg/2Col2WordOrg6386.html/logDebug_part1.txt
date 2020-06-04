@@ -1,0 +1,3 @@
+Mark 60 95524, Stuttgart, Buriam,
+O,NUMBER,NUMBER,PERSON,PERSON
+

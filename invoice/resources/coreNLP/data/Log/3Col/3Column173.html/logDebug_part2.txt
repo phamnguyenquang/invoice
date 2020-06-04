@@ -1,0 +1,3 @@
+Caleb Magnusson Hunter 75 81108, Amsterdam, Bangkok, Australia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

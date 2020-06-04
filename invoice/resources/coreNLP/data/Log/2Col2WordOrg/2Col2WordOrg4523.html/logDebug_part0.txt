@@ -1,0 +1,3 @@
+Richard Ström Inc
+PERSON,PERSON,O,ORGANIZATION
+

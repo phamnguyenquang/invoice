@@ -1,0 +1,3 @@
+Nicolas 27 50859, Minsk, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

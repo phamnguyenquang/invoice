@@ -1,0 +1,3 @@
+Emmanuel 73 99579, Chicago, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

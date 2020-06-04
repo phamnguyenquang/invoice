@@ -1,0 +1,3 @@
+Valerie 43 51072, Florence, Tuscany, Japan
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

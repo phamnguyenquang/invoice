@@ -1,0 +1,3 @@
+Nathaniel Nordin Mackenzie 70 61628, Minsk, Hessen, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

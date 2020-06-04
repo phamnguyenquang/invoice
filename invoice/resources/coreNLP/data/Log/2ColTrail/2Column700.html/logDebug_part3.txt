@@ -1,0 +1,3 @@
+Antonio Abrahamsson Cora 21 17879, Moscow, Bayern, South Africa Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

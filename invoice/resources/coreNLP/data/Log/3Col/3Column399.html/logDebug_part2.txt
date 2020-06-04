@@ -1,0 +1,3 @@
+Ashley Karlsson Stella 32 56878, San Francisco, Seat- tles, China
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,O,COUNTRY
+

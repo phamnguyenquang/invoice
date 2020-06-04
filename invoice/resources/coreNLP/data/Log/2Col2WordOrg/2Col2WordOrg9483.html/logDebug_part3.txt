@@ -1,0 +1,3 @@
+Destiny Nordin Santiago 49 12819, Beijing, Chiang Mai, China Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

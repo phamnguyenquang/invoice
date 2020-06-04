@@ -1,0 +1,3 @@
+London Bergström Eleanor 71 29105, Vancouver, Huabei, VietNam Invoice Number: 231001
+CITY,LOCATION,O,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

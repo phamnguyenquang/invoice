@@ -1,0 +1,3 @@
+25649, Istanbul, Bayern, France email@example.net Date: 18 April 2020
+NUMBER,CITY,LOCATION,COUNTRY,URL,O,DATE,DATE,DATE,DATE
+

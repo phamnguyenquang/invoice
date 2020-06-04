@@ -1,0 +1,3 @@
+16695, Beijing, Chiang Rai, United State
+NUMBER,CITY,CITY,CITY,LOCATION,LOCATION
+

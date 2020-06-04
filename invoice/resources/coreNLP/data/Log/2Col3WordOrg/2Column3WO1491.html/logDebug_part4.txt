@@ -1,0 +1,3 @@
+Nathaniel Öberg Jennifer 79 88347, Osaka, Hainan, Denmark Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

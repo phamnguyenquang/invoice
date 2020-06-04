@@ -1,0 +1,3 @@
+Nathan 61 66016, Seoul, Tuscany, Argentina
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

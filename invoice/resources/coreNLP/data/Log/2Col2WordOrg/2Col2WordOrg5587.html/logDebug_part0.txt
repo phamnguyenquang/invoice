@@ -1,0 +1,3 @@
+Evelyn Wikström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

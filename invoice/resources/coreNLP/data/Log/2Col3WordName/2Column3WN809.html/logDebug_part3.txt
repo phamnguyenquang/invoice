@@ -1,0 +1,3 @@
+Taylor Lee Samuelsson Ltd Tucker 68 85337, Florence, Huabei, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

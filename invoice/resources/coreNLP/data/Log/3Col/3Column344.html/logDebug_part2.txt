@@ -1,0 +1,3 @@
+Avery Sandström Nathan 22 12855, Stuttgart, Tuscany, Switzerland
+PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

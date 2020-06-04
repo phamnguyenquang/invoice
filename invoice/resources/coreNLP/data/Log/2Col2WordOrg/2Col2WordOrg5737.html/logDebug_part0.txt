@@ -1,0 +1,3 @@
+Destiny Sandström Inc
+O,PERSON,O,ORGANIZATION
+

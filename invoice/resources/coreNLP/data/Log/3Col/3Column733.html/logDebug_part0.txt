@@ -1,0 +1,3 @@
+Telmob Kayden 62 50122, Taipei, Guangzhou, France email@example.net
+PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,URL,O
+

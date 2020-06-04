@@ -1,0 +1,3 @@
+Alexa 38 74343, Minsk, khanh Hoa, Brazil
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Summer Pålsson Jaden 8 87920, Moscow, khanh Hoa, Turkey
+DATE,O,O,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

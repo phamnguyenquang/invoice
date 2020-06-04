@@ -1,0 +1,3 @@
+Kai William Wikström Ltd Ryleigh 17 34717, Amsterdam, Chiang Rai, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,O,ORGANIZATION,O,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+James 96 17394, Los Angeles, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

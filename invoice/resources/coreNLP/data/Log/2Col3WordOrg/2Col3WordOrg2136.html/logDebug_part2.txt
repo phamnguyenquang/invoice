@@ -1,0 +1,3 @@
+93951, Moscow, Hamburg, Germany
+NUMBER,CITY,CITY,COUNTRY
+

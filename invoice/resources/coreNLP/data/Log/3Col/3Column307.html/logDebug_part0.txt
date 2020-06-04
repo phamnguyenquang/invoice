@@ -1,0 +1,3 @@
+Chiang Mai University Kinsley 83 74719, Lisbon, Henan, laos email@example.net
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O,URL,O
+

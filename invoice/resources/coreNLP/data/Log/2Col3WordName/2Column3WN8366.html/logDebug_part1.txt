@@ -1,0 +1,3 @@
+Londyn 93 15357, San Francisco, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

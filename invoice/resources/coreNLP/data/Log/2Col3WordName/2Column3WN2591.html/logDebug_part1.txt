@@ -1,0 +1,3 @@
+Alexa 53 13004, Seoul, Bangkok, Turkey
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

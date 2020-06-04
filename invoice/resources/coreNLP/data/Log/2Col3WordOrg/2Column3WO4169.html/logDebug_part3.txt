@@ -1,0 +1,3 @@
+Cooper Hermansson Ivan 8 17023, Dublin, Hessen, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

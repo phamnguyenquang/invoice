@@ -1,0 +1,3 @@
+Cole Robert Claesson Inc Lyla 78 12797, Stuttgart, Hessen, VietNam Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

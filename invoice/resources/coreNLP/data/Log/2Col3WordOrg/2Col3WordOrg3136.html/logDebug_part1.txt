@@ -1,0 +1,3 @@
+Margaret 54 72143, Amsterdam, Amnat
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

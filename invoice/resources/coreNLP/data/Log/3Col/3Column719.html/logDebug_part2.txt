@@ -1,0 +1,3 @@
+Luke Claesson Jayce 17 88238, Shanghai, Chiang Mai, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY
+

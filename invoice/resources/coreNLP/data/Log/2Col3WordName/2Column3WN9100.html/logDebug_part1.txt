@@ -1,0 +1,3 @@
+Stephanie 10 27379, Paris, Floria, Singapore
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Angel Björk Elias 86 31479, Lisbon, Bangkok, laos Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,O,O,O,NUMBER
+

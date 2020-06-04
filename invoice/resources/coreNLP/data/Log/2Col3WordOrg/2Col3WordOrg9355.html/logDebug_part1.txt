@@ -1,0 +1,3 @@
+Scarlett 47 92250, Minsk, Bremen, Australia
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Vincent Lundgren Reese 49 82559, Los Angeles, Guangzhou, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

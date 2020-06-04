@@ -1,0 +1,3 @@
+Gavin Louise Magnusson Inc Lauren 42 89262, Florence, Tuscany, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

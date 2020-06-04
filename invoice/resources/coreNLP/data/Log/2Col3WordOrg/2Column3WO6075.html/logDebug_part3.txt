@@ -1,0 +1,3 @@
+Jesse Svensson Kaylee 38 67284, Shanghai, Tuscany, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

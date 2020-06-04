@@ -1,0 +1,3 @@
+Autumn 10 83949, Moscow, Amnat Charoen,
+DATE,NUMBER,NUMBER,CITY,PERSON,PERSON
+

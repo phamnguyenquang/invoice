@@ -1,0 +1,3 @@
+Katherine 73 98208, Milan, Bangkok,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

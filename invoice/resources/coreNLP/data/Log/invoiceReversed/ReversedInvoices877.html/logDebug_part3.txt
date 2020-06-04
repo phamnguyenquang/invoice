@@ -1,0 +1,3 @@
+John Löfgren Joseph 24 84410, Tokyo, Saarland, Germany
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Wesley Lindholm Eli 75 62716, Sydney, Hamburg, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

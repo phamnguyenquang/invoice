@@ -1,0 +1,3 @@
+Kennedy 49 19890, Osaka, Guangzhou,
+PERSON,NUMBER,NUMBER,LOCATION,CITY
+

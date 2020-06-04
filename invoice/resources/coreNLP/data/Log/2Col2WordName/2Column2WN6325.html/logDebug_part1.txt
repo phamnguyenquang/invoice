@@ -1,0 +1,3 @@
+Adeline 82 69559, London , Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

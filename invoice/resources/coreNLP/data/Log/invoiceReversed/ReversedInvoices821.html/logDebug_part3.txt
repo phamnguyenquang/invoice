@@ -1,0 +1,3 @@
+Emily Öberg Alexa 78 74519, Budapest, Floria, Switzerland
+PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

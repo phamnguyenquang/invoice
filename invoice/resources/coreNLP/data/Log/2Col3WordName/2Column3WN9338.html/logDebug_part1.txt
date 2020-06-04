@@ -1,0 +1,3 @@
+Jasmine 91 34960, Vancouver, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

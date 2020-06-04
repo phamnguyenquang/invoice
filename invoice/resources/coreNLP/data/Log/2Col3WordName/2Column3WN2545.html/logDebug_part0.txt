@@ -1,0 +1,3 @@
+Ariel Christopher Lindström
+PERSON,PERSON,PERSON,O
+

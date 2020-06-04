@@ -1,0 +1,3 @@
+Xavier Lindström Inc
+PERSON,PERSON,O,ORGANIZATION
+

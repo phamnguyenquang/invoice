@@ -1,0 +1,3 @@
+Samuel Bergqvist Dylan 28 11246, Venice, Bayern, Japan Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

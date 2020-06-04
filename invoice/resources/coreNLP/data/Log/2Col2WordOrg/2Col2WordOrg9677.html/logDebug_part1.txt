@@ -1,0 +1,3 @@
+95809, Hong Kong, Bayern, ThaiLand
+NUMBER,CITY,CITY,LOCATION,COUNTRY
+

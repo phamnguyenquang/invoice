@@ -1,0 +1,3 @@
+Autumn 84 22932, San Francisco, Tuscany,
+DATE,NUMBER,NUMBER,CITY,CITY,LOCATION
+

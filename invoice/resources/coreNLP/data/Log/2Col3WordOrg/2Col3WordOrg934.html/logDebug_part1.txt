@@ -1,0 +1,3 @@
+Katherine 64 90144, Moscow, Binh Thuan,
+PERSON,NUMBER,NUMBER,CITY,PERSON,PERSON
+

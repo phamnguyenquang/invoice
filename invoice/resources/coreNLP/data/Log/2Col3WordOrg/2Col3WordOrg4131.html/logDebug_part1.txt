@@ -1,0 +1,3 @@
+Marcus 46 36684, Last Vegas, Amnat
+PERSON,NUMBER,NUMBER,O,O,O
+

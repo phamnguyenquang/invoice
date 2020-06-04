@@ -1,0 +1,3 @@
+35212, Minsk, khanh Hoa, Singapore
+NUMBER,CITY,O,PERSON,PERSON
+

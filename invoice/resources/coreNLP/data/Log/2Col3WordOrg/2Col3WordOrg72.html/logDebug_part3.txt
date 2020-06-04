@@ -1,0 +1,3 @@
+Summer Bergström Ezra 43 69401, Denver, Guangzhou, Brazil Invoice Number: 231001
+DATE,O,O,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

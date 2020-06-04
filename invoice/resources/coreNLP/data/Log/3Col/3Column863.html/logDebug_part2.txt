@@ -1,0 +1,3 @@
+Kendall Ström Easton 28 54766, Vancouver, Amnat Charoen, Germany
+PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,O,PERSON,PERSON,PERSON
+

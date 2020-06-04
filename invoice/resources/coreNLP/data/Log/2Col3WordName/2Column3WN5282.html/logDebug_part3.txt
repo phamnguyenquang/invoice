@@ -1,0 +1,3 @@
+Roman Kate Hermansson Pte Ltd Vanessa 49 42348, Osaka, Seattles, Switzerland Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

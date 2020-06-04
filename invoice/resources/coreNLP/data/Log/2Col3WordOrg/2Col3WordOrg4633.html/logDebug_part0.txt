@@ -1,0 +1,3 @@
+Jack Edward Åkesson Pte Ltd
+PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
+

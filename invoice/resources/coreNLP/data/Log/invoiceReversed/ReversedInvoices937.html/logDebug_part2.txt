@@ -1,0 +1,3 @@
+Valerie Bergman Brian 23 97906, Stuttgart, Guangzhou, VietNam
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

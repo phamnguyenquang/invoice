@@ -1,0 +1,3 @@
+Kimberly 52 24713, San Francisco, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

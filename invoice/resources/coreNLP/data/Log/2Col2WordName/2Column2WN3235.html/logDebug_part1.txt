@@ -1,0 +1,3 @@
+Kinsley 44 57724, Boston, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

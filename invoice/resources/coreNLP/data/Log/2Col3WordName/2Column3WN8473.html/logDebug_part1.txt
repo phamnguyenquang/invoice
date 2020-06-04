@@ -1,0 +1,3 @@
+Kenneth 68 16573, Bonn, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Audrey Kate Henriksson Inc Sophie 24 75978, Istanbul, Seattles, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

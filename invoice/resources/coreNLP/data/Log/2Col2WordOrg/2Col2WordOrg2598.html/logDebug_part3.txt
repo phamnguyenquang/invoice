@@ -1,0 +1,3 @@
+Nathaniel Andersson Catherine 22 97371, Moscow, Tuscany, Denmark Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

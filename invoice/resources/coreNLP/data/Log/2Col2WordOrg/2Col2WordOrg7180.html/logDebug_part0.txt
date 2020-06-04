@@ -1,0 +1,3 @@
+Emma Lundström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

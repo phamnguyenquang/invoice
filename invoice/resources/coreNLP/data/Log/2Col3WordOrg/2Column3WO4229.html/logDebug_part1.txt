@@ -1,0 +1,3 @@
+Ivan 15 20872, Istanbul, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

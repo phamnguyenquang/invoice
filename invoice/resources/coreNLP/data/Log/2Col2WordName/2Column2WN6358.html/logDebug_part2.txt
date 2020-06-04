@@ -1,0 +1,3 @@
+Chiang Mai, laos email@example.net Date: 18 April 2020
+PERSON,PERSON,O,URL,O,O,DATE,DATE,DATE
+

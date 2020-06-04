@@ -1,0 +1,3 @@
+Ryker Lundqvist Jocelyn 24 30999, Amsterdam, Saarland, Italy
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

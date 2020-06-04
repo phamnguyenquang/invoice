@@ -1,0 +1,3 @@
+Vivian 76 58651, Minsk, Bangkok, Italy
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

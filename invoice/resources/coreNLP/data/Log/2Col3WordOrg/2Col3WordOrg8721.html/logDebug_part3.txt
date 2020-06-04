@@ -1,0 +1,3 @@
+Summer Åkesson Kaden 21 63200, Beijing, Heibei, Denmark Invoice Number: 231001
+DATE,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Nathaniel Danielsson Maria 95 75605, Amsterdam, Bay- ern, New Zealand
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,O,COUNTRY,COUNTRY
+

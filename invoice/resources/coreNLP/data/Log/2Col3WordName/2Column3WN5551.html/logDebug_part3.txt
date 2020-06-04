@@ -1,0 +1,3 @@
+Marcus Peter Fredriksson Inc Delilah 90 56038, Hanoi, Bayern, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

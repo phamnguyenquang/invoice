@@ -1,0 +1,3 @@
+Hazel Håkansson Jace 28 23366, Ho Chi Minh, Ham- burg, New Zealand
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,O,COUNTRY,COUNTRY
+

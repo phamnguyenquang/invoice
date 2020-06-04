@@ -1,0 +1,3 @@
+Katelyn Louise Nordström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

@@ -1,0 +1,3 @@
+Connor Thomas Lindström
+PERSON,PERSON,PERSON,O
+

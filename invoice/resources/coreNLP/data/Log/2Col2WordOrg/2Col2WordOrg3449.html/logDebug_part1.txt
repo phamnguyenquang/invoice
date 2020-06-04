@@ -1,0 +1,3 @@
+Oscar 69 65613, Vancouver, Chiang Mai,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

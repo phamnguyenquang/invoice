@@ -1,0 +1,3 @@
+Amir 92 51281, San Francisco, Buriam,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

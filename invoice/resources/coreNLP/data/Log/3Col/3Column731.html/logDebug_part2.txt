@@ -1,0 +1,3 @@
+Marcus Magnusson Oscar 79 60241, Vancouver, Chiang Mai, Australia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,PERSON
+

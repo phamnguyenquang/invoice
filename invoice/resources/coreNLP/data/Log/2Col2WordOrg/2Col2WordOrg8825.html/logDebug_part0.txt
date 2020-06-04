@@ -1,0 +1,3 @@
+Izabella Lundström Inc
+PERSON,PERSON,O,ORGANIZATION
+

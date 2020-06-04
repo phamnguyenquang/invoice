@@ -1,0 +1,3 @@
+Juliana 37 84671, Vancouver, Texas,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

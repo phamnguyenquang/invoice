@@ -1,0 +1,3 @@
+Ava Fredriksson Aidan 48 46380, Beijing, Chiang Mai, Argentina Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Rose Ann Nordström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

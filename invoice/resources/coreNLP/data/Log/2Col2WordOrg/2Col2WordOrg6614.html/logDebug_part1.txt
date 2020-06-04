@@ -1,0 +1,3 @@
+Mark 61 47711, Minsk, Seattles,
+O,NUMBER,NUMBER,CITY,LOCATION
+

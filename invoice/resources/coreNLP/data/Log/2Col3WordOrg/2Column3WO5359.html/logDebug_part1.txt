@@ -1,0 +1,3 @@
+Samantha 66 25320, Minsk, Tuscany, Mexico
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

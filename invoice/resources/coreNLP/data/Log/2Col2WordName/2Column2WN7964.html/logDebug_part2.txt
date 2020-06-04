@@ -1,0 +1,3 @@
+Faith Catherine Håkansson Inc Jordyn 97 76856, Lisbon, Chiang Rai, VietNam Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

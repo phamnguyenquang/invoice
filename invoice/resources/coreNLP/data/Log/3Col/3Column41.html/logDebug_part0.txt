@@ -1,0 +1,3 @@
+Thaicom Ruby 77 53751, Vienna, Hawaii, Australia email@example.net
+O,O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
+

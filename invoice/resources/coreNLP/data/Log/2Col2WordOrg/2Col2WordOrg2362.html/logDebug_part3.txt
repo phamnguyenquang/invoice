@@ -1,0 +1,3 @@
+Delilah Löfgren Ava 98 42324, Tokyo, Heibei, Switzerland Invoice Number: 231001
+O,O,O,O,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

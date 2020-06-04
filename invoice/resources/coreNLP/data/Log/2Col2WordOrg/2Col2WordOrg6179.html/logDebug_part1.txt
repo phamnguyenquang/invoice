@@ -1,0 +1,3 @@
+Patrick 30 30377, Tokyo, Seattles, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

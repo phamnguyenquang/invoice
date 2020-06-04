@@ -1,0 +1,3 @@
+Jude Nordström Liliana 75 57587, Istanbul, Bangkok, Singapore
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

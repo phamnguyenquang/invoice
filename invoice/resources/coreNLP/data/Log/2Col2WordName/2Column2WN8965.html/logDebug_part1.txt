@@ -1,0 +1,3 @@
+18703, Osaka, Indiana, China email@example.net Date: 18 April 2020
+NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,O,O,O,DATE,DATE,DATE
+

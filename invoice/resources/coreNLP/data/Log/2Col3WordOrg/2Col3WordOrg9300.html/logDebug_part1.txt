@@ -1,0 +1,3 @@
+Tucker 85 70236, Munich, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

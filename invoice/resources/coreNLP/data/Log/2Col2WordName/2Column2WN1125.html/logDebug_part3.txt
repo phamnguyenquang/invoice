@@ -1,0 +1,3 @@
+Alexis Marie Sandberg Corp Luke 70 17066, Los Angeles, Guangdong, Philippines Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

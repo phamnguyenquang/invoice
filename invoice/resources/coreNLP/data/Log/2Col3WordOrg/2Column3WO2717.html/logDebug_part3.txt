@@ -1,0 +1,3 @@
+Delilah Löfgren Grace 79 47119, Tokyo, Amnat Charoen, ThaiLand Invoice Number: 231001
+O,O,O,O,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

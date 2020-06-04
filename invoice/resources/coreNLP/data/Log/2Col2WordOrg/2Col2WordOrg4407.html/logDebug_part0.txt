@@ -1,0 +1,3 @@
+Ryder Åkesson Corp Isaiah 50
+O,O,PERSON,PERSON,NUMBER
+

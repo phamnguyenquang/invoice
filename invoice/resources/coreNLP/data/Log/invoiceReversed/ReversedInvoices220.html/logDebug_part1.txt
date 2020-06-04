@@ -1,0 +1,3 @@
+Avery 70 45045, Singapore, Huabei,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

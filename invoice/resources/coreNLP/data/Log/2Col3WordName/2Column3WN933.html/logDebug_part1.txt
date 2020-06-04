@@ -1,0 +1,3 @@
+Naomi 19 58950, San Francisco, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

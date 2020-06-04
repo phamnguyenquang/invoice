@@ -1,0 +1,3 @@
+Timothy 18 26512, Los Angeles, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Avery Pålsson Andrea 35 56738, Florence, Bayern, South Africa Invoice Number: 231001
+O,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

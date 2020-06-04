@@ -1,0 +1,3 @@
+Thomas Edward Bergqvist Corp Lillian 50 80712, Chicago, Bayern, United Kingdom Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

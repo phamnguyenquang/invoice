@@ -1,0 +1,3 @@
+Invoice Quaid-i-Azam University
+O,PERSON,O,ORGANIZATION,ORGANIZATION
+

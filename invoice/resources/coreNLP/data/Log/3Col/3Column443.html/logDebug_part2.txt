@@ -1,0 +1,3 @@
+Paul Eriksson Adriana 81 70896, Minsk, Tuscany, Denmark
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

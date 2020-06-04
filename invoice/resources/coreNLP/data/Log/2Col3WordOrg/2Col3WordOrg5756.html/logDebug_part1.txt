@@ -1,0 +1,3 @@
+Sophie 68 30545, Washington, Bangkok,
+PERSON,NUMBER,NUMBER,STATE_OR_PROVINCE,CITY
+

@@ -1,0 +1,3 @@
+Cameron 25 78274, San Francisco, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

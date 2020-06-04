@@ -1,0 +1,3 @@
+Trinity William Bergström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

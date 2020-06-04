@@ -1,0 +1,3 @@
+Kennedy 29 85570, Milan, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Delilah Sundberg Samuel 3 54912, Madrid, Bangkok, laos Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,O,O,O,NUMBER
+

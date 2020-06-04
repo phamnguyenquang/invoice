@@ -1,0 +1,3 @@
+Jake Pettersson Sydney 33 49967, Hanoi, Floria, Philippines Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Giovanni 98 28805, San Francisco, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

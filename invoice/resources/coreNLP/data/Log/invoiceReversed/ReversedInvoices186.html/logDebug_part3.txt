@@ -1,0 +1,3 @@
+Mary Fransson Ariana 25 96037, Venice, Hamburg, Singapore
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Patrick 65 41689, Taipei, Heibei, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

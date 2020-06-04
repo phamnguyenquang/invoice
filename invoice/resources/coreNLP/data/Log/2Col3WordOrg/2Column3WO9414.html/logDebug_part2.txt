@@ -1,0 +1,3 @@
+39375, Madrid, Bangkok, Denmark
+NUMBER,CITY,CITY,COUNTRY
+

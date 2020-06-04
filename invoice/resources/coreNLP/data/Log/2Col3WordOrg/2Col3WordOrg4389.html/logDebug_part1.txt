@@ -1,0 +1,3 @@
+Autumn 55 79786, Osaka, Bangkok, China
+DATE,NUMBER,NUMBER,LOCATION,CITY,COUNTRY
+

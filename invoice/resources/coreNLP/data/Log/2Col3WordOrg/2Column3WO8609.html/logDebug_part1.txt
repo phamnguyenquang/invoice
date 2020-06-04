@@ -1,0 +1,3 @@
+Ava 39 12579, Stuttgart, Chai Nat,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

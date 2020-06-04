@@ -1,0 +1,3 @@
+Nathaniel Kate Svensson Inc Bennett 79 72618, Sydney, Ang Thong, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,O,NUMBER
+

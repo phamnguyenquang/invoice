@@ -1,0 +1,3 @@
+Hailey Sjöberg Daniela 14 91409, Tokyo, Heibei, Indonesia s Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+

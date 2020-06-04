@@ -1,0 +1,3 @@
+Hunter 6 67290, Moscow, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

@@ -1,0 +1,3 @@
+Abel 69 19017, Vancouver, Bangkok,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

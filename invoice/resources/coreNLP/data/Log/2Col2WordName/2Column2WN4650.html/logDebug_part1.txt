@@ -1,0 +1,3 @@
+18144, Munich, Bangkok, ThaiLand
+NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Elizabeth 84 34872, Osaka, Floria, Indonesia s
+PERSON,NUMBER,NUMBER,LOCATION,LOCATION,COUNTRY,O
+

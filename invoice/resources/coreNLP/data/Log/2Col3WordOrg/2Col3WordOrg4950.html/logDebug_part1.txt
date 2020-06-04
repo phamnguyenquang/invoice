@@ -1,0 +1,3 @@
+Alan 76 61015, San Francisco, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

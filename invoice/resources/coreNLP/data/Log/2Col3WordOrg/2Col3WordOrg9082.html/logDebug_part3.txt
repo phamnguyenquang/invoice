@@ -1,0 +1,3 @@
+Daisy Sjöberg Axel 33 15481, Florence, Amnat Charoen, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

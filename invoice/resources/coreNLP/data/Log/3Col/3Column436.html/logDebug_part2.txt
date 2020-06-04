@@ -1,0 +1,3 @@
+Aubrey Lindgren Avery 11 82022, Frankfurt am Main , Indiana, Denmark
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY
+

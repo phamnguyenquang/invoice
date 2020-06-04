@@ -1,0 +1,3 @@
+Abel Mattsson Amir 67 90479, Berlin, Saarland, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

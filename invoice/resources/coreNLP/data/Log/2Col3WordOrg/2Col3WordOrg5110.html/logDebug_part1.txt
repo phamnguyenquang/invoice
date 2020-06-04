@@ -1,0 +1,3 @@
+Reagan 14 53060, Moscow, Amnat Charoen,
+PERSON,NUMBER,NUMBER,CITY,PERSON,PERSON
+

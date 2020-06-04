@@ -1,0 +1,3 @@
+Adeline 94 47123, Taipei, Buriam, Germany
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

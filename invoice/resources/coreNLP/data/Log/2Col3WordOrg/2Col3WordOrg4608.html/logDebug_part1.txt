@@ -1,0 +1,3 @@
+Adrian 53 47790, Berlin, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Julianna 41 22324, Osaka, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

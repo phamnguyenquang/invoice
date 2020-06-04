@@ -1,0 +1,3 @@
+Brady Strömberg Samuel 12
+PERSON,PERSON,O,PERSON,NUMBER
+

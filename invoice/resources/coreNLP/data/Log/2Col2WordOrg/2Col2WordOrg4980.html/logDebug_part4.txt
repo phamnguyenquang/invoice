@@ -1,0 +1,3 @@
+Kenneth Bengtsson Jack 25 22994, Minsk, Chai Nat, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Vanessa Magnusson Nevaeh 46 59448, Berlin, Tuscany, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

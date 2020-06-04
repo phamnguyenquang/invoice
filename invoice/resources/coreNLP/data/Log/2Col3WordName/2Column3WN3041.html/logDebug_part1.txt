@@ -1,0 +1,3 @@
+Bailey 46 47065, Vancouver, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

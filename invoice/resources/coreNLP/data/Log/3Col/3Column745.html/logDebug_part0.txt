@@ -1,0 +1,3 @@
+École Polytechnique Paige 8 10619, Osaka, Kentucky, United State email@example.net
+O,PERSON,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,URL,O
+

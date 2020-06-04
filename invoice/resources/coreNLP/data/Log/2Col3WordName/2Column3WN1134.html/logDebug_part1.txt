@@ -1,0 +1,3 @@
+38720, Stuttgart, Hessen, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
+

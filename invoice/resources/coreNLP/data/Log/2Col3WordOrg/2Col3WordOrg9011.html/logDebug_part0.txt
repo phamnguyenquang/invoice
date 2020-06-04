@@ -1,0 +1,3 @@
+Patrick James Wikström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

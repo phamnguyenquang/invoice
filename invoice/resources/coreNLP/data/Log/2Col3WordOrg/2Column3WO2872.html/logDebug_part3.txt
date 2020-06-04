@@ -1,0 +1,3 @@
+Tucker Sandberg Sebastian 28 58298, Singapore, Binh Thuan, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,COUNTRY,O,O,COUNTRY,O,O,O,NUMBER
+

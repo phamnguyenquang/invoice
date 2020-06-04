@@ -1,0 +1,3 @@
+Kinsley 16 91486, Boston, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

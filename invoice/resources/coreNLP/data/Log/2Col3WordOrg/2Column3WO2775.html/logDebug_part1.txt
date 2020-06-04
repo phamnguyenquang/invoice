@@ -1,0 +1,3 @@
+Wyatt 68 72330, Lisbon, Bangkok, Brazil
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Angelina 55 58378, Stuttgart, California,
+MISC,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

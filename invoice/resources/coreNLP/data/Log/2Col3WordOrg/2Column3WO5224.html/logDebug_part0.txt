@@ -1,0 +1,3 @@
+Emery John Sandström Ltd
+O,PERSON,PERSON,O,ORGANIZATION
+

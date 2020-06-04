@@ -1,0 +1,3 @@
+Mckenzie 93 78112, Stuttgart, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

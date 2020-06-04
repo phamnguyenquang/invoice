@@ -1,0 +1,3 @@
+Audrey Bengtsson Norah 74 36208, Stuttgart, Buriam, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

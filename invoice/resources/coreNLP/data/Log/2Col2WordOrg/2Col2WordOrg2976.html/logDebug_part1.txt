@@ -1,0 +1,3 @@
+Arianna 16 74744, Moscow, Amnat Charoen,
+PERSON,NUMBER,NUMBER,CITY,PERSON,PERSON
+

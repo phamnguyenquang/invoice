@@ -1,0 +1,3 @@
+Patrick Ann Sandström Inc Richard 83 22484, Montreal, Seattles, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,O,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

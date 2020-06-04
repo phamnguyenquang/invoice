@@ -1,0 +1,3 @@
+Elizabeth 13 59732, Taipei, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

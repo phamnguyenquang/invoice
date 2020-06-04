@@ -1,0 +1,3 @@
+Clara Eliasson Katherine 67 39972, Lisbon, Amnat Charoen, United Kingdom Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

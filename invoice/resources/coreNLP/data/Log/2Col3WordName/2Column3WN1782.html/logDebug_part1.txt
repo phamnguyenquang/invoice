@@ -1,0 +1,3 @@
+Juliana 43 53623, Munich, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

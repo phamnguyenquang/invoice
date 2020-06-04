@@ -1,0 +1,3 @@
+69021, Lisbon, Bremen, Switzerland
+NUMBER,CITY,CITY,COUNTRY
+

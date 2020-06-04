@@ -1,0 +1,3 @@
+Arianna 96 49292, Milan, khanh Hoa, Russia
+PERSON,NUMBER,NUMBER,O,O,LOCATION,COUNTRY
+

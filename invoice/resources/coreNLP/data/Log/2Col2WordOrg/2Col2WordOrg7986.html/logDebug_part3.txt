@@ -1,0 +1,3 @@
+Jack Löfgren Mateo 13 55750, Los Angeles, Tuscany, ThaiLand Invoice Number: 231001
+O,O,O,O,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

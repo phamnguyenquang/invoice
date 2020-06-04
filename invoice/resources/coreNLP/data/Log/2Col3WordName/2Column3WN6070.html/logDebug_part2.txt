@@ -1,0 +1,3 @@
+12942, Beijing, Bayern, South Korea
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
+

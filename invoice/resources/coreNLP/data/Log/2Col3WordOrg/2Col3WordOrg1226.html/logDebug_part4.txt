@@ -1,0 +1,3 @@
+Hailey Söderberg Julia 72 58868, Florence, Hessen, Turkey Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Sophie Lundström Alexa 29 97669, Frankfurt am Main , Buriam, Brazil Invoice Number: 231001
+PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Oscar 32 54256, Stuttgart, Floria,
+O,NUMBER,NUMBER,CITY,LOCATION
+

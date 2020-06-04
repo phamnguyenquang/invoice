@@ -1,0 +1,3 @@
+Kimberly 74 45088, Rome, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

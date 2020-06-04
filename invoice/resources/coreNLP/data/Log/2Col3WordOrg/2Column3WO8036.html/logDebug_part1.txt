@@ -1,0 +1,3 @@
+Autumn 1 83885, Bonn, Hamburg,
+DATE,NUMBER,NUMBER,PERSON,PERSON
+

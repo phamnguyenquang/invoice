@@ -1,0 +1,3 @@
+Damian 51 40378, Munich, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

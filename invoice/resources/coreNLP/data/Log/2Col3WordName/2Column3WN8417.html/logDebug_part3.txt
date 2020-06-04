@@ -1,0 +1,3 @@
+Kai Ann Hassan Ltd Nathaniel 62 11136, Frankfurt am Main , Amnat Charoen, China Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,O,COUNTRY,O,O,NUMBER
+

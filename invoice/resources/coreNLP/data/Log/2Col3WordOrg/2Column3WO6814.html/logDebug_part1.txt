@@ -1,0 +1,3 @@
+Kaitlyn 11 38733, Osaka, Guangzhou,
+PERSON,NUMBER,NUMBER,LOCATION,CITY
+

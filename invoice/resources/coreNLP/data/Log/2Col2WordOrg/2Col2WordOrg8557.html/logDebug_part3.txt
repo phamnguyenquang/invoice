@@ -1,0 +1,3 @@
+Jaden Söderberg Kendall 66 41376, Berlin, Tuscany, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

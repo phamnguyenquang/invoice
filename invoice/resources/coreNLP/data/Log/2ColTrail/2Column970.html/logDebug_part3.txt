@@ -1,0 +1,3 @@
+Sarah Karlsson Vivian 91 83826, Denver, Chiang Rai, Philippines Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

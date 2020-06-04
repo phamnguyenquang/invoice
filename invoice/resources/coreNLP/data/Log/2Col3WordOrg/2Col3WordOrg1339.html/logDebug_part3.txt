@@ -1,0 +1,3 @@
+Kingston Gustafsson Eliana 22 50449, Taipei, Hamburg, New Zealand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

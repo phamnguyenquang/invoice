@@ -1,0 +1,3 @@
+Summer Lundqvist Chase 81 57187, Frankfurt am Main , Saarland, Germany Invoice Number: 231001
+DATE,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,LOCATION,COUNTRY,O,O,NUMBER
+

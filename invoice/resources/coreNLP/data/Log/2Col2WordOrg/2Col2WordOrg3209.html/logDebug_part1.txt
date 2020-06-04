@@ -1,0 +1,3 @@
+Patrick 48 79437, Osaka, khanh Hoa, South
+PERSON,NUMBER,NUMBER,LOCATION,O,PERSON,PERSON
+

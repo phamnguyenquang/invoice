@@ -1,0 +1,3 @@
+Autumn 90 87775, Singapore, Hamburg,
+DATE,NUMBER,NUMBER,COUNTRY,CITY
+

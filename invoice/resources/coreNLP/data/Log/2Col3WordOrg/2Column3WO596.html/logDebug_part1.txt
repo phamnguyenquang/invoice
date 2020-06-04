@@ -1,0 +1,3 @@
+Robert 60 35366, Stuttgart, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

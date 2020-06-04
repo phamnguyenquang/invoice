@@ -1,0 +1,3 @@
+Invoice Kazakhtelecom Alana 56
+O,PERSON,PERSON,NUMBER
+

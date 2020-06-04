@@ -1,0 +1,3 @@
+Avery 86 11182, Tokyo, Bangkok, Japan
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

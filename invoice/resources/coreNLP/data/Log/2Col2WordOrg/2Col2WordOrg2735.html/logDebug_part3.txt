@@ -1,0 +1,3 @@
+Angelina Björk Destiny 72 74697, Florence, Bayern, laos Invoice Number: 231001
+MISC,MISC,MISC,MISC,NUMBER,NUMBER,CITY,LOCATION,O,O,O,NUMBER
+

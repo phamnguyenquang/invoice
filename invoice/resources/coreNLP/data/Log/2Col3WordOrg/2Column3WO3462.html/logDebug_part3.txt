@@ -1,0 +1,3 @@
+Alexis Berggren Piper 62 99965, Sydney, Bayern, South Africa Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

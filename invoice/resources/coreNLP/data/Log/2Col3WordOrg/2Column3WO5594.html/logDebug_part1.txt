@@ -1,0 +1,3 @@
+Elise 58 65262, Vancouver, Hawaii,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

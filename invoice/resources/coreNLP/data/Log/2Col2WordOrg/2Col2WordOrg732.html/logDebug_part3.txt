@@ -1,0 +1,3 @@
+Carson Åkesson Angelina 55 72411, Berlin, Heibei, Turkey Invoice Number: 231001
+PERSON,O,MISC,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

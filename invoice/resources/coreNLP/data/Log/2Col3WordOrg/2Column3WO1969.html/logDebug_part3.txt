@@ -1,0 +1,3 @@
+Khloe Andersson Cayden 79 98211, Vancouver, Floria, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

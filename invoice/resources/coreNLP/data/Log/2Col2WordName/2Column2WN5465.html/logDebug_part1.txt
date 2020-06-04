@@ -1,0 +1,3 @@
+92614, Singapore, Bayern, Denmark
+NUMBER,COUNTRY,LOCATION,COUNTRY
+

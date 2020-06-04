@@ -1,0 +1,3 @@
+Destiny Fredriksson Max 74 34236, Frankfurt am Main , Saarland, Switzerland Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

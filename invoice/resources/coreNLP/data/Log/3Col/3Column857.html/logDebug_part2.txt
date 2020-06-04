@@ -1,0 +1,3 @@
+Tucker Sandström Jacob 49 30618, Budapest, Floria, Switzerland
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

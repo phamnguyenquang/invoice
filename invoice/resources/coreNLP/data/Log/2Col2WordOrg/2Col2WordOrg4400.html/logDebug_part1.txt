@@ -1,0 +1,3 @@
+Jace 15 60942, Istanbul, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

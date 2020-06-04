@@ -1,0 +1,3 @@
+Elizabeth 63 78287, Stuttgart, Indiana,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

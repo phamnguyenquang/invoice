@@ -1,0 +1,3 @@
+Bailey Viklund Alex 18 51302, Florence, Chiang Mai, Australia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY
+

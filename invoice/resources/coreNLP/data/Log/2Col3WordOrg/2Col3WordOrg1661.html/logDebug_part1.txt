@@ -1,0 +1,3 @@
+Kinsley 13 43572, London , Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

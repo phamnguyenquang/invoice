@@ -1,0 +1,3 @@
+Emery Michael Lindström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

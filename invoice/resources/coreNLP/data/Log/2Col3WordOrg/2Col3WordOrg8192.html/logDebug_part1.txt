@@ -1,0 +1,3 @@
+Samantha 26 79618, Chicago, Bangkok, Saudi
+PERSON,NUMBER,NUMBER,CITY,CITY,NATIONALITY
+

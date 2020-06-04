@@ -1,0 +1,3 @@
+Mckenzie 44 58360, Minsk, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

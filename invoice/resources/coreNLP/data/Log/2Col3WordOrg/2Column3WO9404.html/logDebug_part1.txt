@@ -1,0 +1,3 @@
+Valerie 35 87619, Berlin, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

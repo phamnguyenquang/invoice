@@ -1,0 +1,3 @@
+Maddox 4 95818, Minsk, Huabei, Germany
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Benjamin Hellström Julian 82 41725, Frankfurt am Main , Bremen, VietNam Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

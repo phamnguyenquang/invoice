@@ -1,0 +1,3 @@
+Vini Aiden 63 36269, Lisbon, Chai Nat, Australia email@example.net
+PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,URL,O
+

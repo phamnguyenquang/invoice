@@ -1,0 +1,3 @@
+Bryson 42 43891, Istanbul, Seattles, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

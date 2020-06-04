@@ -1,0 +1,3 @@
+Eleanor 10 86686, Tokyo, Tuscany,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

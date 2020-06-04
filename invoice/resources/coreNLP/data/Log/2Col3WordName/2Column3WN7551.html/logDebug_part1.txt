@@ -1,0 +1,3 @@
+Natalie 20 25654, Moscow, Huabei,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+50730, Hong Kong, Bayern, New Zealand
+NUMBER,CITY,CITY,LOCATION,COUNTRY,COUNTRY
+

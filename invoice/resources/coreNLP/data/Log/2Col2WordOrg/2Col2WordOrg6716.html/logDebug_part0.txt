@@ -1,0 +1,3 @@
+Clara Lindström Inc
+PERSON,PERSON,O,ORGANIZATION
+

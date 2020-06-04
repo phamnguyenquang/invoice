@@ -1,0 +1,3 @@
+Lauren Lindberg Sophia 27 18444, Seoul, Indiana, Cambodia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

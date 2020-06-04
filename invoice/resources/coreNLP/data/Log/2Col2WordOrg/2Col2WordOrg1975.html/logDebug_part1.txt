@@ -1,0 +1,3 @@
+Arianna 47 67915, Stuttgart, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

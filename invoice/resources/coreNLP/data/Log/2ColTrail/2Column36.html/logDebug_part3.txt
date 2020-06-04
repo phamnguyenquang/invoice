@@ -1,0 +1,3 @@
+Bennett Magnusson Valentina 80 76457, Lisbon, Chiang Mai, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Summer 2 81146, Taipei, Seattles, Indonesia
+DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

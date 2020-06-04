@@ -1,0 +1,3 @@
+Leo Thomas Lundström Ltd Summer 47 45308, Tokyo, khanh Hoa, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,O,O,DATE,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
+

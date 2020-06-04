@@ -1,0 +1,3 @@
+Eli Söderberg Abigail 8 37930, Venice, Phu Yen, Cambodia Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Tristan Johansson Adriana 66 88635, Chicago, Tuscany, VietNam
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

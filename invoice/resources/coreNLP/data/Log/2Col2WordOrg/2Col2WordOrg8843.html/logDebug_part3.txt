@@ -1,0 +1,3 @@
+Ryker Olofsson Samantha 54 93509, Seoul, Heibei, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

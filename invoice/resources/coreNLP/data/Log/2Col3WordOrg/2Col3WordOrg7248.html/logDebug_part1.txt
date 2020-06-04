@@ -1,0 +1,3 @@
+Katherine 28 61086, Chicago, Bangkok, Italy
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

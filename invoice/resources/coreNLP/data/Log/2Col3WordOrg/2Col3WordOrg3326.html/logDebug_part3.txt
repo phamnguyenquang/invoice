@@ -1,0 +1,3 @@
+Alexander Andreasson Mckenzie 23 94863, Beijing, Hawaii, United State Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,LOCATION,LOCATION,O,O,NUMBER
+

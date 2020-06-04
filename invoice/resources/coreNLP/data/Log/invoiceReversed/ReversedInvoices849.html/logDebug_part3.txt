@@ -1,0 +1,3 @@
+Adam Arvidsson Ethan 87 59617, Tokyo, Floria, laos
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

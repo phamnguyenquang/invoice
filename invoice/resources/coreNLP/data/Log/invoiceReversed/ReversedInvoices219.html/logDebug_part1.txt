@@ -1,0 +1,3 @@
+13501, Munich, Bangkok, New Zealand
+NUMBER,CITY,CITY,COUNTRY,COUNTRY
+

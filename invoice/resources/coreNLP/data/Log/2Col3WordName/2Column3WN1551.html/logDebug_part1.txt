@@ -1,0 +1,3 @@
+Parker 47 67113, Vancouver, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

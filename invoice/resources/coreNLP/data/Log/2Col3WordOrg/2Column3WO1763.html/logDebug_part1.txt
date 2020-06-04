@@ -1,0 +1,3 @@
+Tucker 21 49010, Florence, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Genesis John Nyström Inc
+O,PERSON,PERSON,O,ORGANIZATION
+

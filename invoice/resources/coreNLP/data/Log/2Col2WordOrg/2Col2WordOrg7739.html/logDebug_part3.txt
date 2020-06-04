@@ -1,0 +1,3 @@
+Eva Claesson Kayla 95 82072, Taipei, Guangzhou, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

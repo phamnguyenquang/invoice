@@ -1,0 +1,3 @@
+Samuel 93 65269, San Francisco, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

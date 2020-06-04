@@ -1,0 +1,3 @@
+Alexander 34 17242, Barcelona, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

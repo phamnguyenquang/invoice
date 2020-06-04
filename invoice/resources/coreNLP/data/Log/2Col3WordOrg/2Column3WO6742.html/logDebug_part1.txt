@@ -1,0 +1,3 @@
+Valentina 53 79608, Stuttgart, Texas,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

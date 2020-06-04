@@ -1,0 +1,3 @@
+Lindström Corp Logan 88
+PERSON,O,O,CITY,LOCATION
+

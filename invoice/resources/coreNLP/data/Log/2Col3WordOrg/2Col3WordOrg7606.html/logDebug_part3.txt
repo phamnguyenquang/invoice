@@ -1,0 +1,3 @@
+Aurora Sjögren Elena 76 72474, Paris, Hessen, ThaiLand Invoice Number: 231001
+CITY,LOCATION,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

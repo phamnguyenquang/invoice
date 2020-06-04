@@ -1,0 +1,3 @@
+Hailey 34 65694, Moscow, Bangkok, laos
+PERSON,NUMBER,NUMBER,CITY,CITY,O
+

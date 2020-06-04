@@ -1,0 +1,3 @@
+Makenzie 22 86002, Istanbul, Bayern, South
+PERSON,NUMBER,NUMBER,CITY,LOCATION,LOCATION
+

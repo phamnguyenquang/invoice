@@ -1,0 +1,3 @@
+Ava Berg Destiny 62 94659, Istanbul, Bangkok, Switzerland
+PERSON,PERSON,O,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

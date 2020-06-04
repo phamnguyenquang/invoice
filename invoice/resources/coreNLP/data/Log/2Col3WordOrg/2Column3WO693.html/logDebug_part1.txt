@@ -1,0 +1,3 @@
+Adam 52 27667, Rome, Amnat Charoen,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

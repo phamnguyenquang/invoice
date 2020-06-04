@@ -1,0 +1,3 @@
+Oliver Söderberg Cole 51 48113, Bonn, Seattles, Argentina
+PERSON,O,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

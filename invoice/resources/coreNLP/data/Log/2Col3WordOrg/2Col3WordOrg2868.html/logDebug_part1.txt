@@ -1,0 +1,3 @@
+Summer 64 14824, Berlin, Seattles, South
+DATE,NUMBER,NUMBER,CITY,LOCATION,LOCATION
+

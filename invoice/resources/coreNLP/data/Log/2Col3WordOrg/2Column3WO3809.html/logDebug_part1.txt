@@ -1,0 +1,3 @@
+Aliyah 14 40961, Stuttgart, Chai Nat,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

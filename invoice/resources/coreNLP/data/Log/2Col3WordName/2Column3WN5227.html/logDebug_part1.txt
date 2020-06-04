@@ -1,0 +1,3 @@
+Lauren 87 99594, Toronto, Seattles, Mexico
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

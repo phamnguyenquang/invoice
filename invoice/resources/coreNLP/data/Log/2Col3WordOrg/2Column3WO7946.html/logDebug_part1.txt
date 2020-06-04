@@ -1,0 +1,3 @@
+Angelina 69 59853, Amsterdam, Indiana,
+MISC,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

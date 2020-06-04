@@ -1,0 +1,3 @@
+Kyle 52 82626, Istanbul, Seattles, Brazil
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

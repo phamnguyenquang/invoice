@@ -1,0 +1,3 @@
+Oscar 5 24028, Washington, Chiang Mai,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

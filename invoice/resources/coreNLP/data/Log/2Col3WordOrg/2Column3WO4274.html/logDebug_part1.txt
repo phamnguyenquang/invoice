@@ -1,0 +1,3 @@
+Jordyn 40 32262, Paris, khanh Hoa, Turkey
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

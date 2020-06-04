@@ -1,0 +1,3 @@
+Nathan 32 75316, Berlin, Seattles, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

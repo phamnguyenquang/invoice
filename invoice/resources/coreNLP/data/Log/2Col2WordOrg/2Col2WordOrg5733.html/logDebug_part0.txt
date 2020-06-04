@@ -1,0 +1,3 @@
+Reagan Månsson Corp
+PERSON,O,ORGANIZATION,ORGANIZATION
+

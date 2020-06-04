@@ -1,0 +1,3 @@
+Everett 85 27719, Vancouver, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

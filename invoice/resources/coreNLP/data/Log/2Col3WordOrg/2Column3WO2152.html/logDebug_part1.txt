@@ -1,0 +1,3 @@
+Alexander 55 54975, Chicago, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

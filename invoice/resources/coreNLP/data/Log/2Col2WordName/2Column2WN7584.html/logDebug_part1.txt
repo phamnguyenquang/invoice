@@ -1,0 +1,3 @@
+Autumn 5 27255, Vienna, Tuscany, Brazil
+DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

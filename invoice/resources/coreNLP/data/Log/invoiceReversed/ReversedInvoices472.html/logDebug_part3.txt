@@ -1,0 +1,3 @@
+Josephine Svensson Jack 57 10533, Osaka, khanh Hoa, United Kingdom
+PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,O,LOCATION,COUNTRY,COUNTRY
+

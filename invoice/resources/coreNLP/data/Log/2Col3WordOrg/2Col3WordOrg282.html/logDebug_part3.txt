@@ -1,0 +1,3 @@
+Sofia Jönsson Kenneth 88 11680, Nha Trang, Hawaii, laos Invoice Number: 231001
+CITY,O,O,PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE,O,O,O,NUMBER
+

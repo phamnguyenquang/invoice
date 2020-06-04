@@ -1,0 +1,3 @@
+Mackenzie 69 14101, Moscow, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

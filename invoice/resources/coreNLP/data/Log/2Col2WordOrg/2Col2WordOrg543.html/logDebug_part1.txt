@@ -1,0 +1,3 @@
+Samuel 97 96435, Bonn, Seattles,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

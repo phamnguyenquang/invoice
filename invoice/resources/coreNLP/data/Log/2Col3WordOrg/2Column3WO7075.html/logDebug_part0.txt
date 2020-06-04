@@ -1,0 +1,3 @@
+Adeline Lee Sandström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

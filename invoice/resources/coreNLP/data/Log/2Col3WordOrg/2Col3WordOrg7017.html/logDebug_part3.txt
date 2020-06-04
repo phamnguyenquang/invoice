@@ -1,0 +1,3 @@
+Tucker Pålsson Paisley 54 19340, Taipei, Huabei, United Kingdom Invoice Number: 231001
+PERSON,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

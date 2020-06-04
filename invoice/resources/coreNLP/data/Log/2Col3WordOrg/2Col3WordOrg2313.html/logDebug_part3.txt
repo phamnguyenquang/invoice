@@ -1,0 +1,3 @@
+Sophia Lindqvist Camden 95 61914, Melbourne, Bangkok, Brazil Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

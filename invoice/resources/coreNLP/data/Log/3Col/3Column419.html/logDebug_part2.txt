@@ -1,0 +1,3 @@
+Anthony Nyström Stella 39 55669, Istanbul, Ham- burg, Switzerland
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,COUNTRY
+

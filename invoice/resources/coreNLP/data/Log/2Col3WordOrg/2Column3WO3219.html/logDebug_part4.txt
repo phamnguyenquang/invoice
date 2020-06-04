@@ -1,0 +1,3 @@
+Vanessa Nordström Nora 93 52558, Frankfurt am Main , Amnat Charoen, Switzerland Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,O,O,O,COUNTRY,O,O,NUMBER
+

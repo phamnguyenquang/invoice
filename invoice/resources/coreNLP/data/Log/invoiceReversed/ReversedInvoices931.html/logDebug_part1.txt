@@ -1,0 +1,3 @@
+Norah 17 43840, Berlin, Floria, Philippines
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

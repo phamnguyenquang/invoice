@@ -1,0 +1,3 @@
+22262, Barcelona, Bangkok, New Zealand
+NUMBER,CITY,CITY,COUNTRY,COUNTRY
+

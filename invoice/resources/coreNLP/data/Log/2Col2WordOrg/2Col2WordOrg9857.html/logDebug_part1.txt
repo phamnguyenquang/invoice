@@ -1,0 +1,3 @@
+Oscar 81 51519, Moscow, Seattles,
+O,NUMBER,NUMBER,CITY,LOCATION
+

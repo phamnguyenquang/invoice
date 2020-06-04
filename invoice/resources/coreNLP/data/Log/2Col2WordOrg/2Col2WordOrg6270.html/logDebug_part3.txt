@@ -1,0 +1,3 @@
+Faith Sandberg Richard 68 12696, Bonn, Chiang Rai, Germany Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

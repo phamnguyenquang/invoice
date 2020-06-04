@@ -1,0 +1,3 @@
+49367, Osaka, Bangkok, Denmark
+NUMBER,PERSON,PERSON,PERSON
+

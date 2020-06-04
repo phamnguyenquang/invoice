@@ -1,0 +1,3 @@
+38946, Vancouver, khanh Hoa, ThaiLand
+NUMBER,O,O,PERSON,COUNTRY
+

@@ -1,0 +1,3 @@
+Izabella 95 68501, Last Vegas, Amnat
+PERSON,NUMBER,NUMBER,O,O,O
+

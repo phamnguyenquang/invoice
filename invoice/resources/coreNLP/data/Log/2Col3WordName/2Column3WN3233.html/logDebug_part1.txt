@@ -1,0 +1,3 @@
+Michelle 19 67648, Chicago, Binh Thuan,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

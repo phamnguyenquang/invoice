@@ -1,0 +1,3 @@
+Aurora Hassan Morgan 18 66450, Florence, Chiang Mai, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

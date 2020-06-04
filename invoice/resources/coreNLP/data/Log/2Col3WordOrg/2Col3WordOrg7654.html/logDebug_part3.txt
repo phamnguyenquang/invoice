@@ -1,0 +1,3 @@
+Max Fransson Angelina 95 51487, Berlin, Tuscany, India Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

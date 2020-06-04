@@ -1,0 +1,3 @@
+Ruby Elizabeth Andreasson Inc Declan 10 39315, Montreal, Chiang Rai, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

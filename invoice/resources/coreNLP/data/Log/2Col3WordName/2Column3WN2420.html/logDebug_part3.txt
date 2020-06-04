@@ -1,0 +1,3 @@
+Rose Kate Magnusson Corp Julia 5 28971, Hanoi, Hessen, Switzerland Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

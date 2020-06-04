@@ -1,0 +1,3 @@
+Richard David Wikström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

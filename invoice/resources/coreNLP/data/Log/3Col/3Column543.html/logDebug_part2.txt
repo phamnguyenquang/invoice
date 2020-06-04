@@ -1,0 +1,3 @@
+Charles Nyberg Alana 23 74473, Berlin, Seattles, Italy
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

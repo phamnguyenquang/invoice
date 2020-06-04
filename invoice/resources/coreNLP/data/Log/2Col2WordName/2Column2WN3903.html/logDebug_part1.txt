@@ -1,0 +1,3 @@
+Autumn 92 18280, Istanbul, Kentucky, South
+DATE,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O
+

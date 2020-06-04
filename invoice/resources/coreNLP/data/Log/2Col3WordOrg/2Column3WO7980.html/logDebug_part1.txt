@@ -1,0 +1,3 @@
+Summer 68 41593, Denver, Saarland, Brazil
+DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

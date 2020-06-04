@@ -1,0 +1,3 @@
+Rose 74 73741, Munich, California,
+O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

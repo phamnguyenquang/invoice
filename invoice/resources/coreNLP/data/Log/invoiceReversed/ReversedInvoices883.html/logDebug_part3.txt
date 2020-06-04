@@ -1,0 +1,3 @@
+Alan Viklund Khloe 21 89949, Frankfurt am Main , Heibei, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY
+

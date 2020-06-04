@@ -1,0 +1,3 @@
+Invoice Asia Satellite Julia 7
+O,O,O,PERSON,NUMBER
+

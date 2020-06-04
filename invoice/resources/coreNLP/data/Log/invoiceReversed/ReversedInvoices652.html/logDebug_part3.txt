@@ -1,0 +1,3 @@
+Michelle Lindström Santiago 33 30300, Chicago, Bangkok, ThaiLand
+PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

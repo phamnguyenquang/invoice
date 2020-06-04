@@ -1,0 +1,3 @@
+Kazakhtelecom Nolan 37
+PERSON,PERSON,NUMBER
+

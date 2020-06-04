@@ -1,0 +1,3 @@
+93979, Munich, Saarland, Germany
+NUMBER,CITY,LOCATION,COUNTRY
+

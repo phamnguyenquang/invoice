@@ -1,0 +1,3 @@
+Tucker 41 16400, Stuttgart, Amnat
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

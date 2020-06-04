@@ -1,0 +1,3 @@
+44477, Berlin, Chiang Mai, Germany
+NUMBER,CITY,CITY,CITY,COUNTRY
+

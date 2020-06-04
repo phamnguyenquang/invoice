@@ -1,0 +1,3 @@
+Elias Löfgren Sophie 39 50550, Shanghai, Guang- dong, Cambodia
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,COUNTRY
+

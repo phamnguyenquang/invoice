@@ -1,0 +1,3 @@
+Miguel Håkansson Max 37 69085, Tokyo, Heibei, Germany Invoice Number: 231001
+PERSON,O,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

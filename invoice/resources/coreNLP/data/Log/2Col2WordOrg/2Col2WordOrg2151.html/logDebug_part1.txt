@@ -1,0 +1,3 @@
+Natalia 50 30899, Shanghai, Buriam, Russia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

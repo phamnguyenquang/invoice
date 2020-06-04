@@ -1,0 +1,3 @@
+Adeline 71 97840, Barcelona, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

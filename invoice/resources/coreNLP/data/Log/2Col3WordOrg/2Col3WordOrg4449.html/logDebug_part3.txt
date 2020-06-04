@@ -1,0 +1,3 @@
+Patrick Berg Destiny 88 73865, Denver, Bayern, New Zealand Invoice Number: 231001
+PERSON,PERSON,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

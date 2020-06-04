@@ -1,0 +1,3 @@
+31517, Berlin, Bangkok, Denmark
+NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Maddox Henriksson Clara 32 58237, Bonn, Floria, Brazil
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

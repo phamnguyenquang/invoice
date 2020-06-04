@@ -1,0 +1,3 @@
+Samantha 86 12137, Moscow, Seattles, India
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

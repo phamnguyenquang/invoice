@@ -1,0 +1,3 @@
+Evelyn 70 27998, Vancouver, Binh Thuan,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

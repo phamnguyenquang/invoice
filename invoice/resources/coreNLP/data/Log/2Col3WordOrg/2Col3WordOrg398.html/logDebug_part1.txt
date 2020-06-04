@@ -1,0 +1,3 @@
+Lillian 42 60658, Berlin, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

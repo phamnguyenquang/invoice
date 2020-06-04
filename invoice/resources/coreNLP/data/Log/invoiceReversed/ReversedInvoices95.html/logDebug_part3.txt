@@ -1,0 +1,3 @@
+Levi Nordin Nevaeh 14 31671, Berlin, Chiang Mai, Australia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY
+

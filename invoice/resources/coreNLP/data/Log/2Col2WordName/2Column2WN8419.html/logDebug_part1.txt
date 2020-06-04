@@ -1,0 +1,3 @@
+83066, Osaka, Bayern, United Kingdom
+NUMBER,LOCATION,LOCATION,COUNTRY,COUNTRY
+

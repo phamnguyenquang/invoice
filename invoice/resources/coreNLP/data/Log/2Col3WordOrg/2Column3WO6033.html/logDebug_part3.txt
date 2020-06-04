@@ -1,0 +1,3 @@
+Eric Nordin Hadley 66 35095, Beijing, Huabei, Cambodia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

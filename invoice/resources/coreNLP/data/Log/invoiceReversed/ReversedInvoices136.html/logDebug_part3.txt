@@ -1,0 +1,3 @@
+Taylor Danielsson Alex 31 70958, Istanbul, Bangkok, India
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

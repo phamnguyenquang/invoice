@@ -1,0 +1,3 @@
+Natalie 89 47362, Amsterdam, Kentucky,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

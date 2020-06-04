@@ -1,0 +1,3 @@
+Brayden Löfgren Hannah 45 56322, SaiGon, Bangkok, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,CITY,COUNTRY,O,O,NUMBER
+

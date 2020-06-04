@@ -1,0 +1,3 @@
+Autumn 47 15328, Madrid, Bremen, South
+DATE,NUMBER,NUMBER,CITY,CITY,LOCATION
+

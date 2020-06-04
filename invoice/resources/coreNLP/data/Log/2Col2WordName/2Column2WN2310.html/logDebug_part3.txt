@@ -1,0 +1,3 @@
+Nathaniel Robert Månsson Inc Daniela 80 25672, Berlin, Ang Thong, Russia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

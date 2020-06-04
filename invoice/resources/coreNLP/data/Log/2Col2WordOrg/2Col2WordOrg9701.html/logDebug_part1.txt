@@ -1,0 +1,3 @@
+Tucker 64 33230, Taipei, Hessen,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Alan 84 44736, Budapest, Bremen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

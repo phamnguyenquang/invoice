@@ -1,0 +1,3 @@
+Ava 59 75021, Vancouver, Chiang Mai,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

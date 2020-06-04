@@ -1,0 +1,3 @@
+Afghan Wireless Izabella 27
+NATIONALITY,O,PERSON,NUMBER
+

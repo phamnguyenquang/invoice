@@ -1,0 +1,3 @@
+Emmanuel 78 61898, London , Bangkok,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

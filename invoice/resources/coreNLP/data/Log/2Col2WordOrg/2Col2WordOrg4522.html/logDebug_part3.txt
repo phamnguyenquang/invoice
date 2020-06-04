@@ -1,0 +1,3 @@
+Elise Åberg Katelyn 90 54059, Osaka, khanh Hoa, Germany Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,LOCATION,O,LOCATION,COUNTRY,O,O,NUMBER
+

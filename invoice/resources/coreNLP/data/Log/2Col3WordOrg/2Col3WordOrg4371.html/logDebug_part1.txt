@@ -1,0 +1,3 @@
+Samantha 42 80198, Budapest, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

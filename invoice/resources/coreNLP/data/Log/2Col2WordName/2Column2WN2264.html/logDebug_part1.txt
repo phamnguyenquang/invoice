@@ -1,0 +1,3 @@
+Richard 67 45624, Los Angeles, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

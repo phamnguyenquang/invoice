@@ -1,0 +1,3 @@
+79750, Munich, Bangkok, United Kingdom
+NUMBER,CITY,CITY,COUNTRY,COUNTRY
+

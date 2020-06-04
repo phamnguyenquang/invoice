@@ -1,0 +1,3 @@
+70464, Munich, Saarland, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
+

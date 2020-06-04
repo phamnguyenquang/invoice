@@ -1,0 +1,3 @@
+Samuel Isaksson Alexandra 47 89840, Taipei, Hessen, VietNam
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

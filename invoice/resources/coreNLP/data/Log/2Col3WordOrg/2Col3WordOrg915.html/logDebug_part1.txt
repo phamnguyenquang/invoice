@@ -1,0 +1,3 @@
+Alexander 6 89465, Barcelona, Bremen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

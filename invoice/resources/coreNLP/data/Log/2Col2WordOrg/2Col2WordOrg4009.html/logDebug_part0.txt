@@ -1,0 +1,3 @@
+Jade Hellström Inc
+PERSON,PERSON,O,ORGANIZATION
+

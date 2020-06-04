@@ -1,0 +1,3 @@
+Colin Andreasson Aidan 91 38634, Los Angeles, Guangdong, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Julianna 55 26509, Stuttgart, Hessen,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

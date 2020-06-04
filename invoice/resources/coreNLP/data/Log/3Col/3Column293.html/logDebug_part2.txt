@@ -1,0 +1,3 @@
+Malachi Fredriksson Vanessa 57 60952, Barcelona, khanh Hoa, United Kingdom
+PERSON,PERSON,PERSON,NUMBER,NUMBER,ORGANIZATION,O,LOCATION,COUNTRY,COUNTRY
+

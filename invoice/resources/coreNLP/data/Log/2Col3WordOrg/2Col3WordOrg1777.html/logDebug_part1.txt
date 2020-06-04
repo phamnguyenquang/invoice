@@ -1,0 +1,3 @@
+Andrea 4 80522, Moscow, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

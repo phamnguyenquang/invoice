@@ -1,0 +1,3 @@
+Adrian Öberg Tristan 30 98755, Osaka, Chiang Rai, Mexico Invoice Number: 231001
+MISC,O,O,NUMBER,NUMBER,LOCATION,CITY,CITY,COUNTRY,O,O,NUMBER
+

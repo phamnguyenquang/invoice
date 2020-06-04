@@ -1,0 +1,3 @@
+Ava Jansson Eli 26 50435, Nha Trang, Binh Thuan, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,O,NUMBER
+

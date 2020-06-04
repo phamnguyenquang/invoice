@@ -1,0 +1,3 @@
+35566, Minsk, Amnat Charoen, Saudi Arabia
+NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
+

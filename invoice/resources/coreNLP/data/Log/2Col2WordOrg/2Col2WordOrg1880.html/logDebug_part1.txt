@@ -1,0 +1,3 @@
+Andrew 93 44596, Minsk, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

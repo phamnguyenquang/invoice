@@ -1,0 +1,3 @@
+Bryce Mattsson Ruby 34 90940, Hanoi, Bremen, ThaiLand
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

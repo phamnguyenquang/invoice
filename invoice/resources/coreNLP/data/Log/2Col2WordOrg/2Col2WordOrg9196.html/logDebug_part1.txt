@@ -1,0 +1,3 @@
+28742, Tokyo, Bangkok, ThaiLand
+NUMBER,CITY,CITY,COUNTRY
+

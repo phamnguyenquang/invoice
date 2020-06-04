@@ -1,0 +1,3 @@
+Claire 60 93202, Barcelona, Binh Thuan,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

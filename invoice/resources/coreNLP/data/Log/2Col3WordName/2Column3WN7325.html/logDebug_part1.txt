@@ -1,0 +1,3 @@
+Ruby 87 68934, Istanbul, Bayern, South
+O,NUMBER,NUMBER,CITY,LOCATION,LOCATION
+

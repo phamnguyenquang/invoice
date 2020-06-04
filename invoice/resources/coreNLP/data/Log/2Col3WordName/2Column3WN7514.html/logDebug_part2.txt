@@ -1,0 +1,3 @@
+51953, Frankfurt am Main , Bangkok, Russia
+NUMBER,CITY,O,O,CITY,COUNTRY
+

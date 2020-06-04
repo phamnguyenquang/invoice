@@ -1,0 +1,3 @@
+42476, Madrid, Bangkok, New Zealand
+NUMBER,CITY,CITY,COUNTRY,COUNTRY
+

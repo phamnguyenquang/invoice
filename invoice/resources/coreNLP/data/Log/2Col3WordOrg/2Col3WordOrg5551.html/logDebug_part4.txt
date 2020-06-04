@@ -1,0 +1,3 @@
+Elise Andersson Kendall 44 15184, Ho Chi Minh, Floria, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Nicholas Anne Lindström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

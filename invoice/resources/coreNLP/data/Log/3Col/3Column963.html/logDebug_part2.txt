@@ -1,0 +1,3 @@
+Adeline Dahlberg Elijah 5 22561, Beijing, Bayern, Cambodia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

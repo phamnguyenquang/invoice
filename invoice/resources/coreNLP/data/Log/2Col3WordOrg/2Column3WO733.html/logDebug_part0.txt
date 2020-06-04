@@ -1,0 +1,3 @@
+Scarlett Thomas Nordström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

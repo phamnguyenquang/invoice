@@ -1,0 +1,3 @@
+Valerie 96 96114, Chicago, Bayern, Russia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

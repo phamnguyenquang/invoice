@@ -1,0 +1,3 @@
+Skylar Olofsson Mateo 66 25423, Berlin, Bremen, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

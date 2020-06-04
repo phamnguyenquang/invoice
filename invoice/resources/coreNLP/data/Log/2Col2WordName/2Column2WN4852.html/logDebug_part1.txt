@@ -1,0 +1,3 @@
+73935, Moscow, Seattles, Argentina
+NUMBER,CITY,LOCATION,COUNTRY
+

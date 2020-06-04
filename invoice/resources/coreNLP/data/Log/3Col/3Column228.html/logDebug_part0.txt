@@ -1,0 +1,3 @@
+Romtelecom Oscar 72 53870, Rome, Chai Nat, United Kingdom email@example.net
+ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,URL,O
+

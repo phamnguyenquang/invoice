@@ -1,0 +1,3 @@
+Katelyn Lee Pålsson Inc Ellie 2 69830, Frankfurt am Main , Chiang Mai, Australia Invoice Number: 231001
+PERSON,PERSON,O,O,O,O,NUMBER,NUMBER,CITY,O,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

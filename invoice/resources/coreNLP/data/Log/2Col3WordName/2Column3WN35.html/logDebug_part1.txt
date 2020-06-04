@@ -1,0 +1,3 @@
+Anna 22 43934, Berlin, Bangkok, Russia
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

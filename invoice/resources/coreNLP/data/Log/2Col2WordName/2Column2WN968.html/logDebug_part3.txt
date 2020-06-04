@@ -1,0 +1,3 @@
+Charles Rose Lundström Inc Valentina 66 37379, Dublin, Chiang Rai, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,O,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,O,NUMBER
+

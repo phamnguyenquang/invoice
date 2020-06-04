@@ -1,0 +1,3 @@
+Maddox Åberg Natalia 47 34088, Denver, Bangkok, VietNam Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

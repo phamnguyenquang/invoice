@@ -1,0 +1,3 @@
+Weston Söderberg Ximena 26 32880, Singapore, Chai Nat, Mexico Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,COUNTRY,CITY,CITY,COUNTRY,O,O,NUMBER
+

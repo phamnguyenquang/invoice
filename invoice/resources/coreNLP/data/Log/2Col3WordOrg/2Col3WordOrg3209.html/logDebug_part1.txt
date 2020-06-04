@@ -1,0 +1,3 @@
+Rachel 52 88718, Vancouver, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Mckenzie 98 27703, Tokyo, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

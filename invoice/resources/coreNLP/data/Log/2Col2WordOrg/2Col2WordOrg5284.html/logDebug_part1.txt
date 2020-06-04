@@ -1,0 +1,3 @@
+Angelina 97 84980, Istanbul, Chiang Rai,
+MISC,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

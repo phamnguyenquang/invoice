@@ -1,0 +1,3 @@
+Faith 75 76754, Singapore, Seattles, Italy
+O,NUMBER,NUMBER,COUNTRY,LOCATION,COUNTRY
+

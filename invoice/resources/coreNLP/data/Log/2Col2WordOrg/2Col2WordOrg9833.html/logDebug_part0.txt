@@ -1,0 +1,3 @@
+Julia Nordström Inc
+PERSON,PERSON,O,ORGANIZATION
+

@@ -1,0 +1,3 @@
+Destiny 10 89054, Singapore, Bremen, Saudi
+O,NUMBER,NUMBER,COUNTRY,CITY,NATIONALITY
+

@@ -1,0 +1,3 @@
+Stephanie 83 47993, Rome, khanh Hoa, India
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

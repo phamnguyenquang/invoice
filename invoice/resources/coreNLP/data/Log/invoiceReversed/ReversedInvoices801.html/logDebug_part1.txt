@@ -1,0 +1,3 @@
+91640, Stuttgart, Ang Thong, ThaiLand
+NUMBER,O,O,O,COUNTRY
+

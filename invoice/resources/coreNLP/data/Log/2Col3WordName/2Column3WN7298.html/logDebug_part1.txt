@@ -1,0 +1,3 @@
+Izabella 67 67682, Osaka, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

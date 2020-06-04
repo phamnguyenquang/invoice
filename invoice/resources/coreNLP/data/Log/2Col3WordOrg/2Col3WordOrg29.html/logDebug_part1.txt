@@ -1,0 +1,3 @@
+Emmanuel 60 10718, Munich, Hessen, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Jasmine Samuelsson Sarah 6 25765, Ho Chi Minh, Saarland, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,LOCATION,COUNTRY,O,O,NUMBER
+

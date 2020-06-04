@@ -1,0 +1,3 @@
+Oscar 42 76723, Seoul, Bayern, ThaiLand
+O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

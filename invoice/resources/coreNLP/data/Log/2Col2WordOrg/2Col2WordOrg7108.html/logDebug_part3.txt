@@ -1,0 +1,3 @@
+Isabella Nordin Kaiden 57 43380, Frankfurt am Main , Texas, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

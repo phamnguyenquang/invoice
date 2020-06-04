@@ -1,0 +1,3 @@
+Emily 69 15600, London , Seattles, Russia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

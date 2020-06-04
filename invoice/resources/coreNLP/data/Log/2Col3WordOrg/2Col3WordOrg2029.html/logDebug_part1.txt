@@ -1,0 +1,3 @@
+Nicholas 76 21474, Minsk, Hamburg, Turkey
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Patrick Isaksson Kai 11 40171, Dublin, Hamburg, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

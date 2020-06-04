@@ -1,0 +1,3 @@
+Adrian 66 39713, Amsterdam, Floria,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

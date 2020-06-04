@@ -1,0 +1,3 @@
+Alex 89 92667, Washington, Buriam,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

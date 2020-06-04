@@ -1,0 +1,3 @@
+Julia 18 12662, San Francisco, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

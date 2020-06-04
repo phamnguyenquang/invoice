@@ -1,0 +1,3 @@
+13206, Seoul, Chiang Mai, ThaiLand
+NUMBER,PERSON,PERSON,PERSON,COUNTRY
+

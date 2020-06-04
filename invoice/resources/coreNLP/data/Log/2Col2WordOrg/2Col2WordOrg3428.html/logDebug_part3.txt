@@ -1,0 +1,3 @@
+Wesley Mohamed Zoe 60 61244, Moscow, Seattles, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

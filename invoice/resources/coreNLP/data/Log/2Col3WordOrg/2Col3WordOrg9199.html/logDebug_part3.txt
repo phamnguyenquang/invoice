@@ -1,0 +1,3 @@
+Ava Söderberg Joseph 29 96080, Taipei, Heibei, New Zealand Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

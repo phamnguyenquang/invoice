@@ -1,0 +1,3 @@
+Everly Elizabeth Lindström Ltd Eli 96 18161, Last Vegas, Bangkok, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,O,ORGANIZATION,O,NUMBER,NUMBER,O,O,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Delilah Wallin Lucas 27 36776, Montreal, Saarland, South Africa Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

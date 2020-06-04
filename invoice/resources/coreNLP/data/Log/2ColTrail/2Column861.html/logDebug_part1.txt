@@ -1,0 +1,3 @@
+Alice 41 42719, Vancouver, Floria, Brazil
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

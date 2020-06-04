@@ -1,0 +1,3 @@
+Invoice Maroc telecom Eric 53
+ORGANIZATION,ORGANIZATION,O,PERSON,NUMBER
+

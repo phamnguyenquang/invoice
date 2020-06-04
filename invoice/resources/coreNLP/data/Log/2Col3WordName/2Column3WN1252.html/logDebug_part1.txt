@@ -1,0 +1,3 @@
+Adeline 32 29369, Stuttgart, Hawaii,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

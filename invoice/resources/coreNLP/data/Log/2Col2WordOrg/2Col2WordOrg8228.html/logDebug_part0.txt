@@ -1,0 +1,3 @@
+Angel Wikström Inc
+PERSON,PERSON,O,ORGANIZATION
+

@@ -1,0 +1,3 @@
+Makayla Hansson Ivan 11 51881, Moscow, Seattles, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Kaden Söderberg Emery 60 64160, Hong Kong, Saarland, VietNam Invoice Number: 231001
+PERSON,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

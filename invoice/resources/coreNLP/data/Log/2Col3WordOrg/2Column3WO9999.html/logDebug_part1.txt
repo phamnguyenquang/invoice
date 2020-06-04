@@ -1,0 +1,3 @@
+Alice 36 81705, Los Angeles, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

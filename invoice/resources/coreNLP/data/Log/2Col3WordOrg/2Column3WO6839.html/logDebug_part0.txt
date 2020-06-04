@@ -1,0 +1,3 @@
+Ellie Rose Lundström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

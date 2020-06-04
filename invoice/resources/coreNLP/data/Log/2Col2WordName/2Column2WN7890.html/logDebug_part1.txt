@@ -1,0 +1,3 @@
+23686, Osaka, Chiang Rai, Mexico
+NUMBER,PERSON,PERSON,PERSON,PERSON
+

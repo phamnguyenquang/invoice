@@ -1,0 +1,3 @@
+55954, Minsk, Bangkok, ThaiLand
+NUMBER,CITY,CITY,COUNTRY
+

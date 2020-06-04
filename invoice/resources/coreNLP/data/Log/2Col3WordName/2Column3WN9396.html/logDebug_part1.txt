@@ -1,0 +1,3 @@
+Autumn 51 66296, Last Vegas, Indiana,
+DATE,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE
+

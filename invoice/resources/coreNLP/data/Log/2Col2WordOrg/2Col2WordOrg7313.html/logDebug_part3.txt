@@ -1,0 +1,3 @@
+Kaiden Andersson Weston 25 87644, Tokyo, Guangdong, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

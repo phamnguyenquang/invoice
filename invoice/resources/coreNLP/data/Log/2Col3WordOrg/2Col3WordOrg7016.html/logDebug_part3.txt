@@ -1,0 +1,3 @@
+Mateo Svensson Brianna 11 75843, Chicago, Chiang Mai, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

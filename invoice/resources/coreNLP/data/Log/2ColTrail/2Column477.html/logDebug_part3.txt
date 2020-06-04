@@ -1,0 +1,3 @@
+Harrison Hassan Mia 45 92644, Frankfurt am Main , Seattles, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

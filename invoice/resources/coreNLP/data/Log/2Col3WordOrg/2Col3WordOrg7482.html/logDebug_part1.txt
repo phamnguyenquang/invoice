@@ -1,0 +1,3 @@
+Nicole 60 50190, Sydney, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

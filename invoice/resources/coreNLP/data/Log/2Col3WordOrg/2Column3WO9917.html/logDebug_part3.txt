@@ -1,0 +1,3 @@
+Natalie Lindberg Michael 24 88618, Paris, khanh Hoa, Japan Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,O,O,NUMBER
+

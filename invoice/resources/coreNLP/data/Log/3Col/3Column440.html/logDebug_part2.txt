@@ -1,0 +1,3 @@
+Naomi Löfgren Destiny 81 69556, Frankfurt am Main , Chiang Mai, France
+PERSON,PERSON,O,O,NUMBER,NUMBER,CITY,O,PERSON,PERSON,PERSON,PERSON
+

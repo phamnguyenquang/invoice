@@ -1,0 +1,3 @@
+Taylor 46 90260, Istanbul, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Patrick 34 42352, Istanbul, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Daniela 3 52321, San Francisco, Amnat
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

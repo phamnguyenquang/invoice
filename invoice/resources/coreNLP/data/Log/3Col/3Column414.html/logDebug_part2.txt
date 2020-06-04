@@ -1,0 +1,3 @@
+Richard Martinsson Malachi 97 75326, Stuttgart, Ham- burg, Argentina
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY
+

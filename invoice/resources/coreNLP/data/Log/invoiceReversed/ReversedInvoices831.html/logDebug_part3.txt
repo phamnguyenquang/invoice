@@ -1,0 +1,3 @@
+Ivan Andersson Michael 68 38461, Istanbul, Chai Nat, New Zealand
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
+

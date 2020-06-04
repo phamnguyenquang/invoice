@@ -1,0 +1,3 @@
+Elias Eriksson Madeline 54 34247, Berlin, khanh Hoa, laos Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,PERSON,O,O,O,NUMBER
+

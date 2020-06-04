@@ -1,0 +1,3 @@
+Alex 66 70802, Seoul, Tuscany, laos
+PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

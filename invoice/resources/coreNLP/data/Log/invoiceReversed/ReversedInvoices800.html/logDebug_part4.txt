@@ -1,0 +1,3 @@
+Michael Fransson Alexis 95 84960, Chicago, Bangkok, Russia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

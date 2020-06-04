@@ -1,0 +1,3 @@
+Maddox 4 76887, Paris, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

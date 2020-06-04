@@ -1,0 +1,3 @@
+Micah Karlsson Hailey 42 60899, Madrid, Seattles, Argentina
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

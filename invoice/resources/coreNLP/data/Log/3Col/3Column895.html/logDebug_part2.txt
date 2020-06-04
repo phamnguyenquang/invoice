@@ -1,0 +1,3 @@
+Camden Pettersson Ryker 45 99372, Vancouver, Tus- cany, Italy
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY
+

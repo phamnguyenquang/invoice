@@ -1,0 +1,3 @@
+Norah Wikström Samuel 13 68439, Budapest, Guangzhou, Turkey Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

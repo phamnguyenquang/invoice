@@ -1,0 +1,3 @@
+22352, Lisbon, Bangkok, ThaiLand
+NUMBER,CITY,CITY,COUNTRY
+

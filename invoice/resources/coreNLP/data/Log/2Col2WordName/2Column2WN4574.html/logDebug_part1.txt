@@ -1,0 +1,3 @@
+73699, Taipei, Amnat Charoen, Switzerland
+NUMBER,CITY,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Daniel Claesson Natalie 20 18881, Berlin, Hessen, Russia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

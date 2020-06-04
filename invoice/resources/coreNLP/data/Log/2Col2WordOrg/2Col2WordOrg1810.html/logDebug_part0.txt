@@ -1,0 +1,3 @@
+Isabel Bergström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

@@ -1,0 +1,3 @@
+Abel Henriksson Ashton 14 69880, Venice, Chiang Rai, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY
+

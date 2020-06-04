@@ -1,0 +1,3 @@
+Adrian 42 74453, Paris, khanh Hoa, Mexico
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

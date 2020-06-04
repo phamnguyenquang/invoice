@@ -1,0 +1,3 @@
+Cole 47 77757, Paris, Seattles, Turkey
+O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

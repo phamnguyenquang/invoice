@@ -1,0 +1,3 @@
+Roman 88 39076, Amsterdam, Bayern,
+MISC,NUMBER,NUMBER,CITY,LOCATION
+

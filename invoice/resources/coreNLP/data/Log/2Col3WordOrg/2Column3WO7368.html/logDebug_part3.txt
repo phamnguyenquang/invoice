@@ -1,0 +1,3 @@
+Sophie Ström Londyn 89 85556, Ho Chi Minh, Indiana, Switzerland Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,O,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

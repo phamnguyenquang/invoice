@@ -1,0 +1,3 @@
+Summer 79 30616, Amsterdam, Floria,
+DATE,NUMBER,NUMBER,CITY,LOCATION
+

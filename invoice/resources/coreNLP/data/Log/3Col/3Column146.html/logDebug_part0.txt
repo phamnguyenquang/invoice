@@ -1,0 +1,3 @@
+Calix Adrian 21 67072, Sydney, Chiang Mai, Ireland email@example.net
+PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,URL,O
+

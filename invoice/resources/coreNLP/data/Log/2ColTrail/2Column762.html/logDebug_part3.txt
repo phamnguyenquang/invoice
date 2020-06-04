@@ -1,0 +1,3 @@
+Victor Nordström Laila 21 27209, Berlin, Ang Thong, Singapore Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

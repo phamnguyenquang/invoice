@@ -1,0 +1,3 @@
+Tucker Pålsson Alexis 31 11631, Berlin, Seattles, Cambodia Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

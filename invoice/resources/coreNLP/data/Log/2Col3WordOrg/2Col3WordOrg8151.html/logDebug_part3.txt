@@ -1,0 +1,3 @@
+Quinn Håkansson Aidan 65 70401, San Francisco, Binh Thuan, New Zealand Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

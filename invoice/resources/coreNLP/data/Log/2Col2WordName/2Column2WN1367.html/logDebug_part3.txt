@@ -1,0 +1,3 @@
+Sara Robert Söderberg Ltd Nathaniel 19 78595, Frankfurt am Main , Henan, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+

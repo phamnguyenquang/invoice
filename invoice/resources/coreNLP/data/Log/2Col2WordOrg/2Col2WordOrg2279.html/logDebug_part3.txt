@@ -1,0 +1,3 @@
+Oscar Blomqvist Nicole 90 65671, Vienna, Chai Nat, Indonesia s Invoice Number: 231001
+O,O,O,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,O,NUMBER
+

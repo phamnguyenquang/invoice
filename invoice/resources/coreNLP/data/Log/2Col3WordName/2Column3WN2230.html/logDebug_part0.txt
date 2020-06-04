@@ -1,0 +1,3 @@
+Adam Rose Nordström
+PERSON,PERSON,PERSON,O
+

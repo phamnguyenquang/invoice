@@ -1,0 +1,3 @@
+Aurora Hedlund Noah 32 67572, Frankfurt am Main , Chiang Rai, Singapore Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

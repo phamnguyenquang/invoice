@@ -1,0 +1,3 @@
+Jeremiah Lindholm Kaleb 33 71297, Nha Trang, Guangzhou, South Africa Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

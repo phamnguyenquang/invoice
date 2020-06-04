@@ -1,0 +1,3 @@
+Tucker Lindström Jessica 92 46303, Vienna, Seattles, Singapore
+PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

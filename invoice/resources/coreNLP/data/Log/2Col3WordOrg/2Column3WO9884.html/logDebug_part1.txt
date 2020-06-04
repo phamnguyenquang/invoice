@@ -1,0 +1,3 @@
+Autumn 22 85514, Taipei, Buriam, Germany
+DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

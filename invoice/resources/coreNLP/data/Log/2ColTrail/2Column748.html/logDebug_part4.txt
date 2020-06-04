@@ -1,0 +1,3 @@
+Aurora Jakobsson Alexander 88 31050, Last Vegas, Hessen, Cambodia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

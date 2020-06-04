@@ -1,0 +1,3 @@
+Katherine 72 15144, Beijing, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

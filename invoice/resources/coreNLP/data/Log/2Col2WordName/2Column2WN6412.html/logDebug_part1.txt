@@ -1,0 +1,3 @@
+39209, Osaka, Chai Nat, Switzerland
+NUMBER,PERSON,PERSON,PERSON,PERSON
+

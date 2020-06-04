@@ -1,0 +1,3 @@
+Nicholas Kate Lindström
+PERSON,PERSON,PERSON,O
+

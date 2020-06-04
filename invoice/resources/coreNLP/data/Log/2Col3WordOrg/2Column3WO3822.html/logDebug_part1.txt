@@ -1,0 +1,3 @@
+Bradley 23 21523, Tokyo, Buriam,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Juliana Lindgren Cayden 16 81075, Moscow, Tuscany, India Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Blake Mohamed Antonio 8 55311, Venice, Amnat Charoen, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

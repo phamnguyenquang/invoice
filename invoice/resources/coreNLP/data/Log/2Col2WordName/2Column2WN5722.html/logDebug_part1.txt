@@ -1,0 +1,3 @@
+Avery 84 12989, Chicago, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

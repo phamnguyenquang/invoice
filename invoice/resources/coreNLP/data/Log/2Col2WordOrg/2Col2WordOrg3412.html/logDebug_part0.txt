@@ -1,0 +1,3 @@
+Jeremiah Bergström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

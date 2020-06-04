@@ -1,0 +1,3 @@
+49032, San Francisco, Bangkok, Singapore
+NUMBER,CITY,CITY,CITY,COUNTRY
+

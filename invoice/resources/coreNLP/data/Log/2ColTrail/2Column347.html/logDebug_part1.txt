@@ -1,0 +1,3 @@
+Londyn 5 98634, Seoul, Tuscany, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

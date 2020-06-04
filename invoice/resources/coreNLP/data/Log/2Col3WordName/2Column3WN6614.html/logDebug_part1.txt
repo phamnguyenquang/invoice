@@ -1,0 +1,3 @@
+Rebecca 27 93248, Tokyo, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

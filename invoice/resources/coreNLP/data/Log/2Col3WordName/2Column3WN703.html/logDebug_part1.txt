@@ -1,0 +1,3 @@
+Nicole 98 98856, Minsk, Tuscany,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

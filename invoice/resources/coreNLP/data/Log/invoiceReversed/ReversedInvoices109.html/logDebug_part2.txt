@@ -1,0 +1,3 @@
+Alexis Mattsson Adriana 76 33665, Berlin, Bangkok, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

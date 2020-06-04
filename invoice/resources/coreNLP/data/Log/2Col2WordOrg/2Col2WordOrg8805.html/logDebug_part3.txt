@@ -1,0 +1,3 @@
+Adam Sjöberg Alexa 95 17703, Ho Chi Minh, Huabei, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,LOCATION,COUNTRY,O,O,O,NUMBER
+

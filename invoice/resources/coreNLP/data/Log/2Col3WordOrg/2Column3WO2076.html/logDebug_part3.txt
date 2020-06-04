@@ -1,0 +1,3 @@
+Noah Fredriksson Kaiden 94 77435, Berlin, Chai Nat, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

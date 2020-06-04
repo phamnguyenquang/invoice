@@ -1,0 +1,3 @@
+Kennedy Andersson Elena 56 24008, Sydney, Floria, Switzerland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

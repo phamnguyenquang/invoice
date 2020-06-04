@@ -1,0 +1,3 @@
+George 54 80705, Moscow, Seattles, Italy
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

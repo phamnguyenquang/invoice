@@ -1,0 +1,3 @@
+Leonardo Månsson Ivan 47 59485, Milan, Chiang Rai, VietNam Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

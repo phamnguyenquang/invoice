@@ -1,0 +1,3 @@
+Daniel Claesson Maximus 92 44846, Vancouver, Huabei, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

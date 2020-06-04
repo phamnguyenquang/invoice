@@ -1,0 +1,3 @@
+Elena 36 73166, Seoul, Saarland, Germany
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

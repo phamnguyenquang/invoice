@@ -1,0 +1,3 @@
+Oscar Ek Elena 9 87581, Seoul, Binh Thuan, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
+

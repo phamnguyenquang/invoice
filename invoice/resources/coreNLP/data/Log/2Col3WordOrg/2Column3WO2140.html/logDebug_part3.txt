@@ -1,0 +1,3 @@
+Bradley Lindqvist Jonah 23 65655, Denver, Bremen, Denmark Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

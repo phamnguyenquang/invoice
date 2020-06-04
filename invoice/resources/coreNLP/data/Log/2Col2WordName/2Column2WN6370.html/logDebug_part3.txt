@@ -1,0 +1,3 @@
+Nicholas Kate Wallin Inc Delilah 44 63764, Madrid, Huabei, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

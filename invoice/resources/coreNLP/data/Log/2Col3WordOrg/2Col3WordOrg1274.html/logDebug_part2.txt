@@ -1,0 +1,3 @@
+22446, Osaka, Bangkok, Indonesia s
+NUMBER,LOCATION,CITY,COUNTRY,O
+

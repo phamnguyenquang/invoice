@@ -1,0 +1,3 @@
+Invoice Hong Kong Polytechnic
+O,CITY,CITY,LOCATION
+

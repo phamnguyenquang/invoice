@@ -1,0 +1,3 @@
+Kinsley 97 20579, Last Vegas, Chai Nat,
+PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
+

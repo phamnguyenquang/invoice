@@ -1,0 +1,3 @@
+Natalia 58 25308, Paris, Bayern, laos
+PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

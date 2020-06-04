@@ -1,0 +1,3 @@
+Rebecca 2 59850, Moscow, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

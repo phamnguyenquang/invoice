@@ -1,0 +1,3 @@
+Adeline 30 16681, Los Angeles, Huabei,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+University of Manitoba Ellie 23 98733, Florence, Guangzhou, Argentina email@example.net
+ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,COUNTRY,URL,O
+

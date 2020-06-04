@@ -1,0 +1,3 @@
+Xavier Berg Valeria 72 19340, Osaka, Ang Thong, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,DATE,LOCATION,CITY,CITY,COUNTRY,O,O,NUMBER
+

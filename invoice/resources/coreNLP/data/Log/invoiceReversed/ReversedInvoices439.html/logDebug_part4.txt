@@ -1,0 +1,3 @@
+Rose Hansson Angel 25 83510, Shanghai, Tuscany, Philippines
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

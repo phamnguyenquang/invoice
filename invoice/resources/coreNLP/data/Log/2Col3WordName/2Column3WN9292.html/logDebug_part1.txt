@@ -1,0 +1,3 @@
+Lindström Lillian 35
+PERSON,O,ORGANIZATION,NUMBER
+

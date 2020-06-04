@@ -1,0 +1,3 @@
+Paige 6 89997, Moscow, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

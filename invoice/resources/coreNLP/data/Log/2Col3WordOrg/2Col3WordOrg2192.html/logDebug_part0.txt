@@ -1,0 +1,3 @@
+Kennedy Louise Ström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
+

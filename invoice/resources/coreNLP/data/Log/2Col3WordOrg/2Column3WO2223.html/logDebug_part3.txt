@@ -1,0 +1,3 @@
+Blake Åkesson Daniel 51 33944, Hanoi, Heibei, Turkey Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

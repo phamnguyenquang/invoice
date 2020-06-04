@@ -1,0 +1,3 @@
+Angelina 24 42788, Osaka, Chiang Rai,
+MISC,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

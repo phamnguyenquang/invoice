@@ -1,0 +1,3 @@
+Maddox Arvidsson Jennifer 64 60648, Ho Chi Minh, Chai Nat, China Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,O,COUNTRY,O,O,NUMBER
+

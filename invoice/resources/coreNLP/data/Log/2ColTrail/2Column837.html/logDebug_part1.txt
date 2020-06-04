@@ -1,0 +1,3 @@
+Bratislava Slovak Amelia 46
+O,NATIONALITY,O,NUMBER
+

@@ -1,0 +1,3 @@
+Maria 70 35513, Amsterdam, Buriam,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

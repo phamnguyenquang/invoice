@@ -1,0 +1,3 @@
+Londyn 8 47660, Tokyo, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

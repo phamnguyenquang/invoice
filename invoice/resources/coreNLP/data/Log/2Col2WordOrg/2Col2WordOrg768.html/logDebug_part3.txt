@@ -1,0 +1,3 @@
+Kaden Håkansson Catherine 79 33720, Ho Chi Minh, Phu Yen, Mexico Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,O,O,O,O,MONEY,COUNTRY,O,O,NUMBER
+

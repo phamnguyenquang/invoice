@@ -1,0 +1,3 @@
+Michelle 39 90230, Osaka, Seattles,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

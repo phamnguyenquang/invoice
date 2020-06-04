@@ -1,0 +1,3 @@
+Cooper 57 32530, Florence, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

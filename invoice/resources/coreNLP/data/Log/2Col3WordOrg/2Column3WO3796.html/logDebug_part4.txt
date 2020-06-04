@@ -1,0 +1,3 @@
+Mckenzie Magnusson Blake 47 48312, Los Angeles, Guangdong, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

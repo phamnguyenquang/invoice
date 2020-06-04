@@ -1,0 +1,3 @@
+Avery 52 89074, Taipei, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

@@ -1,0 +1,3 @@
+Bryan Fredriksson Emma 1 61920, Frankfurt am Main , Buriam, Argentina Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

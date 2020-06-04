@@ -1,0 +1,3 @@
+Penelope Ekström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

@@ -1,0 +1,3 @@
+Katherine 22 25888, Vancouver, Hawaii,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

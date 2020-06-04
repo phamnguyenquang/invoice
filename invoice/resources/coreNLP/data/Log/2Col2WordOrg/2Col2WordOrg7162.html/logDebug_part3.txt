@@ -1,0 +1,3 @@
+Nathaniel Gunnarsson Izabella 33 47970, Osaka, Guangdong, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

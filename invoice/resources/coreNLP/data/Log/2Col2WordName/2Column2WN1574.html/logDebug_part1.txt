@@ -1,0 +1,3 @@
+Vanessa 7 65143, Taipei, Huabei, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

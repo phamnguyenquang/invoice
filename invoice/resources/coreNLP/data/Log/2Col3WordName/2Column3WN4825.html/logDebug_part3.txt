@@ -1,0 +1,3 @@
+Luke Michael Jakobsson Inc Leah 79 47588, Frankfurt am Main , Hawaii, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

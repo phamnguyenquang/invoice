@@ -1,0 +1,3 @@
+Maverick 70 14334, Osaka, Buriam, ThaiLand
+O,NUMBER,NUMBER,PERSON,PERSON,COUNTRY
+

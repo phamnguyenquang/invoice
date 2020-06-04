@@ -1,0 +1,3 @@
+Luke Månsson Joshua 96 35626, Hanoi, Indiana, China Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

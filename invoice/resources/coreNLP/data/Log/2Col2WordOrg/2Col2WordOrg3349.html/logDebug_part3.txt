@@ -1,0 +1,3 @@
+Clara Nyström Christopher 86 89510, Taipei, Indiana, South Korea Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+

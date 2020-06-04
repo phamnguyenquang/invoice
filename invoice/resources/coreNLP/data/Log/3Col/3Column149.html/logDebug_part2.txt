@@ -1,0 +1,3 @@
+Avery Lundström Aiden 37 99279, Amsterdam, Ham- burg, China
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,COUNTRY
+

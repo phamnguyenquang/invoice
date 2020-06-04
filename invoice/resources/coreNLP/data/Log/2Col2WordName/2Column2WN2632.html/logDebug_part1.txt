@@ -1,0 +1,3 @@
+Nicholas 9 82562, Munich, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Ryker 50 95715, Frankfurt am Main ,
+PERSON,NUMBER,NUMBER,CITY,O,O
+

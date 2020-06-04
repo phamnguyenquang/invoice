@@ -1,0 +1,3 @@
+Ellie Ekström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

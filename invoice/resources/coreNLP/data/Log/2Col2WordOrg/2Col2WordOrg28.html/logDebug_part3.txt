@@ -1,0 +1,3 @@
+Aubrey Andersson Bentley 21 46206, Chicago, Floria, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

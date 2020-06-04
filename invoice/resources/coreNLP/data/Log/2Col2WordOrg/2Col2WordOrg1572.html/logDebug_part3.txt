@@ -1,0 +1,3 @@
+Anthony Nyström Miles 17 63789, Osaka, Hessen, United Kingdom Invoice Number: 231001
+PERSON,PERSON,O,O,NUMBER,NUMBER,LOCATION,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

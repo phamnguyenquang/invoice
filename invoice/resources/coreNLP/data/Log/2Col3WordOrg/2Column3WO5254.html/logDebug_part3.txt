@@ -1,0 +1,3 @@
+Kai Björk Wyatt 87 26888, Milan, Buriam, laos Invoice Number: 231001
+O,O,O,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,O,O,O,NUMBER
+

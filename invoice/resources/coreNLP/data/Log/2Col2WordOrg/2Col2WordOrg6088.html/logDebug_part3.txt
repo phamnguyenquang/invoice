@@ -1,0 +1,3 @@
+Alana Åberg Jordyn 93 75908, Osaka, Chai Nat, ThaiLand Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

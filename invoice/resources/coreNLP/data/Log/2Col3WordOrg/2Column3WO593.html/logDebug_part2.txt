@@ -1,0 +1,3 @@
+49274, Florence, Hessen, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
+

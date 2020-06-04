@@ -1,0 +1,3 @@
+Claire 8 96760, Last Vegas, Texas,
+PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE
+

@@ -1,0 +1,3 @@
+Summer 55 12273, Chicago, Hamburg,
+DATE,NUMBER,NUMBER,CITY,CITY
+

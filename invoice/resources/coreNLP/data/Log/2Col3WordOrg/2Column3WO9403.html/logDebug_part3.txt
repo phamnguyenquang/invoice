@@ -1,0 +1,3 @@
+Kaleb Hedlund Parker 43 56974, Shanghai, Floria, New Zealand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

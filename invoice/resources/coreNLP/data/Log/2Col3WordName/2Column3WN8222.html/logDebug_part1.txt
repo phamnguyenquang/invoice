@@ -1,0 +1,3 @@
+Isaac 40 54925, Taipei, Buriam, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

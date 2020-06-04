@@ -1,0 +1,3 @@
+Emmanuel Sjögren Leah 96 45891, Istanbul, Guangzhou, Singapore Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

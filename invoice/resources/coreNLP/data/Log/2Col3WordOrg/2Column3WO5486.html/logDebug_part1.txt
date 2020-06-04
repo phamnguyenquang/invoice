@@ -1,0 +1,3 @@
+Nathan 13 10792, Paris, Seattles, Mexico
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

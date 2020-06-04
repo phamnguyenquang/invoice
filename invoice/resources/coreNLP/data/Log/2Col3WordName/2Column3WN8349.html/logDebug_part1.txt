@@ -1,0 +1,3 @@
+Dominic 78 31441, Barcelona, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

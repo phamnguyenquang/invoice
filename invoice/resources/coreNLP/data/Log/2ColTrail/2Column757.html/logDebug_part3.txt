@@ -1,0 +1,3 @@
+Michelle Sandström Khloe 83 19473, Dublin, Huabei, Ireland Invoice Number: 231001
+PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

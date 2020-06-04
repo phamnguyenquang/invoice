@@ -1,0 +1,3 @@
+Amir Lindström Timothy 93 41094, Berlin, Texas, Aus- tralia
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O,O
+

@@ -1,0 +1,3 @@
+Natalie 7 85975, Beijing, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Jennifer Peter Samuelsson Pte Ltd Layla 22 35902, Milan, Bayern, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,ORGANIZATION,ORGANIZATION,O,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Aria Kate Magnusson Ltd Abel 74 71924, Chicago, Chiang Mai, United Kingdom Invoice Number: 231001
+O,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

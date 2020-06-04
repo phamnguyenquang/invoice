@@ -1,0 +1,3 @@
+Kennedy 42 99479, Paris, Heibei, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

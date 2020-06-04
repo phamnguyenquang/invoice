@@ -1,0 +1,3 @@
+Autumn 94 78637, Barcelona, Indiana,
+DATE,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+

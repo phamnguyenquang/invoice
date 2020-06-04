@@ -1,0 +1,3 @@
+Cora Månsson Bradley 14 40385, Vienna, Chiang Rai, South Korea Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

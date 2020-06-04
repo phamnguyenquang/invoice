@@ -1,0 +1,3 @@
+Nathan Mohamed Brianna 24 20118, Rome, Ang Thong, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

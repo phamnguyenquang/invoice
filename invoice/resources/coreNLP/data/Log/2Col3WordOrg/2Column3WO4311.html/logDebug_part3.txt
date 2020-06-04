@@ -1,0 +1,3 @@
+Gianna Söderberg Summer 73 30013, Chicago, Bangkok, New Zealand Invoice Number: 231001
+PERSON,O,O,DATE,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+

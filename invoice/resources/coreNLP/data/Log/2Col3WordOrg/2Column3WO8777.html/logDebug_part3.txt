@@ -1,0 +1,3 @@
+Caleb Lindqvist Aria 92 69543, Istanbul, Binh Thuan, Indonesia s Invoice Number: 231001
+PERSON,PERSON,O,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,O,NUMBER
+

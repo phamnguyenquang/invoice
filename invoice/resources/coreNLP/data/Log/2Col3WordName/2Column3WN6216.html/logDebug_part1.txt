@@ -1,0 +1,3 @@
+Samuel 41 69705, Budapest, Heibei,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

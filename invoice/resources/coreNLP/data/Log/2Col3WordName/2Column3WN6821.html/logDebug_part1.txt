@@ -1,0 +1,3 @@
+Cole 85 54034, Stuttgart, Bayern,
+O,NUMBER,NUMBER,PERSON,PERSON
+

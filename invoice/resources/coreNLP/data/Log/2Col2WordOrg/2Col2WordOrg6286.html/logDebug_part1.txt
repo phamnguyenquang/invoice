@@ -1,0 +1,3 @@
+Katherine 32 35352, San Francisco, Seattles,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

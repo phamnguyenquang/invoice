@@ -1,0 +1,3 @@
+University of Szeged Arianna 47 55007, Vancouver, Guangdong, laos email@example.net
+ORGANIZATION,ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O,URL,O
+

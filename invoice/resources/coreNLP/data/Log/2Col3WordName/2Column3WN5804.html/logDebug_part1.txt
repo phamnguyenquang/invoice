@@ -1,0 +1,3 @@
+68586, Osaka, Amnat Charoen, New Zealand
+NUMBER,LOCATION,CITY,CITY,COUNTRY,COUNTRY
+

@@ -1,0 +1,3 @@
+Valeria Lindgren Maverick 99 68907, Taipei, Heibei, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

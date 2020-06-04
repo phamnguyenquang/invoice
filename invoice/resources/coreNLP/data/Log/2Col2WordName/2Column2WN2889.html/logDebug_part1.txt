@@ -1,0 +1,3 @@
+61318, Vancouver, Indiana, ThaiLand
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+

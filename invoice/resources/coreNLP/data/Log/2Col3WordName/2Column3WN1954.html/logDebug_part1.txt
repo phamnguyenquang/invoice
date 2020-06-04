@@ -1,0 +1,3 @@
+Nathaniel 47 80041, London , Seattles, Mexico
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

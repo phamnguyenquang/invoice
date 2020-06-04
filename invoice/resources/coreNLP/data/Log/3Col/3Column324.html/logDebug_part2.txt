@@ -1,0 +1,3 @@
+John Andreasson Ruby 57 83237, Munich, Saarland, China
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

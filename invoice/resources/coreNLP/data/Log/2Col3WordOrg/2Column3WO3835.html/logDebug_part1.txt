@@ -1,0 +1,3 @@
+Daniela 40 62496, Osaka, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

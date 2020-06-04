@@ -1,0 +1,3 @@
+Kaitlyn 58 27669, Los Angeles, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

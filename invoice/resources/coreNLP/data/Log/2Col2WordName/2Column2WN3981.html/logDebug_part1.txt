@@ -1,0 +1,3 @@
+Autumn 48 67649, London , Bremen, France
+DATE,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

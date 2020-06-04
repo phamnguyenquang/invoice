@@ -1,0 +1,3 @@
+Claire Ekström Patrick 81 86182, Los Angeles, Indiana, Cambodia Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+

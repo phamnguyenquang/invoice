@@ -1,0 +1,3 @@
+Summer Claesson Eric 41 15888, Berlin, Hamburg, Cambodia
+DATE,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

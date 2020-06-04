@@ -1,0 +1,3 @@
+Maverick Strömberg Faith 12 39992, Frankfurt am Main , Guangzhou, Ireland Invoice Number: 231001
+O,O,O,O,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

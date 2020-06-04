@@ -1,0 +1,3 @@
+Kingston Lind Bentley 99 39315, Frankfurt am Main , Huabei, France Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

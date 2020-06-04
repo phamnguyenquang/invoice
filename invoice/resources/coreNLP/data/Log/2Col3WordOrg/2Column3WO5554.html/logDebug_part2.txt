@@ -1,0 +1,3 @@
+68601, Lisbon, Bangkok, Australia
+NUMBER,CITY,CITY,COUNTRY
+

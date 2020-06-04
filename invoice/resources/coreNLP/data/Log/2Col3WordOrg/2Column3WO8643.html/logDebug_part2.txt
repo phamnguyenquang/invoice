@@ -1,0 +1,3 @@
+20542, Stuttgart, Floria, Switzerland
+NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Charlotte Lindqvist Sarah 70 38414, Seoul, Seattles, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+

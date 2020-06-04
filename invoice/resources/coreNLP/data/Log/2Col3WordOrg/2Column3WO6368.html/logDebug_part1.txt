@@ -1,0 +1,3 @@
+Alexander 77 62902, San Francisco, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

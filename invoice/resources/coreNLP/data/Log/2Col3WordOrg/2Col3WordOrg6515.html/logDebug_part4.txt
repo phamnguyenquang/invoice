@@ -1,0 +1,3 @@
+Stella Forsberg Eric 69 91744, Venice, Chiang Mai, Japan Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

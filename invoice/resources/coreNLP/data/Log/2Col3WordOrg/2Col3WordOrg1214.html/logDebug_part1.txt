@@ -1,0 +1,3 @@
+Natalia 26 81949, Osaka, Hamburg,
+PERSON,NUMBER,NUMBER,LOCATION,CITY
+

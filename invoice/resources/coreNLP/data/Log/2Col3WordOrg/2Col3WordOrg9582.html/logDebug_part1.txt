@@ -1,0 +1,3 @@
+Kimberly 59 68377, Beijing, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

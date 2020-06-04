@@ -1,0 +1,3 @@
+Autumn 31 79612, Lisbon, Bremen,
+DATE,NUMBER,NUMBER,CITY,CITY
+

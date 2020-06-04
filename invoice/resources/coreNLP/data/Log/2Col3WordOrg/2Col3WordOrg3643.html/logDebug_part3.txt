@@ -1,0 +1,3 @@
+Summer Magnusson Jeremy 50 67018, Dublin, Chai Nat, Turkey Invoice Number: 231001
+DATE,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

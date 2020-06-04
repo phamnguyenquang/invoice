@@ -1,0 +1,3 @@
+Alexis Fredriksson Nicholas 35 81598, Denver, Bangkok, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

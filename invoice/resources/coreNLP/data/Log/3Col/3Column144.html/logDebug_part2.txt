@@ -1,0 +1,3 @@
+Emmanuel Larsson Scarlett 60 13546, Ho Chi Minh, Huabei, Canada
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Madeline 14 35609, Last Vegas, Bangkok,
+PERSON,NUMBER,NUMBER,O,O,CITY
+

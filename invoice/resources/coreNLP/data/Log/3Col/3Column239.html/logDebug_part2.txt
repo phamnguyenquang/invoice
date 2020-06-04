@@ -1,0 +1,3 @@
+David Johansson Samantha 35 63837, Madrid, Guang- dong, laos
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,O
+

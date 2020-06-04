@@ -1,0 +1,3 @@
+Adeline 74 97047, Munich, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

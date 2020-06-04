@@ -1,0 +1,3 @@
+Catherine 68 56474, Osaka, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

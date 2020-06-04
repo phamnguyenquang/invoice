@@ -1,0 +1,3 @@
+Anna Bergström Inc
+PERSON,PERSON,O,ORGANIZATION
+

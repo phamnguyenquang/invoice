@@ -1,0 +1,3 @@
+Nicolas 98 58841, Osaka, Tuscany,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

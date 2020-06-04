@@ -1,0 +1,3 @@
+Taylor 85 97648, London , Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

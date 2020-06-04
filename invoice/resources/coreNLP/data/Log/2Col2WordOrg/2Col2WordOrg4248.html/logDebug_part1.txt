@@ -1,0 +1,3 @@
+Giovanni 73 99407, Amsterdam, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

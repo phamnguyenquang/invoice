@@ -1,0 +1,3 @@
+Christian 52 86827, Melbourne, Chiang Rai,
+RELIGION,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+Destiny Lindqvist Michael 27 18572, Taipei, Hessen, Switzerland Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

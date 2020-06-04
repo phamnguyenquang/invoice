@@ -1,0 +1,3 @@
+Hayden 2 77119, Minsk, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

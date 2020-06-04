@@ -1,0 +1,3 @@
+Gabrielle 16 98248, Taipei, Seattles,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

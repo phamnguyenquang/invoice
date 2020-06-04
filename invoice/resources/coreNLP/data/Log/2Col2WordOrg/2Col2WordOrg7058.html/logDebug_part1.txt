@@ -1,0 +1,3 @@
+Valentina 15 35114, Osaka, Bayern, laos
+PERSON,NUMBER,NUMBER,LOCATION,LOCATION,O
+

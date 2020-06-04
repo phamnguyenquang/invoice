@@ -1,0 +1,3 @@
+Faith Michael Lindström Ltd
+O,PERSON,PERSON,O,ORGANIZATION
+

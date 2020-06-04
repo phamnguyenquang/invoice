@@ -1,0 +1,3 @@
+Kenneth Wallin Jasmine 83 56000, Florence, khanh Hoa, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
+

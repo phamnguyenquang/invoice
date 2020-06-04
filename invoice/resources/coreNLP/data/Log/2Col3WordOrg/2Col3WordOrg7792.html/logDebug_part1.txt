@@ -1,0 +1,3 @@
+Alaina 60 84365, Amsterdam, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

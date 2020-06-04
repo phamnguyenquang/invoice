@@ -1,0 +1,3 @@
+Daniel Hermansson Santiago 40 54653, Singapore, Bremen, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,COUNTRY,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+51218, Los Angeles, Bayern, ThaiLand
+NUMBER,CITY,CITY,LOCATION,COUNTRY
+

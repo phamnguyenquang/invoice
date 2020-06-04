@@ -1,0 +1,3 @@
+77203, Stuttgart, Saarland, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
+

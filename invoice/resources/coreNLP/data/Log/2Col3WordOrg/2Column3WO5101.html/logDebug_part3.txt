@@ -1,0 +1,3 @@
+Tucker Lindberg Nathaniel 97 68936, Los Angeles, Chiang Rai, Argentina Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Ashley 62 55234, Vancouver, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

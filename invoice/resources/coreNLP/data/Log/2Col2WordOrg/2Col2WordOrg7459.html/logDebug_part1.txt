@@ -1,0 +1,3 @@
+Patrick 87 75928, Osaka, Bangkok, Turkey
+PERSON,NUMBER,NUMBER,LOCATION,CITY,COUNTRY
+

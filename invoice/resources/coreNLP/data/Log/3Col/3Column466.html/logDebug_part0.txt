@@ -1,0 +1,3 @@
+Chulalongkorn University Kaylee 70 22847, London , Tuscany, ThaiLand email@example.net
+ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,URL,O
+

@@ -1,0 +1,3 @@
+42304, Hong Kong, Bayern, Singapore
+NUMBER,CITY,CITY,LOCATION,COUNTRY
+

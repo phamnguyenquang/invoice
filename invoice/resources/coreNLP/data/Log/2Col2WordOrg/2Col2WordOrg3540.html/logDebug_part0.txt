@@ -1,0 +1,3 @@
+Gabriella Wikström Inc
+PERSON,PERSON,O,ORGANIZATION
+

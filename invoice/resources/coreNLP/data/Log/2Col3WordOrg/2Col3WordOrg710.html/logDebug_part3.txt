@@ -1,0 +1,3 @@
+Claire Johansson Nevaeh 29 28746, Taipei, Chiang Rai, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+

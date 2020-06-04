@@ -1,0 +1,3 @@
+Elijah Wikström Alexis 67 79366, Seoul, Hessen, New Zealand Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

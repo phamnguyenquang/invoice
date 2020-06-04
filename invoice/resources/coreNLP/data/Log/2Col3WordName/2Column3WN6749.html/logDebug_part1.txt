@@ -1,0 +1,3 @@
+Natalia 13 97312, Osaka, Guangzhou, South
+PERSON,NUMBER,NUMBER,LOCATION,CITY,LOCATION
+

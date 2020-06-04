@@ -1,0 +1,3 @@
+82677, Berlin, Saarland, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
+

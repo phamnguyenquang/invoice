@@ -1,0 +1,3 @@
+Clara 35 87113, Minsk, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+49720, Osaka, Saarland, Switzerland
+NUMBER,LOCATION,LOCATION,COUNTRY
+

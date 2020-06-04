@@ -1,0 +1,3 @@
+Kai 71 77751, Berlin, Amnat Charoen,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

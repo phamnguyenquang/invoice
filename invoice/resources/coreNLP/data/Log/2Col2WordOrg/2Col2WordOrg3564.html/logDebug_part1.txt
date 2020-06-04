@@ -1,0 +1,3 @@
+Elise 84 88591, Washington, Chiang Rai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+95074, Bonn, Phu Yen, Japan email@example.net Date: 18 April 2020
+NUMBER,CITY,LOCATION,LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
+

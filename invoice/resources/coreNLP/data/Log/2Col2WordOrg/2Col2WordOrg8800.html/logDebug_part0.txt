@@ -1,0 +1,3 @@
+Henry Nyström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

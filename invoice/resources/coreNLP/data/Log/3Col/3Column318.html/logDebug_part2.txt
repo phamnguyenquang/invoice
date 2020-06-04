@@ -1,0 +1,3 @@
+John Lundgren Giovanni 98 96343, Bonn, Hessen, Den- mark
+PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,O
+

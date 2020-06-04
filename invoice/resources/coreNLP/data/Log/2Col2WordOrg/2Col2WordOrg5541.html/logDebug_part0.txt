@@ -1,0 +1,3 @@
+Nicholas Engström Inc
+PERSON,PERSON,O,ORGANIZATION
+

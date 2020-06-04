@@ -1,0 +1,3 @@
+Alice 25 36780, Budapest, Hessen,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

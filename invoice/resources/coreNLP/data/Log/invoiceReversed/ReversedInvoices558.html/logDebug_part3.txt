@@ -1,0 +1,3 @@
+Kennedy Andersson Bryce 52 20753, Berlin, Saarland, Canada
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

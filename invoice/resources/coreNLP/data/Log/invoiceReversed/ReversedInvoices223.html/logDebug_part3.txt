@@ -1,0 +1,3 @@
+Eric Åberg Jordan 47 45806, Taipei, Guangzhou, Japan
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

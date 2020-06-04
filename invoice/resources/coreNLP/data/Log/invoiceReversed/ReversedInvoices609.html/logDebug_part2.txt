@@ -1,0 +1,3 @@
+Elena Martinsson Layla 14 94472, Berlin, Bangkok, United State
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,LOCATION
+

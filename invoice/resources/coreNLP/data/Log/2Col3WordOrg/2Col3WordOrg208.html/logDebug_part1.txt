@@ -1,0 +1,3 @@
+Lauren 53 22943, Chicago, Bayern, Brazil
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

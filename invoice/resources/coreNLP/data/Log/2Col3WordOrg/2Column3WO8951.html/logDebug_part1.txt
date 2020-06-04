@@ -1,0 +1,3 @@
+Rose 67 23547, London , Seattles,
+O,NUMBER,NUMBER,PERSON,PERSON
+

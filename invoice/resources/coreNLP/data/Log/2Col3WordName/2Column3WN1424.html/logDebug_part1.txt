@@ -1,0 +1,3 @@
+Emmanuel 48 69949, Stuttgart, Amnat
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

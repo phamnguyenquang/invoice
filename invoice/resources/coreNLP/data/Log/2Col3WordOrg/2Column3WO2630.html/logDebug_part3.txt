@@ -1,0 +1,3 @@
+Camila Andersson Hadley 86 95040, Taipei, Heibei, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

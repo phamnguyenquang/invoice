@@ -1,0 +1,3 @@
+Diego Fredriksson Margaret 98 36959, Stuttgart, Bayern, Russia
+PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

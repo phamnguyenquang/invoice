@@ -1,0 +1,3 @@
+Leo Löfgren Autumn 74 22805, Last Vegas, Floria, Germany Invoice Number: 231001
+PERSON,PERSON,O,DATE,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+

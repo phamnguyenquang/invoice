@@ -1,0 +1,3 @@
+12861, Osaka, Bayern, laos email@example.net Date: 18 April 2020
+NUMBER,LOCATION,LOCATION,O,URL,O,O,DATE,DATE,DATE
+

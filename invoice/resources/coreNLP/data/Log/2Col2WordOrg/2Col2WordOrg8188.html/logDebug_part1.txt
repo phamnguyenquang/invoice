@@ -1,0 +1,3 @@
+Clara 6 54726, Tokyo, Bremen, China
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

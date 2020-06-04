@@ -1,0 +1,3 @@
+Adalyn Nordström Inc
+PERSON,PERSON,O,ORGANIZATION
+

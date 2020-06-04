@@ -1,0 +1,3 @@
+92532, Venice, Seattles, Switzerland
+NUMBER,CITY,LOCATION,COUNTRY
+

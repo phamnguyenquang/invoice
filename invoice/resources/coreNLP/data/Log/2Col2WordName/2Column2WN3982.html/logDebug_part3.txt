@@ -1,0 +1,3 @@
+Angelina Elizabeth Lund Inc Valeria 87 27552, Stuttgart, Hessen, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

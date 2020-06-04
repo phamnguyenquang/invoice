@@ -1,0 +1,3 @@
+Lincoln Johansson Samantha 61 87684, Last Vegas, Chiang Rai, laos
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON,O
+

@@ -1,0 +1,3 @@
+Makayla 85 89885, Seoul, Bremen, Germany
+LOCATION,NUMBER,NUMBER,CITY,CITY,COUNTRY
+

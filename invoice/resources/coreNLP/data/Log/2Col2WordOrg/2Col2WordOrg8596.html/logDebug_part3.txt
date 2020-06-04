@@ -1,0 +1,3 @@
+Cooper Håkansson Ezra 20 56490, Munich, Bayern, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+

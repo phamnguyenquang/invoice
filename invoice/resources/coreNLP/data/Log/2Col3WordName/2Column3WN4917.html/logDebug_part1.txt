@@ -1,0 +1,3 @@
+Mia 96 38517, Stuttgart, Chiang Mai,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

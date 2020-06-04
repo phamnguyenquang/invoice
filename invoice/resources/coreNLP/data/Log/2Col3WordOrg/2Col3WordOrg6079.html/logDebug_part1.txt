@@ -1,0 +1,3 @@
+Tucker 38 25772, Taipei, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

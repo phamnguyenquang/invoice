@@ -1,0 +1,3 @@
+Rose 10 27486, Berlin, Amnat Charoen,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

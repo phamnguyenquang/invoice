@@ -1,0 +1,3 @@
+Aurora Mårtensson Amy 54 70430, Boston, Hessen, Switzerland Invoice Number: 231001
+CITY,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

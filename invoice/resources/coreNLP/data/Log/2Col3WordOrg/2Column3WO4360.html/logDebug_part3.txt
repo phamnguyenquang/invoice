@@ -1,0 +1,3 @@
+Kennedy Pålsson Brandon 57 79170, Beijing, Saarland, Denmark Invoice Number: 231001
+PERSON,O,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

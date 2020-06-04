@@ -1,0 +1,3 @@
+Cameron 55 57383, Munich, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

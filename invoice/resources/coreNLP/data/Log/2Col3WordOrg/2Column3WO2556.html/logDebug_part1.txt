@@ -1,0 +1,3 @@
+Jake 62 59696, Moscow, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY
+

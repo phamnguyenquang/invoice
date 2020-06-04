@@ -1,0 +1,3 @@
+Jasmine 50 70845, Bonn, khanh Hoa, India
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Adeline 12 72995, Last Vegas, Kentucky,
+PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE
+

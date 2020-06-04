@@ -1,0 +1,3 @@
+Mila Fransson Eric 26 64236, Hanoi, Hessen, laos
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+

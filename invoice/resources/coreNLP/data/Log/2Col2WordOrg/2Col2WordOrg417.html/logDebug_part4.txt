@@ -1,0 +1,3 @@
+Christian Sandström Elijah 77 50832, Melbourne, khanh Hoa, Japan Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,O,O,NUMBER
+

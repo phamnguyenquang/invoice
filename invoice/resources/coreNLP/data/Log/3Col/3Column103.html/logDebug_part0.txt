@@ -1,0 +1,3 @@
+Parrot Adeline 66 71440, Osaka, Saarland, Saudi Arabia email@example.net
+PERSON,PERSON,NUMBER,NUMBER,LOCATION,LOCATION,COUNTRY,COUNTRY,URL,O
+

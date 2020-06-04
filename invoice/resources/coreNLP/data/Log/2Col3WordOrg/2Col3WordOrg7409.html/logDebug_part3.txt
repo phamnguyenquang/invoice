@@ -1,0 +1,3 @@
+Tristan Eriksson Daniel 73 94303, Venice, Bangkok, VietNam Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+

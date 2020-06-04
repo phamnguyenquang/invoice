@@ -1,0 +1,3 @@
+51143, Last Vegas, Chiang Rai, Indonesia s
+NUMBER,O,O,O,O,COUNTRY,O
+

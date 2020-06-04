@@ -1,0 +1,3 @@
+Aubrey 88 70983, Hanoi, Seattles, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

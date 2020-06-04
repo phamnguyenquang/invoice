@@ -1,0 +1,3 @@
+Autumn 99 90446, Stuttgart, Bremen,
+DATE,NUMBER,NUMBER,CITY,CITY
+

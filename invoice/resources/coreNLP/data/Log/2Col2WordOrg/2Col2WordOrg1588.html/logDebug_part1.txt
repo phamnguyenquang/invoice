@@ -1,0 +1,3 @@
+Anthony 9 42095, Shanghai, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

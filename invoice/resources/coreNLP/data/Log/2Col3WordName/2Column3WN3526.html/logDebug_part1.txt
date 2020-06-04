@@ -1,0 +1,3 @@
+Maria 78 40964, Vancouver, Bremen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

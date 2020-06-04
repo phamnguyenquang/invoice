@@ -1,0 +1,3 @@
+George Wikström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

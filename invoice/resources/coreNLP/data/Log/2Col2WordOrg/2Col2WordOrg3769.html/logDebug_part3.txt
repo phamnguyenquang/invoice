@@ -1,0 +1,3 @@
+Nicholas Bergström Alexander 49 98122, Seoul, Chiang Rai, Switzerland Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

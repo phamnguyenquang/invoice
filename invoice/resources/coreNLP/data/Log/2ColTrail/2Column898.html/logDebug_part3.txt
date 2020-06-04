@@ -1,0 +1,3 @@
+Lauren Eriksson Elijah 57 61275, Hanoi, Seattles, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,NUMBER
+

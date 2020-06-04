@@ -1,0 +1,3 @@
+Adrian Larsson Charlotte 88 81719, Hanoi, Floria, Japan
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

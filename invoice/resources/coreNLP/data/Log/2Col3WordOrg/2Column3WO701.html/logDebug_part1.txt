@@ -1,0 +1,3 @@
+Bryan 34 22944, Vancouver, Hamburg,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
+

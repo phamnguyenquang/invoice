@@ -1,0 +1,3 @@
+Max 85 99518, Amsterdam, Bayern,
+O,NUMBER,NUMBER,CITY,LOCATION
+

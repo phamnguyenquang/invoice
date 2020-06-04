@@ -1,0 +1,3 @@
+Ella Lindström Ltd
+PERSON,PERSON,O,ORGANIZATION
+

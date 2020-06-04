@@ -1,0 +1,3 @@
+Jude Dahlberg Caroline 9 81797, Frankfurt am Main , Hamburg, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+

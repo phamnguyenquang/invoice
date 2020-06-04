@@ -1,0 +1,3 @@
+Stephanie Sjöberg Valeria 38 76486, Frankfurt am Main , Chiang Mai, South Korea Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,PERSON,PERSON,PERSON,COUNTRY,COUNTRY,O,O,NUMBER
+

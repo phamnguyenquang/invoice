@@ -1,0 +1,3 @@
+Cora Lundqvist Cooper 94 46867, Abu Dhabi, Tuscany, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

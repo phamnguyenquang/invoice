@@ -1,0 +1,3 @@
+Natalia 95 70942, Berlin, Buriam, Australia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

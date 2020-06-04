@@ -1,0 +1,3 @@
+Alex 1 98067, Rome, Seattles, Indonesia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

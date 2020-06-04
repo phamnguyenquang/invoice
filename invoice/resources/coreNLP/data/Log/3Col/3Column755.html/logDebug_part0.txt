@@ -1,0 +1,3 @@
+Adam Mickiewicz University in Poznań Adam 35 23211, Seoul, Binh Thuan, laos email@example.net
+ORGANIZATION,ORGANIZATION,ORGANIZATION,O,LOCATION,O,NUMBER,NUMBER,CITY,O,O,O,URL,O
+

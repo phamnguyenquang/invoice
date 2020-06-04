@@ -1,0 +1,3 @@
+Michael Eliasson Jade 61 12256, Hanoi, Huabei, Ireland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

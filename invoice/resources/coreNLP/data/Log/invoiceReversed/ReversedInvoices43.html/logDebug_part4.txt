@@ -1,0 +1,3 @@
+Sophia Sandström Joel 96 34098, Denver, Seattles, Germany
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

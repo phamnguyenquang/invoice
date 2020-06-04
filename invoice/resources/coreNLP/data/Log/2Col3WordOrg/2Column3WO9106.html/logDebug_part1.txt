@@ -1,0 +1,3 @@
+Cameron 42 90146, Amsterdam, Floria, Brazil
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

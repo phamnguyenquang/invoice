@@ -1,0 +1,3 @@
+Noah Thomas Andersson Inc Anna 68 72689, Ho Chi Minh, Seattles, China Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Kenneth 69 87314, Venice, khanh Hoa, Brazil
+PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY
+

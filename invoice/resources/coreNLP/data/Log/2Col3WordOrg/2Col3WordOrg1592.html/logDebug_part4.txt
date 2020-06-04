@@ -1,0 +1,3 @@
+Ruby Henriksson Christian 84 33665, Minsk, Chiang Mai, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+

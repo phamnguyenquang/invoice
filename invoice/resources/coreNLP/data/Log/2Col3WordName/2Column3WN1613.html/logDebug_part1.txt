@@ -1,0 +1,3 @@
+Emmanuel 61 97934, Los Angeles, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Jade Nordström Joel 94 85381, Singapore, Huabei, Mexico Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,COUNTRY,LOCATION,COUNTRY,O,O,NUMBER
+

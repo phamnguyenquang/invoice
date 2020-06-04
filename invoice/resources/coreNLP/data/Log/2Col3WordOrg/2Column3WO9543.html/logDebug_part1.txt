@@ -1,0 +1,3 @@
+Nicholas 86 52665, Chicago, Bayern, Canada
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

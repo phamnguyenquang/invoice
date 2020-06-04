@@ -1,0 +1,3 @@
+Charlotte Fredriksson Sebastian 63 34238, Dubai, Huabei, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

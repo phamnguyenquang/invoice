@@ -1,0 +1,3 @@
+Isabelle 95 64730, Budapest, Floria,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

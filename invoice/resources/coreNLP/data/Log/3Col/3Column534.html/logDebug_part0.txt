@@ -1,0 +1,3 @@
+CentraleSupélec Lydia 90 47103, Nha Trang, Bayern, ThaiLand email@example.net
+O,O,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,COUNTRY,URL,O
+

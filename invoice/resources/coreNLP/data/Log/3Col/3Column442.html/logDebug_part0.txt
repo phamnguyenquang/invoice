@@ -1,0 +1,3 @@
+Zowee Logan 16 82293, Osaka, Guangzhou, Saudi Arabia email@example.net
+PERSON,PERSON,NUMBER,NUMBER,LOCATION,CITY,COUNTRY,COUNTRY,URL,O
+

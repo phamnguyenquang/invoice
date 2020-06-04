@@ -1,0 +1,3 @@
+Afghan Wireless Gabriel 17 57545, Istanbul, Binh Thuan, Germany email@example.net
+NATIONALITY,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,LOCATION,COUNTRY,URL,O
+

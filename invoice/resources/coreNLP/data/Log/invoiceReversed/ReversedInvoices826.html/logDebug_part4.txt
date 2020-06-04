@@ -1,0 +1,3 @@
+Charles Berggren King 46 22412, Ho Chi Minh, Bangkok, Ireland
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,CITY,COUNTRY
+

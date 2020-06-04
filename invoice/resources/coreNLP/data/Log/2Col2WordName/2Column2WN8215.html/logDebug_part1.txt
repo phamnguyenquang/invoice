@@ -1,0 +1,3 @@
+10793, Osaka, Chai Nat, Turkey email@example.net Date: 18 April 2020
+NUMBER,LOCATION,CITY,CITY,COUNTRY,URL,O,O,DATE,DATE,DATE
+

@@ -1,0 +1,3 @@
+Tristan 61 19880, Denver, Amnat Charoen,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

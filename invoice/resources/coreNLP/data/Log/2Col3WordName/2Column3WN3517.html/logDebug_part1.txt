@@ -1,0 +1,3 @@
+Kennedy 50 87454, Milan, khanh Hoa, Italy
+PERSON,NUMBER,NUMBER,O,O,LOCATION,COUNTRY
+

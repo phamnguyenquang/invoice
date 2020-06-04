@@ -1,0 +1,3 @@
+Jude Jonsson Michael 64 59010, Frankfurt am Main , Huabei, New Zealand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+

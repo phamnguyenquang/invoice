@@ -1,0 +1,3 @@
+Emma Mohamed Charles 86 39983, Frankfurt am Main , Bayern, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,COUNTRY,O,O,NUMBER
+

@@ -1,0 +1,3 @@
+Juliana 39 68109, Los Angeles, Bangkok,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+

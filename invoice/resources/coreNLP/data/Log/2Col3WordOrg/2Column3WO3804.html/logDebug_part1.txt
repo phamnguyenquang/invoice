@@ -1,0 +1,3 @@
+Autumn 44 89809, Stuttgart, Floria, Japan
+DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

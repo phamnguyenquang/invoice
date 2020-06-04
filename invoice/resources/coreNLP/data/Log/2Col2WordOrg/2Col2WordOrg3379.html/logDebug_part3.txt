@@ -1,0 +1,3 @@
+Giovanni Håkansson Damian 72 18006, Osaka, Guangzhou, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,CITY,COUNTRY,O,O,NUMBER
+

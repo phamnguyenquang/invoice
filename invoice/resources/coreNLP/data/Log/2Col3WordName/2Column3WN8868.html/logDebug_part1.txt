@@ -1,0 +1,3 @@
+Autumn 74 64208, Los Angeles, Amnat
+DATE,NUMBER,NUMBER,CITY,CITY,LOCATION
+

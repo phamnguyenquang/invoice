@@ -1,0 +1,3 @@
+Elena 31 48967, Vancouver, Floria, Russia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

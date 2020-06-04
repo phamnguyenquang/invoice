@@ -1,0 +1,3 @@
+La Banque Postale Alyssa 69 35465, Minsk, Kentucky, VietNam email@example.net
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
+

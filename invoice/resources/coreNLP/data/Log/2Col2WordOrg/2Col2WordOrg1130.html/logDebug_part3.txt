@@ -1,0 +1,3 @@
+Eliza Magnusson Aubrey 81 99649, Seoul, Tuscany, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

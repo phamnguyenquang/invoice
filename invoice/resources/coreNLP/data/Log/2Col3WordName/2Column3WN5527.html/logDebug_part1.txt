@@ -1,0 +1,3 @@
+Adeline 22 72847, San Francisco, khanh
+PERSON,NUMBER,NUMBER,CITY,CITY,O
+

@@ -1,0 +1,3 @@
+Emmanuel 6 52423, Beijing, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

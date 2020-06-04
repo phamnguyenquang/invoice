@@ -1,0 +1,3 @@
+Kinsley Åberg Savannah 22 48713, Rome, Saarland, China
+PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

@@ -1,0 +1,3 @@
+Miguel Mary Viklund Inc Caden 49 68443, Stuttgart, Tuscany, Turkey Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+

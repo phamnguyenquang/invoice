@@ -1,0 +1,3 @@
+Eliza 29 54912, Seoul, Bangkok, South
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+

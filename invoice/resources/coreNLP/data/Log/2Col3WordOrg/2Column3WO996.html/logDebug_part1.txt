@@ -1,0 +1,3 @@
+Cole 46 80532, Washington, Chiang Rai,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+

@@ -1,0 +1,3 @@
+69663, Taipei, Amnat Charoen, Denmark
+NUMBER,CITY,CITY,CITY,COUNTRY
+

@@ -1,0 +1,3 @@
+Summer Pålsson Corp Oliver 50
+DATE,O,O,PERSON,PERSON,NUMBER
+

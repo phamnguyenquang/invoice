@@ -1,0 +1,3 @@
+Elena 78 57240, Vancouver, khanh Hoa,
+PERSON,NUMBER,NUMBER,O,O,PERSON
+

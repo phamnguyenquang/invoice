@@ -1,0 +1,3 @@
+25229, Minsk, Hawaii, Philippines
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+

@@ -1,0 +1,3 @@
+Emmett 14 84832, London , Buriam, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

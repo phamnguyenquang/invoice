@@ -1,0 +1,3 @@
+Ariana 96 18724, Shanghai, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
+

@@ -1,0 +1,3 @@
+Kaitlyn 27 97038, Chicago, Seattles, Mexico
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+

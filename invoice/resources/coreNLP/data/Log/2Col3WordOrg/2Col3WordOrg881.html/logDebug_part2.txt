@@ -1,0 +1,3 @@
+12364, Amsterdam, Bayern, New Zealand
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
+

@@ -1,0 +1,3 @@
+Richard 69 12789, Osaka, Guangzhou,
+PERSON,NUMBER,NUMBER,LOCATION,CITY
+
