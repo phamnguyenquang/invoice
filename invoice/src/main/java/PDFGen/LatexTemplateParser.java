@@ -97,6 +97,9 @@ public class LatexTemplateParser {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		for (File f : tempDir.listFiles()) {
+			f.delete();
+		}
 
 	}
 }

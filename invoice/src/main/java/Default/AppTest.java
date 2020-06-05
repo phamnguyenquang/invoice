@@ -42,12 +42,12 @@ public class AppTest {
 		 * Left to right: tex template, output dir, senderType, receivierType 0 for
 		 * person, 1 for real company, 2 for imaginary company, left to right
 		 */
-//		TrainingPdfGenerator pdfgen = new TrainingPdfGenerator("2Col.tex", "2Col3WordOrg", 2, 0);	
-//		for (int i = 0; i < 10000; ++i) {
-//			String name = "2Col3WordOrg" + Integer.toString(i);
-//			pdfgen.setPdfName(name);
-//			pdfgen.generateData();
-//		}
+		TrainingPdfGenerator pdfgen = new TrainingPdfGenerator("2Col.tex", "2Col3WordOrg", 2, 0);	
+		for (int i = 0; i < 5; ++i) {
+			String name = "2Col3WordOrg" + Integer.toString(i);
+			pdfgen.setPdfName(name);
+			pdfgen.generateData();
+		}
 //
 //		// Misc, convert PDF to Image
 //		// Extracting pdf
@@ -98,7 +98,7 @@ public class AppTest {
 //		new Annotator("logDebug.txt", "neural").doWork();
 //		new LogBackup("resources/coreNLP/data/processed/logDebug.txt", "resources/coreNLP/data/Debug/2Col3WordName/logDebug.txt");
 //		new CompanyAssessment("resources/coreNLP/data/Debug/2Col3WordName/logDebugLast.txt");
-		new NameAssessment("resources/coreNLP/data/Debug/2Col2WordName/logDebug.txt");
+//		new NameAssessment("resources/coreNLP/data/Debug/2Col2WordName/logDebug.txt");
 //===================================================================================================
 //		new LogMerge("resources/coreNLP/data/Log/2Col3WordOrg/",10000, 1, false);
 //		new MassDataEvaluator("resources/coreNLP/data/Log/2Col2WordName/").doWork();
