@@ -92,13 +92,15 @@ public class LatexTemplateParser {
 				if (fileName.getName().endsWith(".aux") || fileName.getName().endsWith(".log")) {
 					boolean success = (listFile[i].delete());
 				}
-
+				for (File f : tempDir.listFiles()) {
+					f.delete();
+				}
+			}
+			for (File f : tempDir.listFiles()) {
+				f.delete();
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
-		}
-		for (File f : tempDir.listFiles()) {
-			f.delete();
 		}
 
 	}
