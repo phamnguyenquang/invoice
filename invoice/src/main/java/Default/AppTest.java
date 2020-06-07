@@ -50,53 +50,57 @@ public class AppTest {
 //			pdfgen.setPdfName(name);
 //			pdfgen.generateData();
 //		}
-		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 1)).start();
-		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 2)).start();
-		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 3)).start();
-		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 4)).start();
+//===================================================================================================
+//multicore pdf generator
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordName", 0, 2, 2500, 1)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordName", 0, 2, 2500, 2)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordName", 0, 2, 2500, 3)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordName", 0, 2, 2500, 4)).start();
+
+// ===================================================================================================
 //
 //		// Misc, convert PDF to Image
 //		// Extracting pdf
-//		File ff = new File("resources/coreNLP/data/original/");
-//		for (File fff : ff.listFiles()) {
-//			try {
-//				FileUtils.deleteDirectory(fff);
-//			} catch (IOException e) {
-//				e.printStackTrace();
-//			}
-//		}
-//		new pdf2html("resources/pdf/2Col3WordOrg/", "resources/html/2Col3WordOrg/");
-//		new MassDataExtractor("resources/html/2Col3WordOrg/", "resources/coreNLP/data/original/").extractPart();
+		File ff = new File("resources/coreNLP/data/original/");
+		for (File fff : ff.listFiles()) {
+			try {
+				FileUtils.deleteDirectory(fff);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+		}
+		new pdf2html("resources/pdf/2Col3WordOrg/", "resources/html/2Col3WordOrg/");
+		new MassDataExtractor("resources/html/2Col3WordOrg/", "resources/coreNLP/data/original/").extractPart();
 //===================================================================================================
 //New Annotate Version
 //USe this 
-//		String[] pathnames;
-//		File f = new File("resources/coreNLP/data/original");
-//		pathnames = f.list();
-//		String llogName = "resources/coreNLP/data/Log/2Col3WordName/";
-//		File ffLog = new File(llogName);
-//		if (!ffLog.isDirectory()) {
-//			ffLog.mkdir();
-//		}
-//		for (File f1 : f.listFiles()) {
-//			if (f1.isDirectory()) {
-//				String logName = llogName + f1.getName();
-//				File fLog = new File(logName);
-//				if (!fLog.isDirectory()) {
-//					fLog.mkdir();
-//				}
-//				int i = 0;
-//				for (File f2 : f1.listFiles()) {
-//					System.out.println(f2.getName());
-//					String absPath = f1.getName() + "/" + f2.getName() + "/";
-//					new Annotator(absPath, "neural").doWork();
-//					new LogBackup("resources/coreNLP/data/processed/logDebug.txt",
-//							logName + "/logDebug_" + f2.getName());
-//					i++;
-//				}
-//
-//			}
-//		}
+		String[] pathnames;
+		File f = new File("resources/coreNLP/data/original");
+		pathnames = f.list();
+		String llogName = "resources/coreNLP/data/Log/2Col3WordName/";
+		File ffLog = new File(llogName);
+		if (!ffLog.isDirectory()) {
+			ffLog.mkdir();
+		}
+		for (File f1 : f.listFiles()) {
+			if (f1.isDirectory()) {
+				String logName = llogName + f1.getName();
+				File fLog = new File(logName);
+				if (!fLog.isDirectory()) {
+					fLog.mkdir();
+				}
+				int i = 0;
+				for (File f2 : f1.listFiles()) {
+					System.out.println(f2.getName());
+					String absPath = f1.getName() + "/" + f2.getName() + "/";
+					new Annotator(absPath, "neural").doWork();
+					new LogBackup("resources/coreNLP/data/processed/logDebug.txt",
+							logName + "/logDebug_" + f2.getName());
+					i++;
+				}
+
+			}
+		}
 //===================================================================================================
 //Annotating Mass, use for mass file
 //		new Annotator("logDebugLast.txt", "neural").doWork();

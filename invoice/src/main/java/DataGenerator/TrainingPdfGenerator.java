@@ -26,7 +26,7 @@ public class TrainingPdfGenerator {
 
 	private void generateSenderNameContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName();
+		SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName();
 //		SenderAddress = "Scheidswald str 61, ";
 		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
@@ -44,7 +44,8 @@ public class TrainingPdfGenerator {
 	private void generateVirtualSenderCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
-		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName() + " "
+				+ OrgKeyword[j];
 //		SenderName = name.getRandomCompanyName();
 		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
@@ -53,7 +54,7 @@ public class TrainingPdfGenerator {
 
 	private void generateRecNameContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName();
+		ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName();
 //		ReceiverAddress = "Scheidswald str 61";
 		ReceiverAddress = name.getRandomGivenName() + " "
 				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
@@ -74,7 +75,8 @@ public class TrainingPdfGenerator {
 	private void generateVirtualRecCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
-		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
+				+ " " + OrgKeyword[j];
 		ReceiverAddress = name.getRandomGivenName() + " "
 				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		ReceiverLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
