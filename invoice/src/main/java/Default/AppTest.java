@@ -10,7 +10,6 @@ import org.apache.commons.io.FileUtils;
 import DataGenerator.DictionaryReader;
 import DataGenerator.TagFileDataGenerator;
 import DataGenerator.TrainingPdfGenerator;
-import DataGenerator.MLTrainingDataGen;
 import Experiment.Annotator;
 import Experiment.CompanyAssessment;
 import Experiment.CountryAssessment;
@@ -27,6 +26,8 @@ import NER.CustomModelTagging;
 import NER.ModelTraining;
 import NER.OpenNlpPreprocess;
 import PDFGen.LatexTemplateParser;
+import PDFGen.MLTrainingDataGen;
+import PDFGen.ParallelPdfGen;
 import ch.qos.logback.core.boolex.Matcher;
 import htML.invoice.DataExtractor;
 import htML.invoice.MassDataExtractor;
@@ -42,12 +43,17 @@ public class AppTest {
 		 * Left to right: tex template, output dir, senderType, receivierType 0 for
 		 * person, 1 for real company, 2 for imaginary company, left to right
 		 */
-		TrainingPdfGenerator pdfgen = new TrainingPdfGenerator("2Col.tex", "2Col3WordOrg", 2, 0);	
-		for (int i = 0; i < 5; ++i) {
-			String name = "2Col3WordOrg" + Integer.toString(i);
-			pdfgen.setPdfName(name);
-			pdfgen.generateData();
-		}
+//		TrainingPdfGenerator pdfgen = new TrainingPdfGenerator("2Col.tex", "2Col2WordName", 0, 2);	
+//		for (int i = 0; i < 10000; ++i) {
+//			System.out.println(i);
+//			String name = "2Col2WordName" + Integer.toString(i);
+//			pdfgen.setPdfName(name);
+//			pdfgen.generateData();
+//		}
+		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 1)).start();
+		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 2)).start();
+		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 3)).start();
+		new Thread(new ParallelPdfGen("2Col.tex", "2Col2WordName", 0, 2, 2500, 4)).start();
 //
 //		// Misc, convert PDF to Image
 //		// Extracting pdf

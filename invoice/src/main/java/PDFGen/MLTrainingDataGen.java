@@ -1,4 +1,4 @@
-package DataGenerator;
+package PDFGen;
 
 import java.io.BufferedWriter;
 import java.io.File;

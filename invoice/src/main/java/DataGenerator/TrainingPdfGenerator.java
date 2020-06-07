@@ -1,5 +1,6 @@
 package DataGenerator;
 
+import java.io.File;
 import java.util.concurrent.ThreadLocalRandom;
 
 import PDFGen.LatexTemplateParser;
@@ -43,8 +44,7 @@ public class TrainingPdfGenerator {
 	private void generateVirtualSenderCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
-		SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName() + " "
-				+ OrgKeyword[j];
+		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
 //		SenderName = name.getRandomCompanyName();
 		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
@@ -74,9 +74,7 @@ public class TrainingPdfGenerator {
 	private void generateVirtualRecCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
-		ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
-				+ " " + OrgKeyword[j];
-//		SenderName = name.getRandomCompanyName();
+		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
 		ReceiverAddress = name.getRandomGivenName() + " "
 				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		ReceiverLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
@@ -127,6 +125,10 @@ public class TrainingPdfGenerator {
 		generateDate();
 		generatePdf();
 
+	}
+
+	public void ClearAux() {
+		tex2pdf.ClearLog();
 	}
 
 	public void setPdfName(String name) {

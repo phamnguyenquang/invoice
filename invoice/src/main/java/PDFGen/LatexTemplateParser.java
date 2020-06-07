@@ -85,23 +85,27 @@ public class LatexTemplateParser {
 			pdfOutput = new File(pdfFile);
 			File pdfDir = new File(pdfOutPath);
 			pdfGen.generate(texOutput, pdfDir, workingDirectory);
-			// delete other
-			File listFile[] = pdfDir.listFiles();
-			for (int i = 0; i < listFile.length; ++i) {
-				File fileName = listFile[i];
-				if (fileName.getName().endsWith(".aux") || fileName.getName().endsWith(".log")) {
-					boolean success = (listFile[i].delete());
-				}
-				for (File f : tempDir.listFiles()) {
-					f.delete();
-				}
-			}
-			for (File f : tempDir.listFiles()) {
-				f.delete();
-			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 
+	}
+
+	public void ClearLog() {
+		// delete other
+		File pdfDir = new File(pdfOutPath);
+		File listFile[] = pdfDir.listFiles();
+		for (int i = 0; i < listFile.length; ++i) {
+			File fileName = listFile[i];
+			if (fileName.getName().endsWith(".aux") || fileName.getName().endsWith(".log")) {
+				boolean success = (listFile[i].delete());
+			}
+			for (File f : tempDir.listFiles()) {
+				f.delete();
+			}
+		}
+		for (File f : tempDir.listFiles()) {
+			f.delete();
+		}
 	}
 }
