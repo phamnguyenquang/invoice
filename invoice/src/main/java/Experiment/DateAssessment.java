@@ -17,6 +17,7 @@ public class DateAssessment {
 	private List<String> fileContent = new ArrayList<String>();
 	private BufferedReader reader;
 	private double result;
+	private Pattern DatePattern;
 
 	public DateAssessment() {
 		try {
@@ -39,6 +40,7 @@ public class DateAssessment {
 
 	private void doWork() {
 		try {
+			DatePattern = Pattern.compile(".*(DATE)(DATE)(DATE).*");
 			String line = reader.readLine();
 			int YearAnomaly = 0;
 			int DateAnomaly = 0;

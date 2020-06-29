@@ -17,12 +17,12 @@ public class CompanyAssessment {
 	private BufferedReader reader;
 	private double result;
 	private Pattern CompanyPattern;
+	private Pattern MistagCompanyPattern;
 
 	public CompanyAssessment() {
 		try {
 			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
-//			CompanyPattern = Pattern.compile("^(ORGANIZATION)[\\s](ORGANIZATION)[\\s]((ORGANIZATION)[\\s])+");
-			CompanyPattern = Pattern.compile("^((ORGANIZATION)[\\s])+");
+
 			doWork();
 		} catch (Exception e) {
 			e.printStackTrace();
@@ -41,6 +41,8 @@ public class CompanyAssessment {
 
 	private void doWork() {
 		try {
+			CompanyPattern = Pattern.compile("^(ORGANIZATION)[\\s](ORGANIZATION)[\\s]((ORGANIZATION)[\\s])+");
+//			CompanyPattern = Pattern.compile("^((ORGANIZATION)[\\s])+");
 			String line = reader.readLine();
 			int correct = 0;
 			ArrayList<String> sentence = new ArrayList<String>();
@@ -72,6 +74,34 @@ public class CompanyAssessment {
 
 	public double getAccuracy() {
 		return result;
+	}
+
+	public void getDetails() {
+		try {
+			int mistag = 0;
+			MistagCompanyPattern = Pattern.compile("^[\\w]+[\\s][\\w]+[\\s](ORGANIZATION)");
+			String line = reader.readLine();
+//			fileContent.clear();
+//			while (line != null) {
+//				if (!line.isEmpty()) {
+//					String processedSentence = line.replaceAll("[^€@a-zA-Z0-9\\s+]", " ");
+//					fileContent.add(processedSentence);
+//				}
+//				line = reader.readLine();
+//			}
+			for (int i = 0; i < fileContent.size(); ++i) {
+				if (fileContent.get(i) != " ") {
+					if (MistagCompanyPattern.matcher(fileContent.get(i)).find()) {
+						mistag++;
+					}
+				}
+
+			}
+			System.out.println(mistag);
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+
 	}
 
 	public static ArrayList<String> split2(String line, int n) {

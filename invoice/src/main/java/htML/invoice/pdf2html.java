@@ -49,11 +49,13 @@ public class pdf2html {
 					PDFText2HTML converter = new PDFText2HTML(); // the converter
 //				converter.setSortByPosition(true);
 					String html = converter.getText(pdd); // That's it!
-					System.out.println(html);
+//					System.out.println(html);
 					writer.append(html);
 					pdd.close();
 					is.close();
 					writer.close();
+					System.gc();
+					System.out.println(f.getName());
 				}
 			}
 

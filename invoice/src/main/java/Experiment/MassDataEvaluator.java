@@ -28,6 +28,7 @@ public class MassDataEvaluator {
 	private Pattern CompanyPattern;
 	private Pattern PersonPattern;
 	private Pattern LocationPattern;
+	private Pattern MistagCompany;
 	private Matcher matcher;
 
 	public MassDataEvaluator(String dir) {
@@ -71,11 +72,12 @@ public class MassDataEvaluator {
 		/*
 		 * On the fact that both log file hold the same number of lines
 		 */
-		datePattern = Pattern.compile("(DATE)[\\s](DATE)[\\s]+(DATE)[\\s]*$");
+		datePattern = Pattern.compile("(.*DATE)[\\s](DATE)[\\s]+(DATE)[\\s].*");
 //		CompanyPattern = Pattern.compile("^(ORGANIZATION)[\\s](ORGANIZATION)[\\s]((ORGANIZATION)[\\s])+");
-		CompanyPattern = Pattern.compile("^((ORGANIZATION)[\\s])+");
-		PersonPattern = Pattern.compile("^(PERSON)[\\s](PERSON)[\\s](PERSON)[\\s]");
+		CompanyPattern = Pattern.compile(".*((ORGANIZATION)[\\s])+.*");
+		PersonPattern = Pattern.compile(".*(PERSON)[\\s](PERSON)[\\s](PERSON)[\\s].*");
 		LocationPattern = Pattern.compile(".*((CITY)(\\s))+((LOCATION|STATE_OR_PROVINCE)(\\s))+(COUNTRY).*");
+		MistagCompany = Pattern.compile("^[\\w]+[\\s][\\w]+[\\s](ORGANIZATION)");
 
 		int DateTrue = 0;
 		int CompTrue = 0;
@@ -83,6 +85,7 @@ public class MassDataEvaluator {
 		int PersonTrue = 0;
 		int RecLocTrue = 0;
 		int ResultTrue = 0;
+		int mistag = 0;
 		for (int i = 0; i < first.size(); ++i) {
 			if (datePattern.matcher(first.get(i)).find()) {
 				isDate[i] = true;
@@ -99,13 +102,16 @@ public class MassDataEvaluator {
 				++RecLocTrue;
 			}
 			//Switch between person and org here
-			if (PersonPattern.matcher(first.get(i)).find()) {
+			if (PersonPattern.matcher(second.get(i)).find()) {
 				isPerson[i] = true;
 				++PersonTrue;
 			}
-			if (CompanyPattern.matcher(second.get(i)).find()) {
+			if (CompanyPattern.matcher(first.get(i)).find()) {
 				isCompany[i] = true;
 				++CompTrue;
+			}
+			if (MistagCompany.matcher(first.get(i)).find()) {
+				++mistag;
 			}
 		}
 		for (int i = 0; i < result.length; ++i) {
@@ -120,6 +126,7 @@ public class MassDataEvaluator {
 		System.out.println("Person Acc: " + PersonTrue);
 		System.out.println("ReceiverLoc Acc: " + RecLocTrue);
 		System.out.println("Result Acc: " + ResultTrue);
+		System.out.println("Company mistag (if applicable): " + mistag);
 	}
 
 	private void ReadLogs() {

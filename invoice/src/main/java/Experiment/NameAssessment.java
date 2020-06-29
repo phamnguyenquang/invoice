@@ -54,7 +54,7 @@ public class NameAssessment {
 			for (int i = 0; i < fileContent.size(); ++i) {
 				if (fileContent.get(i) != " ") {
 					sentence = split2(fileContent.get(i), 5);
-					System.out.println(sentence.get(1));
+//					System.out.println(sentence.get(1));
 					if (namePattern.matcher(fileContent.get(i)).find()) {
 						anomaly++;
 					}

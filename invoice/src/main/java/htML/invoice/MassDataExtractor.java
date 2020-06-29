@@ -86,6 +86,7 @@ public class MassDataExtractor {
 
 	public void extract() {
 		try {
+			initializeOutput();
 			for (File f : fileList.listFiles()) {
 				initialize(f);
 				Element body = doc.select("body").first();

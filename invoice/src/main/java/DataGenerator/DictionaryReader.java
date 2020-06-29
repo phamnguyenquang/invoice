@@ -110,6 +110,17 @@ public class DictionaryReader {
 		return line;
 	}
 
+	public String getCompanyNameAt(int index) {
+		String line;
+		if (index > Osize) {
+			System.out.println("index out of size");
+			line = getLineContent(Organization, Osize - 1);
+		} else {
+			line = getLineContent(Organization, index);
+		}
+		return line;
+	}
+
 	public String getGeneratedCompanyName(String endWord) {
 		int i = ThreadLocalRandom.current().nextInt(0, snSize);
 		String line = getLineContent(SureName, i);

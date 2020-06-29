@@ -1,4 +1,4 @@
-package PDFGen;
+package ParallelProgramming;
 
 import DataGenerator.TrainingPdfGenerator;
 

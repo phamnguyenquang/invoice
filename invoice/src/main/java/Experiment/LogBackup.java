@@ -18,6 +18,9 @@ public class LogBackup {
 		try {
 			File s = new File(source);
 			File d = new File(dest);
+			if (!d.getParentFile().exists()) {
+				d.getParentFile().mkdir();
+			}
 			com.google.common.io.Files.copy(s, d);
 
 		} catch (Exception e) {

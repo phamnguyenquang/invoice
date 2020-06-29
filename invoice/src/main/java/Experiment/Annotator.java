@@ -61,9 +61,10 @@ public class Annotator {
 			props = new Properties();
 			// set the list of annotators to run
 			props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner,parse,depparse,coref");
+
+			// ------------------------------------------------------------------------------------------------
 			// properties, can be used to set custom Model
 			// Load some valid pretrained model here
-			// ------------------------------------------------------------------------------------------------
 //			String fileModel = new ClassPathResource("resources/coreNLP/CustomAnnotator/eunews.de.crf.gz").getPath();
 //			props.setProperty("ner.model", fileModel);
 			// ------------------------------------------------------------------------------------------------
