@@ -1,3 +1,3 @@
-Kyle 97 19083, Paris, Indiana, Argentina
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+73249, Beijing, California, Brazil email@example.net Date: 24, Jun, 2465
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-Alyssa Wikström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Genesis Abrahamsson
+PERSON,PERSON
 

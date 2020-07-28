@@ -1,3 +1,3 @@
-Hannah Lind Elizabeth 81 81073, SaiGon, Guangdong, VietNam Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Valerie Berglund Henry 83 48907, Frankfurt am Main , Phu Yen, Brazil Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,O,COUNTRY,O,O,NUMBER
 

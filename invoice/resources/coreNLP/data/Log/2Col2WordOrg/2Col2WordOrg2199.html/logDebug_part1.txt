@@ -1,3 +1,3 @@
-Adam 5 66315, Hong Kong, Tuscany,
-O,NUMBER,NUMBER,CITY,CITY,LOCATION
+18017, Philadelphia, khanh Hoa, Mexico
+NUMBER,CITY,O,LOCATION,COUNTRY
 

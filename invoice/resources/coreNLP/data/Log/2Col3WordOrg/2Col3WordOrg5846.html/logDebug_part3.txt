@@ -1,3 +1,3 @@
-Vivian Åkesson Vanessa 6 12140, Stuttgart, Tuscany, Mexico Invoice Number: 231001
-PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+email@example.net Date: 1, September, 2734
+URL,O,O,DATE,DATE,DATE
 

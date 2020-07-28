@@ -1,3 +1,3 @@
-Axel Bergström Inc
-PERSON,PERSON,O,ORGANIZATION
+Santiago Jonsson Inc
+PERSON,PERSON,PERSON
 

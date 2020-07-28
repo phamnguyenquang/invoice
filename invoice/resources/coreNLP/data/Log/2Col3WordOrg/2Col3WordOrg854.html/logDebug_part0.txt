@@ -1,3 +1,3 @@
-Sebastian Grace Lundberg Corp
-PERSON,PERSON,PERSON,PERSON
+Declan Marie Lundström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

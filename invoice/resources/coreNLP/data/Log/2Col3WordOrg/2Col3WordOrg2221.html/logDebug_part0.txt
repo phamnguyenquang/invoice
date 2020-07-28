@@ -1,3 +1,3 @@
-Nicholas William Hellström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Amelia Kate Lundqvist Ltd
+PERSON,PERSON,PERSON,PERSON
 

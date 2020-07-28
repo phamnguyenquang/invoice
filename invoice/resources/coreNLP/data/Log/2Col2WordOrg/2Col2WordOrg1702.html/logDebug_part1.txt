@@ -1,3 +1,3 @@
-Ethan 37 12538, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Annabelle 89 17395, San Francisco, California,
+PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE
 

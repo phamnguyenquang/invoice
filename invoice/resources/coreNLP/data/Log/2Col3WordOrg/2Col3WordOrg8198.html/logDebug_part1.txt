@@ -1,3 +1,3 @@
-Cora 94 37155, Seoul, Buriam, New
-PERSON,NUMBER,NUMBER,O,MISC,MISC
+Eli 60 15382, Frankfurt am Main ,
+O,NUMBER,NUMBER,CITY,O,O
 

@@ -1,3 +1,3 @@
-Cole 2 91699, Last Vegas, Phu Yen,
-O,NUMBER,NUMBER,O,O,O,O
+Daniel 89 99871, SaiGon, Texas, Germany
+PERSON,NUMBER,NUMBER,O,STATE_OR_PROVINCE,COUNTRY
 

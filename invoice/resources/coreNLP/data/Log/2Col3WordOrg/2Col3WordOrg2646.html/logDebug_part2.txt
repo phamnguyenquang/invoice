@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+17115, Boston, Bremen, Turkey email@example.net Date: 25, Jun, 2490
+NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,URL,O,O,DATE,DATE,DATE
 

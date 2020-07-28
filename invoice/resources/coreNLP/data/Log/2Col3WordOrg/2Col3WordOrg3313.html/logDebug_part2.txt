@@ -1,3 +1,3 @@
-65904, Istanbul, Phu Yen, Indonesia s
-NUMBER,CITY,O,O,COUNTRY,O
+California, Italy email@example.net
+STATE_OR_PROVINCE,COUNTRY,URL,O
 

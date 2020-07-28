@@ -1,3 +1,3 @@
-Malachi Ann Mårtensson Corp
-PERSON,PERSON,PERSON,PERSON,PERSON
+Valentina Amy Hellström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

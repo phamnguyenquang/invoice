@@ -1,3 +1,3 @@
-Liam Grace Gunnarsson Corp
-PERSON,PERSON,PERSON,PERSON
+Kevin Louise Ekström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

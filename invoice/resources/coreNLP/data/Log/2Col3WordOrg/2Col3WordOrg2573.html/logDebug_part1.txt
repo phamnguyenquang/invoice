@@ -1,3 +1,3 @@
-Delilah 23 98624, Venice, Bremen, Australia
-O,NUMBER,NUMBER,CITY,CITY,COUNTRY
+Rachel 32 56821, San Francisco, Hessen,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
 

@@ -1,3 +1,3 @@
-Katherine 45 40526, Hanoi, Guangzhou,
-PERSON,NUMBER,NUMBER,CITY,CITY
+56251, Ho Chi Minh, Hawaii, Mexico
+NUMBER,O,O,O,STATE_OR_PROVINCE,COUNTRY
 

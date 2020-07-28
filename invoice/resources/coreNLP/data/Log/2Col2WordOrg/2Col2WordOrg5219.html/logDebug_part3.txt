@@ -1,3 +1,3 @@
-Sean Lindqvist Easton 66 10350, San Francisco, Buriam, Switzerland Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+Alana Lundgren Stephanie 53 82493, Minsk, Kentucky, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
 

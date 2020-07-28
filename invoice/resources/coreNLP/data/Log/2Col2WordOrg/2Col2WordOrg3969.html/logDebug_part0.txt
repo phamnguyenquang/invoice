@@ -1,3 +1,3 @@
-Delilah Isaksson Corp
-O,PERSON,PERSON
+Andrew Isaksson Ltd
+PERSON,PERSON,PERSON
 

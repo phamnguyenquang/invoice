@@ -1,3 +1,3 @@
-Jonathan 36 51580, San Francisco, Bangkok,
-PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+Natalia 37 51506, Paris, Seattles, Ireland
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

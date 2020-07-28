@@ -1,3 +1,3 @@
-Sean Lee Nyström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Cayden Marie Abrahamsson
+PERSON,PERSON,PERSON
 

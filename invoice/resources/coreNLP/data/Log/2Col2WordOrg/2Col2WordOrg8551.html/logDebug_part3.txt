@@ -1,3 +1,3 @@
-Michael Magnusson Emmett 11 65365, Boston, Henan, Switzerland Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Carlos Lindberg Luis 68 95718, Amsterdam, Bayern, Indonesia s Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
 

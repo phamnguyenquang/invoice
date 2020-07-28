@@ -1,3 +1,3 @@
-Alana Löfgren Inc
-PERSON,PERSON,PERSON,PERSON
+Kendall Åkesson Corp Nora 19
+PERSON,O,O,O,DATE
 

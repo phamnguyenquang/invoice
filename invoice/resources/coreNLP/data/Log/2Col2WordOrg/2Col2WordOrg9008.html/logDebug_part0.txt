@@ -1,3 +1,3 @@
-Brantley Danielsson Ltd
-PERSON,PERSON,PERSON
+Isabelle Ekström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

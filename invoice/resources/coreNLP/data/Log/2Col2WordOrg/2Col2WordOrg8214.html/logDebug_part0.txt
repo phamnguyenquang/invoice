@@ -1,3 +1,3 @@
-Nicolas Ström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Mckenzie Lundström Pte
+PERSON,PERSON,O,O
 

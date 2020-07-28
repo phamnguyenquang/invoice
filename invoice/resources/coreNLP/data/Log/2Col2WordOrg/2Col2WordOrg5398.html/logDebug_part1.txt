@@ -1,3 +1,3 @@
-Tucker 84 70291, Berlin, Hessen, laos
-PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+60744, Washington, Chiang Rai, Switzerland
+NUMBER,PERSON,PERSON,PERSON,PERSON
 

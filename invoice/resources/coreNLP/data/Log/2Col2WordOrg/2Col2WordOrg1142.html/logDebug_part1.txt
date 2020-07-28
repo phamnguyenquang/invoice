@@ -1,3 +1,3 @@
-Joshua 9 69962, Venice, Guangdong,
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+62438, Last Vegas, khanh Hoa, Ireland
+NUMBER,O,O,O,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-Faith Victoria Mohamed Corp
-O,PERSON,PERSON,PERSON
+Santiago Anne Lindström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

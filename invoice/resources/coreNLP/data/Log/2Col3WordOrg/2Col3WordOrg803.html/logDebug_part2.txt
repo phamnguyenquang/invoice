@@ -1,3 +1,3 @@
-Zealand email@example.net Date: 18 April 2020
-O,URL,O,O,DATE,DATE,DATE
+33217, Shanghai, Indiana, New Zealand
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY
 

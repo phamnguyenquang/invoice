@@ -1,3 +1,3 @@
-Axel 11 43367, Munich, Hamburg,
-PERSON,NUMBER,NUMBER,PERSON,PERSON
+Edward 99 94326, Frankfurt am Main ,
+PERSON,NUMBER,NUMBER,CITY,O,O
 

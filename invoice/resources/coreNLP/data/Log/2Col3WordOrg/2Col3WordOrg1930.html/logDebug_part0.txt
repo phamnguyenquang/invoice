@@ -1,3 +1,3 @@
-Izabella Grace Ström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Bailey May/Mae Lindström Inc
+PERSON,PERSON,PERSON,PERSON,O,O
 

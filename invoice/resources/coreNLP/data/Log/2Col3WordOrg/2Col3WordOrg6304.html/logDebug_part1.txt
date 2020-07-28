@@ -1,3 +1,3 @@
-Jayden 27 55024, Venice, Guangdong,
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+Löfgren Corp Jocelyn 67
+O,O,PERSON,PERSON,NUMBER
 

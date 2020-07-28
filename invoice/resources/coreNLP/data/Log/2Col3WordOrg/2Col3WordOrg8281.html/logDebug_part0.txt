@@ -1,3 +1,3 @@
-Nicholas Amy Arvidsson Inc
-PERSON,PERSON,PERSON,PERSON
+Piper Thomas Nordström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

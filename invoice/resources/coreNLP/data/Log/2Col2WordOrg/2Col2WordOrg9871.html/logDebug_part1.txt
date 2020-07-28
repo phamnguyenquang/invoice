@@ -1,3 +1,3 @@
-Nicolas 61 19106, Barcelona, Chiang Rai,
-PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+92071, Paris, Indiana, Mexico email@example.net
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
 

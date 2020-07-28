@@ -1,3 +1,3 @@
-Jeremiah Lindgren Inc
-PERSON,PERSON,PERSON
+Isabella Nordström Pte
+PERSON,PERSON,O,O
 

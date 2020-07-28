@@ -1,3 +1,3 @@
-Månsson Corp Chase 19
-O,O,PERSON,PERSON,NUMBER
+Kennedy 37 86026, Boston, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

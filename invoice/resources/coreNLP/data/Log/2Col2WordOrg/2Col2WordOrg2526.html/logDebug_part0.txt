@@ -1,3 +1,3 @@
-Abigail Hellström Pte Ltd
-PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
+Adrian Danielsson Ltd
+PERSON,PERSON,PERSON
 

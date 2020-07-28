@@ -1,3 +1,3 @@
-Henry Ek Amelia 81 99147, Amsterdam, Binh Thuan, Indonesia s Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,O,NUMBER
+Caroline David Arvidsson Ian 22 81347, San Francisco, Hainan, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

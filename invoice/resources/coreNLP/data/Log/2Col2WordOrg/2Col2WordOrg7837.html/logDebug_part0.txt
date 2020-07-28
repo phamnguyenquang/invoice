@@ -1,3 +1,3 @@
-Eden Söderberg Ltd
-PERSON,PERSON,PERSON,PERSON
+Autumn Lindström Ltd
+DATE,O,O,ORGANIZATION
 

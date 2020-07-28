@@ -1,3 +1,3 @@
-Miles Andersson Inc
-PERSON,PERSON,PERSON
+Alejandro Hellström Inc
+PERSON,PERSON,O,ORGANIZATION
 

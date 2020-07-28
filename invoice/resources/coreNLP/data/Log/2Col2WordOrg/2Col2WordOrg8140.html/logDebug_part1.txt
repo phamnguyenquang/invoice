@@ -1,3 +1,3 @@
-29206, Last Vegas, Guangzhou, Singapore
-NUMBER,O,O,CITY,COUNTRY
+34864, Osaka, Chiang Mai, China
+NUMBER,PERSON,PERSON,PERSON,PERSON
 

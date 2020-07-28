@@ -1,3 +1,3 @@
-88307, Berlin, Ang Thong, Denmark
-NUMBER,CITY,CITY,CITY,COUNTRY
+Denmark email@example.net
+COUNTRY,URL,O
 

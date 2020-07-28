@@ -1,3 +1,3 @@
-Nicholas Henriksson Corp
-PERSON,PERSON,PERSON
+Jordyn Håkansson Ltd
+PERSON,PERSON,PERSON,PERSON
 

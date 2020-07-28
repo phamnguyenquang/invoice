@@ -1,3 +1,3 @@
-Ariel 27 73917, Toronto, Guangzhou,
-PERSON,NUMBER,NUMBER,CITY,CITY
+54164, Vancouver, Bremen, Russia
+NUMBER,PERSON,PERSON,PERSON
 

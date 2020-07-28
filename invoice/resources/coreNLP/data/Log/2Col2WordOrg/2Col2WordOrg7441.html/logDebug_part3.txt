@@ -1,3 +1,3 @@
-Andrew Sjöberg Brooke 83 91558, Hong Kong, Bayern, Japan Invoice Number: 231001
-PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,COUNTRY,O,O,NUMBER
+email@example.net Date: 30, Jun, 2124
+URL,O,O,DATE,DATE,DATE
 

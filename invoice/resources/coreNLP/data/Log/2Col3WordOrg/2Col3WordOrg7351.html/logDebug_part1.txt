@@ -1,3 +1,3 @@
-Jude 91 40236, Frankfurt am Main ,
-O,NUMBER,NUMBER,CITY,O,O
+Ashley 57 14280, Melbourne, Hawaii,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

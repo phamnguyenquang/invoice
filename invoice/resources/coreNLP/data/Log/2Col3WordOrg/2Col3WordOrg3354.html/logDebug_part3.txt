@@ -1,3 +1,3 @@
-Wesley Lindberg David 97 42755, Vienna, Kentucky, Japan Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Date: 24, December, 2978
+O,DATE,DATE,DATE
 

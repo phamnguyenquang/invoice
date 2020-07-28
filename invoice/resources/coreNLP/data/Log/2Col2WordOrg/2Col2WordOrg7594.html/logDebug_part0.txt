@@ -1,3 +1,3 @@
-Bentley Mårtensson Inc
-PERSON,PERSON,PERSON,PERSON
+Theodore Ström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

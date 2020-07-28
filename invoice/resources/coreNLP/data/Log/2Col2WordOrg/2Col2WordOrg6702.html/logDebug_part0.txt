@@ -1,3 +1,3 @@
-Lydia Öberg Corp
-PERSON,PERSON,PERSON
+Jesse Wikström Inc
+PERSON,PERSON,O,ORGANIZATION
 

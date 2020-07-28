@@ -1,3 +1,3 @@
-Eli 23 15287, Last Vegas, Chiang Rai,
-O,NUMBER,NUMBER,O,O,PERSON,PERSON
+Audrey 71 94775, Tokyo, Tuscany, Australia
+O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

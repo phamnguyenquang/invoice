@@ -1,3 +1,3 @@
-Trinity David Nyström Inc
-O,PERSON,PERSON,O,ORGANIZATION
+Silas Jane Hellström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-Adalyn Ström John 72 46271, Chicago, Hamburg, United State Invoice Number: 231001
-O,O,O,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,O,O,O,NUMBER
+Date: 15, November, 2366
+O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-Zachary Hermansson
-PERSON,PERSON
+Trinity Samuelsson Corp
+ORGANIZATION,ORGANIZATION,ORGANIZATION
 

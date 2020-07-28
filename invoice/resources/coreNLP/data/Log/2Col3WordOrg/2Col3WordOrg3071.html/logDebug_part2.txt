@@ -1,3 +1,3 @@
-83092, Last Vegas, California, Canada
-NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY
+Mexico email@example.net
+COUNTRY,URL,O
 

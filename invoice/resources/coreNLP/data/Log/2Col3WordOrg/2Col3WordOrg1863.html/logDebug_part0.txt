@@ -1,3 +1,3 @@
-Jameson Lee Holmberg Corp
-PERSON,PERSON,PERSON,PERSON
+Delilah Amy Ström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

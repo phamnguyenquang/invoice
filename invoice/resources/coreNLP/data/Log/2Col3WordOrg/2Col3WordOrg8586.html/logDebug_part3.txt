@@ -1,3 +1,3 @@
-Amelia Ekström Ellie 52 55144, Abu Dhabi, Guangzhou, Italy Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 22, January, 2855
+O,DATE,DATE,DATE
 

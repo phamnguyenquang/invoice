@@ -1,3 +1,3 @@
-Rachel Lindgren Ruby 86 71361, Osaka, Tuscany, Cambodia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,LOCATION,COUNTRY,O,O,NUMBER
+Cambodia email@example.net
+COUNTRY,URL,O
 

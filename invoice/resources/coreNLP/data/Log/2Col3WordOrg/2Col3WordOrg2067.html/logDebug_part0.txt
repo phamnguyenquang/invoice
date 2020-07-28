@@ -1,3 +1,3 @@
-Aubree David Holmgren Inc
-O,PERSON,PERSON,PERSON
+Eleanor Mary Nordström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

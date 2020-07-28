@@ -1,3 +1,3 @@
-87831, Singapore, Tuscany, United State
-NUMBER,COUNTRY,LOCATION,LOCATION,LOCATION
+California, Philippines email@example.net
+STATE_OR_PROVINCE,COUNTRY,URL,O
 

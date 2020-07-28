@@ -1,3 +1,3 @@
-Madelyn 56 29393, Los Angeles, khanh Hoa,
-PERSON,NUMBER,NUMBER,CITY,CITY,O,PERSON
+98000, Hong Kong, Bayern, India email@example.net
+NUMBER,CITY,CITY,LOCATION,COUNTRY,URL,O
 

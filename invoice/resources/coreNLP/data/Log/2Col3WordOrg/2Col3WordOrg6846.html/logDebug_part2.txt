@@ -1,3 +1,3 @@
-85410, Washington, Buriam, New Zealand
-NUMBER,STATE_OR_PROVINCE,LOCATION,COUNTRY,COUNTRY
+Denmark email@example.net
+COUNTRY,URL,O
 

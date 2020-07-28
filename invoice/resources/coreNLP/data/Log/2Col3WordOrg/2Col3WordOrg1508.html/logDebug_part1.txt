@@ -1,3 +1,3 @@
-Maddox 75 89790, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Carter 84 87403, Vienna, Tuscany, Italy
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

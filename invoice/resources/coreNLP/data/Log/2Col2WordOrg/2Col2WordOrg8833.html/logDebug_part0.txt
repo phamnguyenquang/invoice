@@ -1,3 +1,3 @@
-Melanie Bergström Corp
-PERSON,PERSON,O,O
+Roman Engström Inc
+O,O,O,ORGANIZATION
 

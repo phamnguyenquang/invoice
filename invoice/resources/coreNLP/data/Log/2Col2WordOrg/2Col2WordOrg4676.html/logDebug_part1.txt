@@ -1,3 +1,3 @@
-Genesis 58 41370, Last Vegas, Seattles,
-O,NUMBER,NUMBER,O,O,O
+Dylan 86 44115, Moscow, Henan, laos
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O
 

@@ -1,3 +1,3 @@
-69472, Los Angeles, Bangkok, Italy
-NUMBER,CITY,CITY,CITY,COUNTRY
+Everett 17 27194, Taipei, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

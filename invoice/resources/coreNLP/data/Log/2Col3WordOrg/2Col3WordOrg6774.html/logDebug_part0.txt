@@ -1,3 +1,3 @@
-Patrick Amy Larsson Corp
-PERSON,PERSON,PERSON,PERSON
+Scarlett Rose Pålsson Pte Ltd
+PERSON,PERSON,O,O,ORGANIZATION,ORGANIZATION
 

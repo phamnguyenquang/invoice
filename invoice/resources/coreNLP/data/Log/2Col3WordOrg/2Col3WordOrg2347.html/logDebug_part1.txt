@@ -1,3 +1,3 @@
-Ryleigh 84 56693, Hong Kong, Heibei, laos
-PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION,O
+Nathan 77 79715, Barcelona, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

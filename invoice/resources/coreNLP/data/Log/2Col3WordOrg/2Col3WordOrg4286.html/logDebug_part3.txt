@@ -1,3 +1,3 @@
-Jason Fredriksson Ariel 27 90652, Last Vegas, Huabei, Italy Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+Date: 21, October, 2594
+O,DATE,DATE,DATE
 

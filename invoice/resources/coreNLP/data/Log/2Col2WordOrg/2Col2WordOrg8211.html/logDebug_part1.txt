@@ -1,3 +1,3 @@
-Kendall 88 50216, SaiGon, Guangzhou,
-PERSON,NUMBER,NUMBER,LOCATION,CITY
+29620, Hong Kong, Hamburg, Ireland
+NUMBER,CITY,CITY,CITY,COUNTRY
 

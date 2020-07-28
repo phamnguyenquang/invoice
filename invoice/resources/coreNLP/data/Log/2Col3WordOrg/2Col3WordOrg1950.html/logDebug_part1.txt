@@ -1,3 +1,3 @@
-Henry 55 15463, Last Vegas, Hessen, South
-PERSON,NUMBER,NUMBER,O,O,O,O
+Leilani 47 93630, San Francisco, Bayern,
+PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
 

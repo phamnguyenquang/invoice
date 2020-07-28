@@ -1,3 +1,3 @@
-Xavier Wikström Pte Ltd
-PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
+Gabrielle Åkesson Inc
+PERSON,PERSON,PERSON
 

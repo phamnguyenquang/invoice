@@ -1,3 +1,3 @@
-Amir Mary Sjöberg Inc
-PERSON,PERSON,PERSON,PERSON,PERSON
+Tristan Edward Hellström Inc
+O,PERSON,PERSON,O,ORGANIZATION
 

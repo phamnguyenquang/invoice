@@ -1,3 +1,3 @@
-Xavier Nyström Inc
-PERSON,PERSON,O,ORGANIZATION
+Jonathan Sundberg Inc
+PERSON,PERSON,PERSON
 

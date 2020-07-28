@@ -1,3 +1,3 @@
-Ltd Autumn 66
-O,DATE,DATE
+Alexander 29 70179, SaiGon, Seattles,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Luca 27 39783, Melbourne, Bangkok,
-PERSON,NUMBER,NUMBER,CITY,CITY
+Eden 25 90608, Melbourne, Seattles,
+O,NUMBER,NUMBER,CITY,LOCATION
 

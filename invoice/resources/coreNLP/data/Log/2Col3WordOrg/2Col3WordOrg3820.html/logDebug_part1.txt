@@ -1,3 +1,3 @@
-Audrey 34 27749, Tokyo, khanh Hoa, South
-O,NUMBER,NUMBER,CITY,O,PERSON,PERSON
+Nathaniel 70 76401, Hanoi, Bremen, China
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
 

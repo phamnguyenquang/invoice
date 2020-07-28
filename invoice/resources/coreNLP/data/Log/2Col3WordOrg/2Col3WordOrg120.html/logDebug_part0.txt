@@ -1,3 +1,3 @@
-Valentina Rose Claesson Ltd
-PERSON,PERSON,PERSON,PERSON
+Owen Robert Nordström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

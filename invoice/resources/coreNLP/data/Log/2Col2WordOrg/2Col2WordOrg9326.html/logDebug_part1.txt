@@ -1,3 +1,3 @@
-Jackson 68 84580, Dubai, Bangkok,
-PERSON,NUMBER,NUMBER,PERSON,PERSON
+62238, Milan, Binh Thuan, South Korea
+NUMBER,O,O,O,COUNTRY,COUNTRY
 

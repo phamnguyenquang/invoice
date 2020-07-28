@@ -1,3 +1,3 @@
-London John Claesson Inc
-CITY,PERSON,PERSON,PERSON
+Silas Anne Bergström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

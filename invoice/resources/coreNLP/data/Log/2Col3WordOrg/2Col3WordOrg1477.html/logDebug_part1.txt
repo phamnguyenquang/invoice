@@ -1,3 +1,3 @@
-Cora 36 15314, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Rachel 38 14601, Minsk, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

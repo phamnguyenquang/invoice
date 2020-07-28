@@ -1,3 +1,3 @@
-93577, Frankfurt am Main , Floria, ThaiLand
-NUMBER,CITY,O,O,O,COUNTRY
+Leonardo 53 17536, San Francisco, Texas,
+PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE
 

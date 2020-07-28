@@ -1,3 +1,3 @@
-Gracie John Abrahamsson
-PERSON,PERSON,PERSON
+Miguel David Lundström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

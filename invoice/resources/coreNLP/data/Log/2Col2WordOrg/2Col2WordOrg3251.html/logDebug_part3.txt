@@ -1,3 +1,3 @@
-Angelina Henriksson Emery 95 55639, Istanbul, Indiana, Australia Invoice Number: 231001
-O,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Everly Lindqvist Bradley 23 77292, Berlin, Huabei, South Korea Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
 

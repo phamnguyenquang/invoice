@@ -1,3 +1,3 @@
-Mia Sjöberg Pte Ltd
-PERSON,PERSON,PERSON,PERSON,PERSON
+Lauren Samuelsson Corp
+PERSON,PERSON,PERSON
 

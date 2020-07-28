@@ -1,3 +1,3 @@
-Ltd Maverick 88
-O,O,NUMBER
+Lucas 49 40033, Montreal, California,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

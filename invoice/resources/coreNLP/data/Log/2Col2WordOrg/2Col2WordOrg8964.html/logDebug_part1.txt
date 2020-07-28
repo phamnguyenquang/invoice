@@ -1,3 +1,3 @@
-Destiny 5 67278, Boston, Henan,
-O,NUMBER,NUMBER,PERSON,PERSON
+46835, Taipei, Hawaii, Argentina email@example.net Date: 23, July, 2896
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

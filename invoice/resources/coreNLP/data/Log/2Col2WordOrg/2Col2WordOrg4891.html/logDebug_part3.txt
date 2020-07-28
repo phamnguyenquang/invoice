@@ -1,3 +1,3 @@
-Daniel Bergström Jeremiah 56 74215, Florence, Chiang Mai, Philippines Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 30, January, 2854
+O,DATE,DATE,DATE
 

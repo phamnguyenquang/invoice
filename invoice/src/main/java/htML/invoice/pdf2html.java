@@ -51,8 +51,8 @@ public class pdf2html {
 					String html = converter.getText(pdd); // That's it!
 //					System.out.println(html);
 					writer.append(html);
-					pdd.close();
 					is.close();
+					pdd.close();
 					writer.close();
 					System.gc();
 					System.out.println(f.getName());

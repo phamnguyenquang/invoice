@@ -1,3 +1,3 @@
-Wesley Nyström Inc
-PERSON,PERSON,O,ORGANIZATION
+Malachi Jonsson Ltd
+PERSON,PERSON,PERSON
 

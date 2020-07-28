@@ -1,3 +1,3 @@
-Graham 8 89197, Paris, Tuscany, laos
-PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+Gabriel 38 88364, Taipei, khanh Hoa,
+PERSON,NUMBER,NUMBER,CITY,O,PERSON
 

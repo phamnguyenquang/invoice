@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+16662, Berlin, Hamburg, Switzerland
+NUMBER,CITY,CITY,COUNTRY
 

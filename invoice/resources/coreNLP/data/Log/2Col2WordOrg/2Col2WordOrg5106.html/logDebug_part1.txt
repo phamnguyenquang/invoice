@@ -1,3 +1,3 @@
-Preston 74 58706, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Michelle 45 45011, Berlin, Kentucky,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

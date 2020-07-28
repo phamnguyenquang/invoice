@@ -1,3 +1,3 @@
-79000, Los Angeles, Indiana, New Zealand
-NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY
+61236, Shanghai, Seattles, Switzerland
+NUMBER,CITY,LOCATION,COUNTRY
 

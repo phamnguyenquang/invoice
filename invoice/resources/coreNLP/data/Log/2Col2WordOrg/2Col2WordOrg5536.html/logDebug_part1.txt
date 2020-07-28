@@ -1,3 +1,3 @@
-Clara 58 91727, Beijing, Huabei, Japan
-PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+47374, Last Vegas, Heibei, France
+NUMBER,O,O,PERSON,PERSON
 

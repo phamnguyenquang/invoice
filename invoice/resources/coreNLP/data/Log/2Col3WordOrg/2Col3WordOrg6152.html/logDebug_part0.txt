@@ -1,3 +1,3 @@
-Abel Elizabeth Bergström Pte
-PERSON,PERSON,PERSON,O,O
+Alice John Öberg Ltd
+PERSON,PERSON,PERSON,PERSON
 

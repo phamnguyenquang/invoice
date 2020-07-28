@@ -1,3 +1,3 @@
-23548, Berlin, Chiang Mai, Russia
-NUMBER,PERSON,PERSON,PERSON,PERSON
+Africa email@example.net
+LOCATION,URL,O
 

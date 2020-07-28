@@ -1,3 +1,3 @@
-Juliana 56 47157, Bonn, Bangkok, laos
-PERSON,NUMBER,NUMBER,CITY,CITY,O
+86660, Montreal, Binh Thuan, VietNam
+NUMBER,PERSON,PERSON,PERSON,PERSON
 

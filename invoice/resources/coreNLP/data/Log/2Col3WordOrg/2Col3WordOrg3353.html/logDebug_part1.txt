@@ -1,3 +1,3 @@
-Fredriksson Ltd Izabella 82
-PERSON,PERSON,PERSON,NUMBER
+Roman 6 83109, Montreal, Buriam, Turkey
+MISC,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-23213, Amsterdam, Chiang Mai, South Korea
-NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
+17374, Denver, khanh Hoa, China
+NUMBER,CITY,O,LOCATION,COUNTRY
 

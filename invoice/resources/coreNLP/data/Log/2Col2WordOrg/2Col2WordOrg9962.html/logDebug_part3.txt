@@ -1,3 +1,3 @@
-Annabelle Forsberg Ellie 35 18750, Sydney, California, ThaiLand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Date: 16, January, 2299
+O,DATE,DATE,DATE
 

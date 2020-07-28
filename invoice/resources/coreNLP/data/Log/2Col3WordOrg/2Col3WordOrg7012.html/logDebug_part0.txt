@@ -1,3 +1,3 @@
-Riley Elizabeth Björk Corp
-PERSON,PERSON,PERSON,PERSON,PERSON
+Jessica Lee Sandström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

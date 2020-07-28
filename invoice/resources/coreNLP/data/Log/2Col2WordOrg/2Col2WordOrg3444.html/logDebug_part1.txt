@@ -1,3 +1,3 @@
-77879, Seoul, Kentucky, Singapore
-NUMBER,PERSON,PERSON,PERSON
+Jonah 3 50835, San Francisco,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

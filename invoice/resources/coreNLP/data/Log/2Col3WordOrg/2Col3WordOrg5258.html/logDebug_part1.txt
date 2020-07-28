@@ -1,3 +1,3 @@
-Jacob 42 56857, Melbourne, Bangkok,
-PERSON,NUMBER,NUMBER,CITY,CITY
+Autumn 48 68688, Nha Trang, Huabei, laos
+DATE,NUMBER,NUMBER,O,O,LOCATION,O
 

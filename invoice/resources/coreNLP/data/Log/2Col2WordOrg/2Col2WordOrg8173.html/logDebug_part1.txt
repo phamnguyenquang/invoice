@@ -1,3 +1,3 @@
-48264, Berlin, Hessen, laos email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,O,URL,O,O,DATE,DATE,DATE
+Serenity 76 81487, Boston, Hainan, Mexico
+O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

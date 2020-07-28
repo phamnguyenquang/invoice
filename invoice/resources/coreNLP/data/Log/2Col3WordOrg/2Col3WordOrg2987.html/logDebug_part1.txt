@@ -1,3 +1,3 @@
-Oliver 78 29300, Florence, Kentucky, laos
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O
+Jasmine 64 30153, Amsterdam, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

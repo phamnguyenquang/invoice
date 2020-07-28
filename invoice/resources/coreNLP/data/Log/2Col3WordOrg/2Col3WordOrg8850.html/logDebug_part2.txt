@@ -1,3 +1,3 @@
-94502, Minsk, khanh Hoa, Saudi Arabia
-NUMBER,CITY,O,LOCATION,COUNTRY,COUNTRY
+Australia email@example.net Date: 8, June, 2870
+COUNTRY,O,O,O,DATE,DATE,DATE
 

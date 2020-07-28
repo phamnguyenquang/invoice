@@ -1,3 +1,3 @@
-Isabel Håkansson Corp
-PERSON,PERSON,PERSON,PERSON
+Jacob Olofsson Ltd
+PERSON,PERSON,PERSON
 

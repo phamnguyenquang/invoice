@@ -1,3 +1,3 @@
-Genesis Jakobsson Corp
-O,PERSON,PERSON
+Brody Henriksson Inc
+ORGANIZATION,ORGANIZATION,ORGANIZATION
 

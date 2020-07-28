@@ -1,3 +1,3 @@
-Gabriella 1 17056, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+37351, Budapest, Guangzhou, ThaiLand
+NUMBER,CITY,CITY,COUNTRY
 

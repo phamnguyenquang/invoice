@@ -1,3 +1,3 @@
-91414, London , Saarland, laos email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,O,URL,O,O,DATE,DATE,DATE
+46915, Berlin, Hainan, Japan email@example.net Date: 15, Aug, 2095
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,O,DATE,DATE,DATE
 

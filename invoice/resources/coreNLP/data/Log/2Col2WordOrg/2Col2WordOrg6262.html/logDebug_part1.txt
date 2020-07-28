@@ -1,3 +1,3 @@
-Abigail 44 81361, Bonn, Hawaii, Japan
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+15690, Berlin, Buriam, France email@example.net
+NUMBER,CITY,LOCATION,COUNTRY,URL,O
 

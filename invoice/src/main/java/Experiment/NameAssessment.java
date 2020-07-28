@@ -39,7 +39,7 @@ public class NameAssessment {
 
 	private void doWork() {
 		try {
-			namePattern = Pattern.compile("^(PERSON)[\\s](PERSON)[\\s](PERSON)[\\s]");
+			namePattern = Pattern.compile("^(PERSON)[\\s](PERSON)[\\s](PERSON)[\\s].*");
 //			namePattern = Pattern.compile("^((PERSON)[\\s])+");
 			String line = reader.readLine();
 			int anomaly = 0;

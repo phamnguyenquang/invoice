@@ -1,3 +1,3 @@
-Canada email@example.net Date: 18 April 2020
-COUNTRY,URL,O,DATE,DATE,DATE,DATE
+23870, Beijing, Binh Thuan, Italy
+NUMBER,CITY,LOCATION,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-Ruby 72 44174, Shanghai, Hainan, Ireland
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+Texas, Russia email@example.net
+STATE_OR_PROVINCE,COUNTRY,URL,O
 

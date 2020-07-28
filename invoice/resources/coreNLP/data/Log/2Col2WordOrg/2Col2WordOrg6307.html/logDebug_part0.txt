@@ -1,3 +1,3 @@
-Asher Nyström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Sophia Eriksson Inc
+PERSON,PERSON,PERSON
 

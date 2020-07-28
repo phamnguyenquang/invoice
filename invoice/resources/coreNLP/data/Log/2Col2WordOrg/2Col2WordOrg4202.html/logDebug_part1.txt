@@ -1,3 +1,3 @@
-David 65 96905, Budapest, Bremen,
-PERSON,NUMBER,NUMBER,CITY,CITY
+35125, Florence, Hawaii, Turkey email@example.net
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
 

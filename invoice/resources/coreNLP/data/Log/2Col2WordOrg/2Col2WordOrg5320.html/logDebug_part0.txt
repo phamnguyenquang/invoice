@@ -1,3 +1,3 @@
-Josiah Samuelsson Pte
-PERSON,PERSON,PERSON
+Lyla Hellström Inc
+PERSON,PERSON,O,ORGANIZATION
 

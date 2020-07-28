@@ -1,3 +1,3 @@
-22352, Lisbon, Bangkok, ThaiLand
-NUMBER,CITY,CITY,COUNTRY
+Clara 6 76070, Washington, Chiang Mai,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
 

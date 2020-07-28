@@ -1,3 +1,3 @@
-34232, Bonn, Ang Thong, Singapore
-NUMBER,CITY,CITY,CITY,COUNTRY
+Ariel 13 22710, Frankfurt am Main ,
+O,NUMBER,NUMBER,CITY,O,O
 

@@ -1,3 +1,3 @@
-Jude Bergström Corp Sophie 25
-PERSON,PERSON,O,PERSON,PERSON,NUMBER
+Timothy Magnusson Corp
+PERSON,PERSON,PERSON
 

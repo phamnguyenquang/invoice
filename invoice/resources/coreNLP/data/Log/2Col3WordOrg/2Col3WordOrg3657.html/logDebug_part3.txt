@@ -1,3 +1,3 @@
-Michelle Öberg Alaina 38 64931, Tokyo, Binh Thuan, Ireland Invoice Number: 231001
-PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
+email@example.net Date: 11, September, 2152
+URL,O,O,DATE,DATE,DATE
 

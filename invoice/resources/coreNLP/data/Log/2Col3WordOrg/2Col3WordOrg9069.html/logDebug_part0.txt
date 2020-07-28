@@ -1,3 +1,3 @@
-David Thomas Nilsson Ltd
-PERSON,PERSON,PERSON,PERSON
+Jacob Thomas Lindström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

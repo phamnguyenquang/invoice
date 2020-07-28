@@ -1,3 +1,3 @@
-96140, Istanbul, Indiana, France email@example.net Date: 18 April 2020
-NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,DATE,DATE,DATE,DATE
+77504, Venice, Hessen, New Zealand
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
 

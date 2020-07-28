@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Brooklyn Bergström Cayden 45 97001, Berlin, Hessen, South Africa Invoice Number: 231001
+CITY,LOCATION,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
 

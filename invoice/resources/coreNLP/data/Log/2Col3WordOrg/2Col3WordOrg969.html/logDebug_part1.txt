@@ -1,3 +1,3 @@
-Brooklynn 18 71342, Amsterdam, Huabei,
-PERSON,NUMBER,NUMBER,CITY,LOCATION
+Juliana 27 80801, Frankfurt am Main ,
+PERSON,NUMBER,NUMBER,CITY,O,O
 

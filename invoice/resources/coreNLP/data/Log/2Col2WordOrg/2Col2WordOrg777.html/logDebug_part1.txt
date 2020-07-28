@@ -1,3 +1,3 @@
-Logan 92 89157, Stuttgart, Chiang Rai,
-ORGANIZATION,NUMBER,NUMBER,PERSON,PERSON,PERSON
+Cole 55 15357, Last Vegas, Seattles, New
+O,NUMBER,NUMBER,O,O,O,O
 

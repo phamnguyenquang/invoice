@@ -1,3 +1,3 @@
-Joseph Ek Pte Ltd
-PERSON,PERSON,PERSON,PERSON
+Jeremiah Bergström Pte
+PERSON,PERSON,O,O
 

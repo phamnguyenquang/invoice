@@ -1,3 +1,3 @@
-Nicholas Lindström Corp
-PERSON,PERSON,O,O
+Luke Åkesson Inc Destiny 84
+PERSON,O,O,O,NUMBER
 

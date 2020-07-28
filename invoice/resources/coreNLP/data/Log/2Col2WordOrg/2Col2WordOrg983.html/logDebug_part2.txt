@@ -1,3 +1,3 @@
-Mateo Axelsson Natalia 54 88293, Washington, Kentucky, South Korea Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,STATE_OR_PROVINCE,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+South Africa email@example.net
+COUNTRY,COUNTRY,URL,O
 

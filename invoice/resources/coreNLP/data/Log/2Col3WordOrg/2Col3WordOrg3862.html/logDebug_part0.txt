@@ -1,3 +1,3 @@
-Jonathan Michael Lundström Ltd
+Marcus David Nordström Inc
 PERSON,PERSON,PERSON,O,ORGANIZATION
 

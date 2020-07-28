@@ -1,3 +1,3 @@
-Abel Åkesson Charlotte 59 78547, Ho Chi Minh, Heibei, Russia Invoice Number: 231001
-PERSON,O,ORGANIZATION,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,NUMBER
+Date: 26, February, 2672
+O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-32066, Last Vegas, khanh Hoa, Brazil
-NUMBER,O,O,O,LOCATION,COUNTRY
+12681, Hanoi, Kentucky, Philippines
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

@@ -1,3 +1,3 @@
-Genesis 48 50844, Barcelona, Chai Nat,
-O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+Emilia 6 94802, Frankfurt am Main ,
+O,NUMBER,NUMBER,CITY,O,O
 

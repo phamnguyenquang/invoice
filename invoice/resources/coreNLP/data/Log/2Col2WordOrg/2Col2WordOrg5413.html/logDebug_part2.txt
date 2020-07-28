@@ -1,3 +1,3 @@
-66088, New York , khanh Hoa, ThaiLand
-NUMBER,STATE_OR_PROVINCE,STATE_OR_PROVINCE,O,PERSON,COUNTRY
+ThaiLand email@example.net
+COUNTRY,URL,O
 

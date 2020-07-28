@@ -1,3 +1,3 @@
-Daniel 38 91022, San Francisco, Bremen,
-PERSON,NUMBER,NUMBER,CITY,CITY,CITY
+Paisley 86 69865, Moscow, Phu Yen, South
+ORGANIZATION,NUMBER,NUMBER,CITY,O,O,O
 

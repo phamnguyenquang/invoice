@@ -1,3 +1,3 @@
-Isaiah Fredriksson Ltd
-PERSON,PERSON,PERSON
+Daniel Löfgren Inc
+PERSON,PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Elijah Danielsson Calvin 88 11500, Venice, Tuscany, Indonesia s Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+Kaitlyn Viklund Cooper 96 71135, Munich, Indiana, Germany Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

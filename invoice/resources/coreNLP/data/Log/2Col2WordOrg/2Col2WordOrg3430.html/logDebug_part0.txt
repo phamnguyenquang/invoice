@@ -1,3 +1,3 @@
-Margaret Holmberg Ltd
-PERSON,PERSON,PERSON
+Sadie Lindström Inc
+PERSON,PERSON,O,ORGANIZATION
 

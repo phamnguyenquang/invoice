@@ -1,3 +1,3 @@
-Nathan Olsson Inc
-PERSON,PERSON,PERSON
+Brianna Ekström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

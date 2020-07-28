@@ -1,3 +1,3 @@
-Genesis 37 42880, Last Vegas, Buriam,
-O,NUMBER,NUMBER,O,O,O
+Luna 38 69729, Nha Trang, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
 

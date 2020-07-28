@@ -1,3 +1,3 @@
-Ruby Lee Lundström Pte
-PERSON,PERSON,PERSON,O,O
+Evelyn Amy Lindström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

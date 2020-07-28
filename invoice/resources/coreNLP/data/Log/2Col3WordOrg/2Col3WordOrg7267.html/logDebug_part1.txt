@@ -1,3 +1,3 @@
-Leilani 17 51806, Bonn, Guangzhou, Japan
-PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+Serenity 60 62694, Lisbon, Seattles, Denmark
+O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-Ariel Louise Nyström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Weston Victoria Lindqvist Pte
+PERSON,PERSON,PERSON,PERSON
 

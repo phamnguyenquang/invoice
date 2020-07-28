@@ -1,3 +1,3 @@
-Colin Hellström Lila 4 24771, Berlin, Bangkok, Switzerland Invoice Number: 231001
-PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 13, March, 2150
+O,DATE,DATE,DATE
 

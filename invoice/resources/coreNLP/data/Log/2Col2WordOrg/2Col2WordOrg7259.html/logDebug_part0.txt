@@ -1,3 +1,3 @@
-Samantha Sjögren Ltd
-PERSON,PERSON,PERSON,PERSON
+Stella Viklund Inc
+PERSON,PERSON,PERSON
 

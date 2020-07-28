@@ -1,3 +1,3 @@
-Destiny Åberg Corp
-O,PERSON,PERSON
+Isabelle Andersson Ltd
+PERSON,PERSON,PERSON
 

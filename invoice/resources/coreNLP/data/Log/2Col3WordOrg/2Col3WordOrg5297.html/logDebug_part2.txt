@@ -1,3 +1,3 @@
-Seattles, Australia email@example.net Date: 18 April 2020
-O,COUNTRY,O,O,DATE,DATE,DATE,DATE
+email@example.net Date: 2, Jul, 2158
+URL,O,O,DATE,DATE,DATE
 

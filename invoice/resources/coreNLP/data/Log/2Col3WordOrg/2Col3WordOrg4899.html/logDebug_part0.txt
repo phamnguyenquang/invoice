@@ -1,3 +1,3 @@
-Valeria Amy Ekström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Clara Christopher Lund
+PERSON,PERSON,PERSON
 

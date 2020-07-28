@@ -1,3 +1,3 @@
-Sebastian 96 82498, Shanghai, Guangzhou,
-PERSON,NUMBER,NUMBER,CITY,CITY
+Oscar 54 14393, Vancouver, khanh Hoa,
+O,NUMBER,NUMBER,O,O,PERSON
 

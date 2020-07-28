@@ -1,3 +1,3 @@
-Luca Holmgren Corp
-PERSON,PERSON,PERSON
+Lucy Sandström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

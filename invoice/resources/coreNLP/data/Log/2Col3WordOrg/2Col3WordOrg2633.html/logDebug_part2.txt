@@ -1,3 +1,3 @@
-71385, Frankfurt am Main , Huabei, Indonesia s email@example.net Date: 18 April 2020
-NUMBER,CITY,O,O,LOCATION,COUNTRY,O,URL,O,O,DATE,DATE,DATE
+Kentucky, New Zealand email@example.net Date: 14, Jan, 2430
+STATE_OR_PROVINCE,COUNTRY,COUNTRY,URL,O,O,DATE,DATE,DATE
 

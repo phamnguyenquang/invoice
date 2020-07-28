@@ -1,3 +1,3 @@
-Ezra 53 71801, Last Vegas, Phu Yen,
-PERSON,NUMBER,NUMBER,O,O,O,O
+36919, Chicago, Indiana, Philippines
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

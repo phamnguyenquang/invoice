@@ -1,3 +1,3 @@
-Kai Ek Athena 69 50080, Ho Chi Minh, Buriam, Mexico Invoice Number: 231001
-O,O,ORGANIZATION,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,NUMBER
+Aaron Nyberg Jaxon 32 91909, Bonn, Binh Thuan, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
 

@@ -1,3 +1,3 @@
-62590, San Francisco, Bremen, Denmark
-NUMBER,CITY,CITY,CITY,COUNTRY
+Emery 7 49619, Tokyo, Chiang Rai,
+O,NUMBER,NUMBER,PERSON,PERSON,PERSON
 

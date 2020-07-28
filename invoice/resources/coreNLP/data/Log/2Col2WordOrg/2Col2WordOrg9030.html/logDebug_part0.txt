@@ -1,3 +1,3 @@
-Clara Nordin Inc Alaina 32
-PERSON,PERSON,PERSON,PERSON,NUMBER
+Nicolas Andersson Corp
+PERSON,PERSON,PERSON
 

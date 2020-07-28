@@ -1,3 +1,3 @@
-Aiden Sjöberg Inc
-PERSON,PERSON,PERSON,PERSON
+Cora Lundström Corp
+PERSON,PERSON,O,O
 

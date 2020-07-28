@@ -1,3 +1,3 @@
-Luca Björk Corp Cooper 62
-PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER
+Faith Bergman Inc
+O,PERSON,PERSON
 

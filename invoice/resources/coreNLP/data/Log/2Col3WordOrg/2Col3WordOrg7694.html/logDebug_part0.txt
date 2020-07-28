@@ -1,3 +1,3 @@
-Naomi Peter Eriksson Corp
-PERSON,PERSON,PERSON,PERSON
+Abigail Ann Lundström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

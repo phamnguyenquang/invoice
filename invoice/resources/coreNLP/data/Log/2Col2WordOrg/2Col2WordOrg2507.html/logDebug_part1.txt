@@ -1,3 +1,3 @@
-Josiah 88 57246, Last Vegas, Huabei,
-PERSON,NUMBER,NUMBER,O,O,LOCATION
+Adalynn 7 70132, Lisbon, California, Turkey
+O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

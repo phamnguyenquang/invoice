@@ -1,3 +1,3 @@
-Tristan Sandberg Ltd
-O,PERSON,PERSON
+Isabel Pålsson Ltd
+PERSON,PERSON,PERSON,PERSON
 

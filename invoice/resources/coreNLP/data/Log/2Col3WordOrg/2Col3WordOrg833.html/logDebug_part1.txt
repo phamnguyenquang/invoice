@@ -1,3 +1,3 @@
-William 15 86097, Madrid, Hessen, laos
-PERSON,NUMBER,NUMBER,CITY,LOCATION,O
+Sandström Corp Max 68
+PERSON,O,O,O,NUMBER
 

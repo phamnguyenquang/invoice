@@ -1,3 +1,3 @@
-Mckenzie Åkesson Isabella 90 58689, Budapest, khanh Hoa, Turkey Invoice Number: 231001
-PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,O,O,NUMBER
+Naomi Hermansson Layla 64 82620, Chicago, Henan, laos Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O,O,O,NUMBER
 

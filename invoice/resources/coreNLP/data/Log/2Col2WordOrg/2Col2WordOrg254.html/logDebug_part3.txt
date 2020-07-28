@@ -1,3 +1,3 @@
-Ariel Lundström Kaitlyn 67 29299, Milan, Saarland, Ireland Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+email@example.net Date: 17, January, 2697
+URL,O,O,DATE,DATE,DATE
 

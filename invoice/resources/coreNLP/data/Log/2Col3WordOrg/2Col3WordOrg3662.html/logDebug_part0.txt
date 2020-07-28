@@ -1,3 +1,3 @@
-Luke Amy Isaksson Inc
-PERSON,PERSON,PERSON,PERSON
+Arianna Amy Lundström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

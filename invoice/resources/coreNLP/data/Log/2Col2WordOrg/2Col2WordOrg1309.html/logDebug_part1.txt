@@ -1,3 +1,3 @@
-75452, Last Vegas, Seattles, Saudi Arabia
-NUMBER,O,O,O,COUNTRY,COUNTRY
+Amy 90 12562, Vancouver, Guangzhou,
+O,NUMBER,NUMBER,CITY,CITY
 

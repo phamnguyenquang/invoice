@@ -1,3 +1,3 @@
-36891, Montreal, Bayern, Ireland email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+76915, Chicago, Chiang Mai, South Korea
+NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
 

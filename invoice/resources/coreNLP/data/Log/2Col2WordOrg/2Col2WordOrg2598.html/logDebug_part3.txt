@@ -1,3 +1,3 @@
-Nathaniel Andersson Catherine 22 97371, Moscow, Tuscany, Denmark Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+Reese Danielsson Kaiden 97 22325, Moscow, California, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

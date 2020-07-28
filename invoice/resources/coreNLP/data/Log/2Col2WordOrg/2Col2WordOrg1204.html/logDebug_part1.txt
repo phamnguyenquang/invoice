@@ -1,3 +1,3 @@
-26413, Boston, Kentucky, Mexico email@example.net Date: 18 April 2020
-NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,URL,O,O,DATE,DATE,DATE
+Makenzie 76 75166, Frankfurt am Main ,
+PERSON,NUMBER,NUMBER,CITY,O,O
 

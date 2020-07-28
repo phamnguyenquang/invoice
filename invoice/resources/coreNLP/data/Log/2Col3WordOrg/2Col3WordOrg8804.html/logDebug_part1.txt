@@ -1,3 +1,3 @@
-Adam 33 23388, London , Seattles, New
-O,NUMBER,NUMBER,O,O,O
+Londyn 71 54187, Seoul, Bremen, Cambodia
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
 

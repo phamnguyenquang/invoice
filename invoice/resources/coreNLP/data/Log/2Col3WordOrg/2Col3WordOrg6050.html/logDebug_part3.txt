@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Kennedy Victoria Johansson Ivan 15 94671, San Francisco, Hainan, Denmark Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

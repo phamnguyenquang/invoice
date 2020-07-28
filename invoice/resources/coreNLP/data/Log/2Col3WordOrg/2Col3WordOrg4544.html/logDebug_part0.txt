@@ -1,3 +1,3 @@
-Timothy Peter Nordström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Camden Lee Fredriksson Inc
+PERSON,PERSON,PERSON,PERSON
 

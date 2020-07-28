@@ -1,3 +1,3 @@
-Sophie Jane Holmberg Corp
-PERSON,PERSON,PERSON,PERSON
+Maverick Anne Sandström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

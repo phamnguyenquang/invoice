@@ -1,3 +1,3 @@
-Sadie 31 85058, Last Vegas, Chiang Mai,
-PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
+Xavier 40 69190, Sydney, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

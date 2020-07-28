@@ -1,3 +1,3 @@
-Sean Björklund Inc
-PERSON,PERSON,PERSON,PERSON
+Sebastian Pettersson Corp
+PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Kimberly Larsson Andrea 22 52342, Seoul, Indiana, Australia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+email@example.net Date: 4, December, 2158
+URL,O,O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-Caden Victoria Lundström Corp
-PERSON,PERSON,PERSON,O,O
+Harrison Louise Ekström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

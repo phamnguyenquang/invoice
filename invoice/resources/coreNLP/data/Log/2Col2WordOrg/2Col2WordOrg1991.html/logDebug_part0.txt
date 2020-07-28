@@ -1,3 +1,3 @@
-Landon Öberg Inc
-PERSON,PERSON,PERSON
+Maddox Åberg Pte Ltd
+PERSON,O,ORGANIZATION,ORGANIZATION
 

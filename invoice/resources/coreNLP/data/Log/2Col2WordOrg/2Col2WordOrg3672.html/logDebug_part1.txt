@@ -1,3 +1,3 @@
-Corp Sara 9
-PERSON,PERSON,PERSON
+58503, Ho Chi Minh, Guangdong, Russia email@example.net
+NUMBER,O,O,O,STATE_OR_PROVINCE,COUNTRY,URL,O
 

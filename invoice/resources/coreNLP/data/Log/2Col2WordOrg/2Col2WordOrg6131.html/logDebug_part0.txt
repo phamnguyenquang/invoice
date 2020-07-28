@@ -1,3 +1,3 @@
-Oscar Andersson Ltd
-PERSON,PERSON,PERSON
+Paul Ekström Inc Colin 34
+PERSON,PERSON,O,ORGANIZATION,O,NUMBER
 

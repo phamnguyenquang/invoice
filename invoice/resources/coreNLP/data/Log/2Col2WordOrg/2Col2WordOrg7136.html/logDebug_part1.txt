@@ -1,3 +1,3 @@
-Jayla 98 60564, San Francisco, khanh
-ORGANIZATION,NUMBER,NUMBER,CITY,CITY,O
+53427, Hanoi, Hainan, laos email@example.net
+NUMBER,CITY,STATE_OR_PROVINCE,O,URL,O
 

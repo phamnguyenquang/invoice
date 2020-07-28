@@ -1,3 +1,3 @@
-Eli 55 95229, Frankfurt am Main , Ang
-O,NUMBER,NUMBER,CITY,O,PERSON,PERSON
+83768, Rome, Henan, VietNam email@example.net
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
 

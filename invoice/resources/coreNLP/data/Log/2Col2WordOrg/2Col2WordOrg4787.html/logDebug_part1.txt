@@ -1,3 +1,3 @@
-Jack 70 65389, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Camila 44 52049, Sydney, Hamburg, Russia
+PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
 

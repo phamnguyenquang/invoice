@@ -1,3 +1,3 @@
-Destiny 34 67186, Minsk, Huabei, China
-O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+Serenity 15 89451, Dubai, Huabei, laos
+O,NUMBER,NUMBER,CITY,LOCATION,O
 

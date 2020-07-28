@@ -1,3 +1,3 @@
-Gavin Eklund Brody 36 94306, Ho Chi Minh, Chai Nat, Denmark Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,O,COUNTRY,O,O,NUMBER
+Daniela Blomqvist Weston 22 47871, Boston, Phu Yen, VietNam Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
 

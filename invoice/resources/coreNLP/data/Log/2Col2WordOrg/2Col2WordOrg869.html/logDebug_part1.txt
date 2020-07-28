@@ -1,3 +1,3 @@
-66395, Last Vegas, California, Australia
-NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY
+Sara 48 11372, Sydney, Tuscany, laos
+PERSON,NUMBER,NUMBER,CITY,LOCATION,O
 

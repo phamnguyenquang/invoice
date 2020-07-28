@@ -1,3 +1,3 @@
-Olivia Mårtensson Kyle 30 31783, Beijing, Guangdong, Argentina Invoice Number: 231001
-O,O,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Laila Bergström Natalia 28 85612, Beijing, Hessen, Singapore Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

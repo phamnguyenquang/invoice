@@ -1,3 +1,3 @@
-Elena Olsson Maya 65 47056, Abu Dhabi, Texas, South Africa Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 12, Nov, 2937
+URL,O,O,DATE,DATE,DATE
 

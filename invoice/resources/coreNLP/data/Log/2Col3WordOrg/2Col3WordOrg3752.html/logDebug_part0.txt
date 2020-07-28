@@ -1,3 +1,3 @@
-Allison Elizabeth Eklund Corp
-PERSON,PERSON,PERSON,PERSON
+Bryan Michael Lundström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

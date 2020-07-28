@@ -1,3 +1,3 @@
-Avery 75 30338, Minsk, Henan, ThaiLand
+Chase 73 82057, Berlin, Hainan, France
 PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

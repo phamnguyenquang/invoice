@@ -1,3 +1,3 @@
-Timothy Andersson Ltd
-PERSON,PERSON,PERSON
+Emma Wikström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-12565, Singapore, Amnat Charoen, Philippines
-NUMBER,COUNTRY,CITY,CITY,COUNTRY
+VietNam email@example.net
+COUNTRY,URL,O
 

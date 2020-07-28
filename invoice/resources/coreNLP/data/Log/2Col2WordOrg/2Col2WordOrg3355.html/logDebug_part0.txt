@@ -1,3 +1,3 @@
-Isabelle Larsson Pte Ltd
-PERSON,PERSON,PERSON,PERSON
+Graham Hellström Inc
+PERSON,PERSON,O,ORGANIZATION
 

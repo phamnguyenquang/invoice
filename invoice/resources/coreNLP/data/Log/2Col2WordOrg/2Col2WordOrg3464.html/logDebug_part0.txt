@@ -1,3 +1,3 @@
-Layla Henriksson Inc
-PERSON,PERSON,PERSON
+Matthew Nyström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

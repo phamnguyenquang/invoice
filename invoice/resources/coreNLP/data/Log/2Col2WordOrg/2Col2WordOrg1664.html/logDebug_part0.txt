@@ -1,3 +1,3 @@
-Destiny Lindgren Corp
-O,PERSON,PERSON
+Adalyn Mattsson Ltd
+PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Natalia Öberg Cole 76 40441, Rome, Saarland, Russia Invoice Number: 231001
-PERSON,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+Date: 17, February, 2689
+O,DATE,DATE,DATE
 

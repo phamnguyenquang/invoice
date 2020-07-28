@@ -1,3 +1,3 @@
-Piper David Håkansson Inc
-PERSON,PERSON,PERSON,PERSON,PERSON
+Hadley James Sandström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

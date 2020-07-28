@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Victoria Edward Bergman Gabrielle 83 68570, Berlin, Guangzhou, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
 

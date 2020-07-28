@@ -1,3 +1,3 @@
-Mark Louise Fredriksson Ltd
-PERSON,PERSON,PERSON,PERSON
+Gianna Peter Ström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

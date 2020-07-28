@@ -1,3 +1,3 @@
-Addison 29 12193, SaiGon, Bangkok,
-PERSON,NUMBER,NUMBER,PERSON,PERSON
+Gabriella 87 34693, Berlin, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

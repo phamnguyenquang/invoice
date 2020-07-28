@@ -1,3 +1,3 @@
-Ivan Wikström Asher 22 34726, Barcelona, Seattles, Italy Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,COUNTRY,O,O,NUMBER
+Allison Fransson Serenity 33 57702, Hanoi, Saarland, Indonesia s Invoice Number: 231001
+PERSON,PERSON,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
 

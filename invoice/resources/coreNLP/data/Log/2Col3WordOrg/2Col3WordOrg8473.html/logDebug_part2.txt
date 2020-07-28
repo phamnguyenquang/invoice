@@ -1,3 +1,3 @@
-50027, Seoul, Bremen, China email@example.net Date: 18 April 2020
-NUMBER,CITY,CITY,COUNTRY,O,O,O,DATE,DATE,DATE
+41787, Stuttgart, Seattles, VietNam
+NUMBER,ORGANIZATION,ORGANIZATION,COUNTRY
 

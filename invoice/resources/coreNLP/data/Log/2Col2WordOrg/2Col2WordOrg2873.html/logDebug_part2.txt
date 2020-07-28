@@ -1,3 +1,3 @@
-53751, San Francisco, Chiang Mai, Australia
-NUMBER,CITY,CITY,CITY,CITY,COUNTRY
+email@example.net Date: 30, Jan, 2325
+URL,O,O,DATE,DATE,DATE
 

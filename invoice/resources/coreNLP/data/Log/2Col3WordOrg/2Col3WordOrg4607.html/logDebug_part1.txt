@@ -1,3 +1,3 @@
-Lindström Inc Charles 96
-PERSON,O,PERSON,PERSON,NUMBER
+Izabella 57 22948, Philadelphia, Bremen,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

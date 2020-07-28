@@ -1,3 +1,3 @@
-Abel Löfgren Easton 38 19107, Los Angeles, Kentucky, Switzerland Invoice Number: 231001
-PERSON,O,O,ORGANIZATION,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Samantha Blom Aurora 3 78695, Last Vegas, Chai Nat, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,NUMBER
 

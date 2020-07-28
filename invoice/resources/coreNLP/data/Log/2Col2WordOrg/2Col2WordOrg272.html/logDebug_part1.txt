@@ -1,3 +1,3 @@
-Trinity 92 97190, Shanghai, Hessen,
-ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION
+66522, Taipei, Bremen, laos email@example.net
+NUMBER,CITY,CITY,O,URL,O
 

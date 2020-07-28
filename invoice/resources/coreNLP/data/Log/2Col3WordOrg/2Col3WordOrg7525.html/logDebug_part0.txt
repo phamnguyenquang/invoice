@@ -1,3 +1,3 @@
-Ezra Amy Ström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Brantley Kate Magnusson Ltd
+PERSON,PERSON,PERSON,PERSON
 

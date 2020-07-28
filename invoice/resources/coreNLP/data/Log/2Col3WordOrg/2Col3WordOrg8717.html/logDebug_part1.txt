@@ -1,3 +1,3 @@
-Kai 39 13538, Melbourne, Chiang Rai,
-O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+Valentina 54 38498, Melbourne, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

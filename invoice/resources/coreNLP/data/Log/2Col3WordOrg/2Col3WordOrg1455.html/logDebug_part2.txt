@@ -1,3 +1,3 @@
-19044, Hong Kong, Bayern, Russia
-NUMBER,CITY,CITY,LOCATION,COUNTRY
+10882, Hanoi, Henan, India email@example.net
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
 

@@ -1,3 +1,3 @@
-Ezra Lundström Inc
-PERSON,PERSON,O,ORGANIZATION
+Sophie Björklund Inc
+PERSON,PERSON,PERSON,PERSON
 

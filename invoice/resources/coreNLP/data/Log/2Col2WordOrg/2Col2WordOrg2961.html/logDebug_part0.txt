@@ -1,3 +1,3 @@
-Jude Nordström Pte Ltd
-PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
+Vivian Martinsson Corp
+PERSON,PERSON,PERSON
 

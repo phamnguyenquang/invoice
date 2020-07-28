@@ -1,3 +1,3 @@
-Alex 65 11054, Last Vegas, Hessen,
-PERSON,NUMBER,NUMBER,O,O,O
+Ariel 7 57770, Berlin, Seattles, Turkey
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

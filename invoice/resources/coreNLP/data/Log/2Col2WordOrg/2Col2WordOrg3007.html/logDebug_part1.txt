@@ -1,3 +1,3 @@
-Kinsley 91 34123, Moscow, Tuscany,
-PERSON,NUMBER,NUMBER,CITY,LOCATION
+Ltd Everly 28
+O,O,NUMBER
 

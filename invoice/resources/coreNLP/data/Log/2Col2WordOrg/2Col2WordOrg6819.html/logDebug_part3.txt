@@ -1,3 +1,3 @@
-Khloe Danielsson Kayden 48 37452, Last Vegas, Binh Thuan, United Kingdom Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,COUNTRY,O,O,NUMBER
+Emily Wikström Julia 61 53041, Shanghai, Hawaii, South Korea Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
 

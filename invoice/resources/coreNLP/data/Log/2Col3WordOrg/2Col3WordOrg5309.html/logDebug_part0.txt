@@ -1,3 +1,3 @@
-Gabriella Kate Jansson Inc
-PERSON,PERSON,PERSON,PERSON
+Rylee Michael Ström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

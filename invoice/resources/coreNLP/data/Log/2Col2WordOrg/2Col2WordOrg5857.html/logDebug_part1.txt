@@ -1,3 +1,3 @@
-Jaxson 56 99886, Los Angeles, Binh Thuan,
-PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
+Kinsley 72 38630, Berlin, Bremen, laos
+PERSON,NUMBER,NUMBER,CITY,CITY,O
 

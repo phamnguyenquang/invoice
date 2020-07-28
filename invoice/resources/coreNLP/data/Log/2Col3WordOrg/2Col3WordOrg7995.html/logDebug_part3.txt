@@ -1,3 +1,3 @@
-Andrew Ström Brooklyn 46 15862, Dublin, Kentucky, laos Invoice Number: 231001
-PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O,O,O,NUMBER
+Date: 6, August, 2077
+O,DATE,DATE,DATE
 

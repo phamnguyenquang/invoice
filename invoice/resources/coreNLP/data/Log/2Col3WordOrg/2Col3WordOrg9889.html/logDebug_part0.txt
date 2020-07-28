@@ -1,3 +1,3 @@
-Maddox Catherine
-PERSON,PERSON
+Stella James Lundberg Inc
+PERSON,PERSON,PERSON,PERSON
 

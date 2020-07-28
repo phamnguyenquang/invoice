@@ -1,3 +1,3 @@
-Brooklynn Gustafsson Miguel 58 19666, Frankfurt am Main , Binh Thuan, ThaiLand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,O,COUNTRY,O,O,NUMBER
+email@example.net Date: 1, June, 2934
+URL,O,O,DATE,DATE,DATE
 

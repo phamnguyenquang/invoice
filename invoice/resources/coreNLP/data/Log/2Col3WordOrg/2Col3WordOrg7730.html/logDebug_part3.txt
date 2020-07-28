@@ -1,3 +1,3 @@
-Skylar Martinsson Kingston 61 16767, Moscow, Kentucky, Denmark Invoice Number: 231001
-ORGANIZATION,ORGANIZATION,ORGANIZATION,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+email@example.net Date: 19, October, 2003
+URL,O,O,DATE,DATE,DATE
 

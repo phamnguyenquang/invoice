@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+72381, Frankfurt am Main , Tuscany, VietNam email@example.net Date: 2, Sep, 2579
+NUMBER,CITY,O,O,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Hawaii, Mexico email@example.net Date: 29, Aug, 2808
+STATE_OR_PROVINCE,COUNTRY,URL,O,DATE,DATE,DATE,DATE
 

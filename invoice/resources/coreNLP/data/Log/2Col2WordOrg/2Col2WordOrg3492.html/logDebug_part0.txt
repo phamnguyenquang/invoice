@@ -1,3 +1,3 @@
-Luca Wikström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Maria Johansson Corp
+PERSON,PERSON,PERSON
 

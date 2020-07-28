@@ -1,3 +1,3 @@
-Löfgren Ltd Paul 19
-O,O,PERSON,PERSON,NUMBER
+London 65 69377, San Francisco, Saarland,
+CITY,NUMBER,NUMBER,CITY,CITY,LOCATION
 

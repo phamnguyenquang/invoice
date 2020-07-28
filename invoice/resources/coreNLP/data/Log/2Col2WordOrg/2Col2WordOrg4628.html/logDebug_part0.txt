@@ -1,3 +1,3 @@
-Juliana Abrahamsson Pte
-PERSON,PERSON,PERSON
+Madison Lundström Inc
+PERSON,PERSON,O,ORGANIZATION
 

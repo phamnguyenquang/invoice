@@ -1,3 +1,3 @@
-Quinn Månsson Ltd
-PERSON,PERSON,PERSON,PERSON
+Eleanor Pettersson Pte
+PERSON,PERSON,PERSON
 

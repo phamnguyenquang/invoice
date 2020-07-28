@@ -1,3 +1,3 @@
-93367, Frankfurt am Main , Bremen, Mexico
-NUMBER,CITY,O,O,CITY,COUNTRY
+Guangdong, South Korea email@example.net
+STATE_OR_PROVINCE,COUNTRY,COUNTRY,URL,O
 

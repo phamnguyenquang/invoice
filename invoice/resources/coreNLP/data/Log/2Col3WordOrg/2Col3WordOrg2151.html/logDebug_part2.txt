@@ -1,3 +1,3 @@
-26748, Sydney, Guangzhou, Russia
-NUMBER,CITY,CITY,COUNTRY
+26409, Stuttgart, Guangdong, Australia
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

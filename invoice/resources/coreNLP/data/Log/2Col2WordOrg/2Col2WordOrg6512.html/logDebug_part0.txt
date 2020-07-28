@@ -1,3 +1,3 @@
-Miguel Hellström Inc
-PERSON,PERSON,O,ORGANIZATION
+Serenity Pålsson Pte Ltd
+O,O,O,ORGANIZATION,ORGANIZATION
 

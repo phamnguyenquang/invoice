@@ -1,3 +1,3 @@
-86342, Washington, Bremen, Brazil
-NUMBER,STATE_OR_PROVINCE,CITY,COUNTRY
+87904, Tokyo, Huabei, Philippines
+NUMBER,CITY,LOCATION,COUNTRY
 

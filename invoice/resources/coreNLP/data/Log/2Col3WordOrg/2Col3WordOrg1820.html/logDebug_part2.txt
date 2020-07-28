@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+38239, Washington, Guangzhou, Germany
+NUMBER,STATE_OR_PROVINCE,CITY,COUNTRY
 

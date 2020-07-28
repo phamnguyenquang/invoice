@@ -1,3 +1,3 @@
-Nicholas Eriksson Corp
-PERSON,PERSON,PERSON
+Avery Nordström Inc
+PERSON,PERSON,O,ORGANIZATION
 

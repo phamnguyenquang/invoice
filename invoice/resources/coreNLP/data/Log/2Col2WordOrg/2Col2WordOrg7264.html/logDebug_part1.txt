@@ -1,3 +1,3 @@
-Eliana 29 30355, Paris, Amnat Charoen,
-PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+30710, Frankfurt am Main , Hessen, Canada
+NUMBER,CITY,O,O,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-Kylie 20 78152, Los Angeles, khanh Hoa,
-PERSON,NUMBER,NUMBER,CITY,CITY,O,PERSON
+93411, Bonn, Hainan, France email@example.net Date: 29, Oct, 2915
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,DATE,DATE,DATE,DATE
 

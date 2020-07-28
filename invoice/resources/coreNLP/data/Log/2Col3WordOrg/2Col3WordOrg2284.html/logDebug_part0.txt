@@ -1,3 +1,3 @@
-Stephanie May/Mae
-PERSON,PERSON,PERSON
+Sarah Elizabeth Samuelsson Ltd
+PERSON,PERSON,PERSON,PERSON
 

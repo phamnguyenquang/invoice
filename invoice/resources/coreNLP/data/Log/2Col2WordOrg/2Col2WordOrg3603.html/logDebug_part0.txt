@@ -1,3 +1,3 @@
-Isabel Lindström Inc
-PERSON,PERSON,O,ORGANIZATION
+Austin Björklund Corp Reese 26
+PERSON,PERSON,O,PERSON,PERSON,NUMBER
 

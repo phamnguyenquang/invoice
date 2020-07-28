@@ -1,3 +1,3 @@
-Julianna 89 56302, Venice, Hainan, China
+Claire 55 89762, Minsk, Indiana, Japan
 PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

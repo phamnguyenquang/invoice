@@ -1,3 +1,3 @@
-84268, Los Angeles, Hessen, Denmark
-NUMBER,CITY,CITY,LOCATION,COUNTRY
+Africa email@example.net Date: 20, Aug, 2958
+LOCATION,URL,O,O,DATE,DATE,DATE
 

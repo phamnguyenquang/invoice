@@ -1,3 +1,3 @@
-Bella Eliasson Genesis 98 37423, Frankfurt am Main , Tuscany, Saudi Arabia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 25, Sep, 2894
+URL,O,O,DATE,DATE,DATE
 

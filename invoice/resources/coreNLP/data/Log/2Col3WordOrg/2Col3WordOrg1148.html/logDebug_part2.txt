@@ -1,3 +1,3 @@
-81265, Osaka, Hawaii, South Africa
-NUMBER,LOCATION,STATE_OR_PROVINCE,COUNTRY,COUNTRY
+email@example.net Date: 8, August, 2156
+URL,O,O,DATE,DATE,DATE
 

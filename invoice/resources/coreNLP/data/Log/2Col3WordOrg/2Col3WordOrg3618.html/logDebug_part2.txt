@@ -1,3 +1,3 @@
-Heibei, Turkey email@example.net Date: 18 April 2020
-LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+Indonesia s email@example.net
+COUNTRY,O,URL,O
 

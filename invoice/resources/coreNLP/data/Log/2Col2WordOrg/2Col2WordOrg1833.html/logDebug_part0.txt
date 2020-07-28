@@ -1,3 +1,3 @@
-George Engström Inc Ivy 87
-PERSON,PERSON,O,O,O,NUMBER
+Adeline Bengtsson Ltd
+PERSON,PERSON,PERSON
 

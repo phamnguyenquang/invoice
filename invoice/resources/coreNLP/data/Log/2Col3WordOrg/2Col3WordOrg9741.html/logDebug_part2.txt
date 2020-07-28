@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+53410, Amsterdam, Seattles, Australia
+NUMBER,CITY,LOCATION,COUNTRY
 

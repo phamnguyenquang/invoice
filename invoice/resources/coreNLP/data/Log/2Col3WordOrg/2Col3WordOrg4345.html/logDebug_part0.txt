@@ -1,3 +1,3 @@
-Jacob William Axelsson Inc
-PERSON,PERSON,PERSON,PERSON
+Abigail Rose Bergström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

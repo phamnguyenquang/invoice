@@ -1,3 +1,3 @@
-Isabel 59 35656, Montreal, Chiang Mai,
-O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+Richard 6 80905, Philadelphia, Bayern,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

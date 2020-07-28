@@ -1,3 +1,3 @@
-Sarah Lundström Pte Ltd
-PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
+Adalyn Lundström Pte
+PERSON,PERSON,O,O
 

@@ -1,3 +1,3 @@
-Harper William Sandström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Jacob Catherine Berg Ltd
+PERSON,PERSON,PERSON,PERSON
 

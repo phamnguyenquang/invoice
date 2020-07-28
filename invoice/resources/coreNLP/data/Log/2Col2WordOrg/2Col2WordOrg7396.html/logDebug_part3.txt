@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Chase Lundberg Ximena 39 37035, Ho Chi Minh, Hawaii, Italy Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

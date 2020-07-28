@@ -1,3 +1,3 @@
-Angel Thomas Norberg Inc
-PERSON,PERSON,PERSON,PERSON
+Liam Michael Lindström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

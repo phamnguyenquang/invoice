@@ -1,3 +1,3 @@
-51786, Stuttgart, Henan, Ireland email@example.net Date: 18 April 2020
-NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
+73667, San Francisco, Bremen, Canada
+NUMBER,CITY,CITY,CITY,COUNTRY
 

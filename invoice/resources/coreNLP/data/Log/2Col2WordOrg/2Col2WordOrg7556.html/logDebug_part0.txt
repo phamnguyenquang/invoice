@@ -1,3 +1,3 @@
-Jocelyn Ekström Corp
-PERSON,PERSON,O,O
+Ryder Månsson Pte Ltd
+O,O,ORGANIZATION,ORGANIZATION,ORGANIZATION
 

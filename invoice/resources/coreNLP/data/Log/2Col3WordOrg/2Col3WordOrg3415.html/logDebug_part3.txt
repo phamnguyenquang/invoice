@@ -1,3 +1,3 @@
-Joseph Magnusson Leo 17 88416, Florence, Phu Yen, Russia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+Joshua Marie Nyström Ryan 53 48206, Chicago, Seattles, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
 

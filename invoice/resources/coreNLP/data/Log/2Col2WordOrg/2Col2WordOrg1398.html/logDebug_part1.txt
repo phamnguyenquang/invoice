@@ -1,3 +1,3 @@
-48296, Paris, Chiang Mai, Philippines
-NUMBER,PERSON,PERSON,PERSON,PERSON
+Luke 24 61728, Hong Kong, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
 

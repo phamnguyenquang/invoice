@@ -1,3 +1,3 @@
-Jackson 22 38419, Seoul, Bremen, VietNam
-PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY
+Ava 24 54483, Last Vegas, Guangzhou,
+O,NUMBER,NUMBER,O,O,CITY
 

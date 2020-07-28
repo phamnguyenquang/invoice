@@ -1,3 +1,3 @@
-Isabelle 30 24375, Last Vegas, Chiang Rai,
-PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
+23984, Stuttgart, Indiana, Denmark
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

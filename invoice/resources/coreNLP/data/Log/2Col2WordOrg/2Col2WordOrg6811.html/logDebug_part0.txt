@@ -1,3 +1,3 @@
-Andrew Eriksson Inc
-PERSON,PERSON,PERSON
+Micah Lundström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

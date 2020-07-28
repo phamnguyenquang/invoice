@@ -1,3 +1,3 @@
-Kaiden Elizabeth Sjöberg Inc
-PERSON,PERSON,PERSON,PERSON,PERSON
+Alex Robert Lundström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

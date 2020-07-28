@@ -1,3 +1,3 @@
-Carlos Mattsson Bryan 93 62424, Amsterdam, Guangzhou, United Kingdom Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 8, Mar, 2054
+URL,O,O,DATE,DATE,DATE
 

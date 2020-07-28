@@ -1,3 +1,3 @@
-Miles 33 98187, Vancouver, Guangzhou,
-O,NUMBER,NUMBER,PERSON,PERSON
+Sydney 38 80456, Berlin, Tuscany, Italy
+CITY,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

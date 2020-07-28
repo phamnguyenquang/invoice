@@ -1,3 +1,3 @@
-45104, Last Vegas, Bremen, VietNam
-NUMBER,O,O,O,COUNTRY
+Japan email@example.net Date: 26, Nov, 2074
+COUNTRY,O,O,O,DATE,DATE,DATE
 

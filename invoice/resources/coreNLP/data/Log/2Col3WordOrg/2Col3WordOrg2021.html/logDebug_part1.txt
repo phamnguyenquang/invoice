@@ -1,3 +1,3 @@
-Gabriella 45 59089, Ho Chi Minh, California,
-PERSON,NUMBER,NUMBER,O,O,O,STATE_OR_PROVINCE
+Brian 5 60055, Frankfurt am Main , Chai
+PERSON,NUMBER,NUMBER,CITY,O,PERSON,PERSON
 

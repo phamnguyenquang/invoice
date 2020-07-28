@@ -1,3 +1,3 @@
-87904, Moscow, Buriam, Japan email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
+60904, San Francisco, Texas, South Africa
+NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY
 

@@ -1,3 +1,3 @@
-Eric 95 27980, Florence, Phu Yen, laos
-PERSON,NUMBER,NUMBER,O,O,O,O
+Maxwell 31 30376, Taipei, Floria, Singapore
+ORGANIZATION,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

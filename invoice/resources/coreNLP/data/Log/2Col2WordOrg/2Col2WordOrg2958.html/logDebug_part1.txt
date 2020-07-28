@@ -1,3 +1,3 @@
-Ruby 37 72492, Seoul, khanh Hoa, South
-O,NUMBER,NUMBER,CITY,O,PERSON,PERSON
+Valerie 27 22257, Vancouver, Tuscany,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
 

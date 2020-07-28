@@ -1,3 +1,3 @@
-Mackenzie 67 40846, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+35891, Tokyo, Indiana, United Kingdom
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY
 

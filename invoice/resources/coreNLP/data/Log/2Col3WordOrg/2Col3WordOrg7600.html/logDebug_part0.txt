@@ -1,3 +1,3 @@
-Mckenzie Louise Blom Inc
-PERSON,PERSON,PERSON,PERSON
+Jaxson Amy Lindström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

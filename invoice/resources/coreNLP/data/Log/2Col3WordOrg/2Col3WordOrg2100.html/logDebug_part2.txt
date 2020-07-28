@@ -1,3 +1,3 @@
-Tuscany, Turkey email@example.net Date: 18 April 2020
-LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+82709, Minsk, Henan, Turkey email@example.net Date: 23, Jan, 2105
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

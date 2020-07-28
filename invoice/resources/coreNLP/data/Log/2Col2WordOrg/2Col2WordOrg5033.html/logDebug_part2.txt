@@ -1,3 +1,3 @@
-Jocelyn Lindqvist Maverick 40 31235, Frankfurt am Main , Phu Yen, laos Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,MISC,MISC,MISC,O,O,O,NUMBER
+email@example.net Date: 14, Nov, 2166
+URL,O,O,DATE,DATE,DATE
 

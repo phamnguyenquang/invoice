@@ -1,3 +1,3 @@
-s email@example.net Date: 18 April 2020
-O,O,O,O,DATE,DATE,DATE
+Ezra Åberg Jesus 90 63685, Florence, Hainan, Italy Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

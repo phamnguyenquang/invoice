@@ -1,3 +1,3 @@
-Amelia 77 47053, Amsterdam, Seattles,
-PERSON,NUMBER,NUMBER,CITY,LOCATION
+Mia 14 85400, Tokyo, Guangzhou, South
+O,NUMBER,NUMBER,CITY,CITY,LOCATION
 

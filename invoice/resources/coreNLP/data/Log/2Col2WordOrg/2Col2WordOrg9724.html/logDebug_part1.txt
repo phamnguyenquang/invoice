@@ -1,3 +1,3 @@
-26122, Lisbon, Seattles, Indonesia s
-NUMBER,CITY,LOCATION,COUNTRY,O
+Zoe 31 73925, Los Angeles, Seattles,
+O,NUMBER,NUMBER,CITY,CITY,LOCATION
 

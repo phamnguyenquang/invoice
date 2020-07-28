@@ -1,3 +1,3 @@
-Katherine 87 74459, Venice, Amnat Charoen,
-PERSON,NUMBER,NUMBER,O,PERSON,PERSON
+Delilah 68 20620, Lisbon, Kentucky,
+O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

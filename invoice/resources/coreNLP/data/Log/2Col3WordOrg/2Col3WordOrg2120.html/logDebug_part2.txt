@@ -1,3 +1,3 @@
-92423, Ho Chi Minh, Seattles, laos
-NUMBER,O,O,O,O,O
+27534, Moscow, Phu Yen, Italy email@example.net
+NUMBER,CITY,LOCATION,LOCATION,COUNTRY,URL,O
 

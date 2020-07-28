@@ -1,3 +1,3 @@
-Lillian May/Mae Lindholm Inc
-PERSON,PERSON,PERSON,PERSON,PERSON
+Natalia Jane Samuelsson Corp
+PERSON,PERSON,PERSON,PERSON
 

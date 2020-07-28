@@ -1,3 +1,3 @@
-Serenity Edward Lindgren Ltd
-O,PERSON,PERSON,PERSON
+Paul James Lindberg Corp
+PERSON,PERSON,PERSON,PERSON
 

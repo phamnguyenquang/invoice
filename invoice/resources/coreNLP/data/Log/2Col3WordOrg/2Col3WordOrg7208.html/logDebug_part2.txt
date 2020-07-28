@@ -1,3 +1,3 @@
-17845, Istanbul, Seattles, New Zealand
-NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
+35662, Istanbul, Guangzhou, India
+NUMBER,CITY,CITY,COUNTRY
 

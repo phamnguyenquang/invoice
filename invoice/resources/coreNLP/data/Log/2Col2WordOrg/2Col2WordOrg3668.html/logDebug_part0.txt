@@ -1,3 +1,3 @@
-Harper Pålsson Corp
-PERSON,O,O,O
+Amelia Viklund Ltd
+PERSON,PERSON,PERSON
 

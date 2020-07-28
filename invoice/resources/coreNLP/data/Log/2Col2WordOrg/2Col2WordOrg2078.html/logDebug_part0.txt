@@ -1,3 +1,3 @@
-Charlotte Gunnarsson Corp
-PERSON,PERSON,PERSON
+Jordyn Lundström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

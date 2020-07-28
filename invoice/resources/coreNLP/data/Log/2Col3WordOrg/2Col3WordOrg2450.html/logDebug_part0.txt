@@ -1,3 +1,3 @@
-Luca Marie Hellström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Emilia Christopher
+PERSON,PERSON
 

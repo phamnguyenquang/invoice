@@ -1,3 +1,3 @@
-38078, Washington, Hessen, Australia
-NUMBER,STATE_OR_PROVINCE,LOCATION,COUNTRY
+10817, Philadelphia, Indiana, Philippines
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

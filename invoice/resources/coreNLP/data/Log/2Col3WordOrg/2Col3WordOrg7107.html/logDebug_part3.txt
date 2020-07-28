@@ -1,3 +1,3 @@
-Isabel Gunnarsson Luke 20 41811, Nha Trang, Hawaii, Russia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+email@example.net Date: 1, Dec, 2132
+URL,O,O,DATE,DATE,DATE
 

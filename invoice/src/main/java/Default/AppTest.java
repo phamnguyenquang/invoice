@@ -11,8 +11,8 @@ import DataGenerator.DictionaryReader;
 import DataGenerator.TagFileDataGenerator;
 import DataGenerator.TrainingPdfGenerator;
 import Experiment.Annotator;
-import Experiment.CompanyAssessment;
 import Experiment.CountryAssessment;
+import Experiment.DataAssessment;
 import Experiment.DateAssessment;
 import Experiment.DateGenerator;
 import Experiment.LocationAssessment;
@@ -54,15 +54,15 @@ public class AppTest {
 //		pdfgen.ClearAux();
 //===================================================================================================
 //multicore pdf generator
-//		new Thread(new ParallelPdfGen("2ColAddrFirst.tex", "2ColAF3WordGCorp", 2, 0, 2500, 1)).start();
-//		new Thread(new ParallelPdfGen("2ColAddrFirst.tex", "2ColAF3WordGCorp", 2, 0, 2500, 2)).start();
-//		new Thread(new ParallelPdfGen("2ColAddrFirst.tex", "2ColAF3WordGCorp", 2, 0, 2500, 3)).start();
-//		new Thread(new ParallelPdfGen("2ColAddrFirst.tex", "2ColAF3WordGCorp", 2, 0, 2500, 4)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordOrg", 2, 0, 2500, 1)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordOrg", 2, 0, 2500, 2)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordOrg", 2, 0, 2500, 3)).start();
+//		new Thread(new ParallelPdfGen("2Col.tex", "2Col3WordOrg", 2, 0, 2500, 4)).start();
 
 // ===================================================================================================
 //
 //		// Misc, convert PDF to Image
-		// Extracting pdf
+//		 Extracting pdf
 //		File ff = new File("resources/coreNLP/data/original/");
 //		for (File fff : ff.listFiles()) {
 //			try {
@@ -75,15 +75,15 @@ public class AppTest {
 //				e.printStackTrace();
 //			}
 //		}
-//		new pdf2html("resources/pdf/2ColAF3WordGCorp/", "resources/html/2ColAF3WordGCorp/");
-//		new MassDataExtractor("resources/html/2ColAF3WordGCorp/", "resources/coreNLP/data/original/").extractPart();
+//		new pdf2html("resources/pdf/2Col3WordOrg/", "resources/html/2Col3WordOrg/");
+//		new MassDataExtractor("resources/html/2Col3WordOrg/", "resources/coreNLP/data/original/").extractPart();
 //===================================================================================================
 //New Annotate Version
 //USe this 
 //		String[] pathnames;
 //		File f = new File("resources/coreNLP/data/original");
 //		pathnames = f.list();
-//		String llogName = "resources/coreNLP/data/Log/2ColAF3WordGCorp/";
+//		String llogName = "resources/coreNLP/data/Log/2Col3WordOrg/";
 //		File ffLog = new File(llogName);
 //		if (!ffLog.isDirectory()) {
 //			ffLog.mkdir();
@@ -115,22 +115,25 @@ public class AppTest {
 //		new LogBackup("resources/coreNLP/data/processed/logDebug.txt", "resources/coreNLP/data/Debug/HRealCompany/logDebug2.txt");
 //		new Annotator("file3.txt", "neural").doWork();
 //		new LogBackup("resources/coreNLP/data/processed/logDebug.txt", "resources/coreNLP/data/Debug/HRealCompany/logDebug3.txt");
-//		CompanyAssessment CA = new CompanyAssessment("resources/coreNLP/data/Debug/2Col2WordOrg/logDebug.txt");
-//		CA.getDetails();		
-//		new CompanyAssessment("resources/coreNLP/data/Debug/2Col2WordLLC/logDebug2.txt");
-//		new DateAssessment();
+		DataAssessment CA = new DataAssessment("resources/coreNLP/data/Debug/2ColAF3WordPteLtd/logDebug.txt");
+		CA.AssessFileByRegex("^(NUMBER)[\\s](ORGANIZATION)[\\s](ORGANIZATION)[\\s]((ORGANIZATION)[\\s])+.*");	
+		CA.getDetails();
+//		new NameAssessment("resources/coreNLP/data/Debug/2Col3WordInc/logDebugLast.txt");
+//		new LocationAssessment("resources/coreNLP/data/Debug/2Col3WordInc/logDebug.txt");
+//		new LocationAssessment("resources/coreNLP/data/Debug/2ColAF3WordPteLtd/logDebugLast.txt");
+//		new DateAssessment("resources/coreNLP/data/Debug/2Col3WordOrg/logDebug.txt");
 //===================================================================================================
-//		new LogMerge("resources/coreNLP/data/Log/2ColAF3WordLLC/",10000, 1, true);
-//		new MassDataEvaluator("resources/coreNLP/data/Log/2ColAF3WordLLC/").doWork();
+//		new LogMerge("resources/coreNLP/data/Log/2Col3WordCorp/",10000, 1, true);
+//		new MassDataEvaluator("resources/coreNLP/data/Log/2Col3WordCorp/").doWork();
 //===================================================================================================
 //Annotating Mass, use for debugging purpose
-//		new LogMerge("resources/coreNLP/data/Log/2ColAF3WordGCorp/",10000, 1, false);
-		new Annotator("logDebug.txt", "neural").doWork();
-		new LogBackup("resources/coreNLP/data/processed/logDebug.txt",
-				"resources/coreNLP/data/Debug/2ColAF3WordGCorp/logDebug.txt");
-		new Annotator("logDebugLast.txt", "neural").doWork();
-		new LogBackup("resources/coreNLP/data/processed/logDebug.txt",
-				"resources/coreNLP/data/Debug/2ColAF3WordGCorp/logDebugLast.txt");
+//		new LogMerge("resources/coreNLP/data/Log/2Col3WordPteLtd/",10000, 1, false);
+//		new Annotator("logDebug.txt", "neural").doWork();
+//		new LogBackup("resources/coreNLP/data/processed/logDebug.txt",
+//				"resources/coreNLP/data/Debug/2Col3WordPteLtd/logDebug.txt");
+//		new Annotator("logDebugLast.txt", "neural").doWork();
+//		new LogBackup("resources/coreNLP/data/processed/logDebug.txt",
+//				"resources/coreNLP/data/Debug/2Col3WordPteLtd/logDebugLast.txt");
 	}
 
 }

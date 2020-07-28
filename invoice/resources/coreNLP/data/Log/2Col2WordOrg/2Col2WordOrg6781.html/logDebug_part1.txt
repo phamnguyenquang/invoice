@@ -1,3 +1,3 @@
-59826, Montreal, Bayern, Switzerland
-NUMBER,CITY,LOCATION,COUNTRY
+36926, Vienna, Hainan, Cambodia
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

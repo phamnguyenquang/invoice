@@ -1,3 +1,3 @@
-82053, Vienna, Floria, Indonesia s
-NUMBER,CITY,LOCATION,COUNTRY,O
+Zealand email@example.net
+O,URL,O
 

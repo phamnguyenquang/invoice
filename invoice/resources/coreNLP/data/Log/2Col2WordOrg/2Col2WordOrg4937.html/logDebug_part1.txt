@@ -1,3 +1,3 @@
-Kimberly 22 41410, Last Vegas, Buriam,
-PERSON,NUMBER,NUMBER,O,O,O
+Ariana 26 10819, Bonn, California, South
+O,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,LOCATION
 

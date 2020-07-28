@@ -1,3 +1,3 @@
-George Claesson Penelope 74 48284, Minsk, Guangzhou, Mexico Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+Logan Gunnarsson Kayla 16 28544, Berlin, Hawaii, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

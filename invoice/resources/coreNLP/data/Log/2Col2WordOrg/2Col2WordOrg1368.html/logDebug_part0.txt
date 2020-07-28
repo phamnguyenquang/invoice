@@ -1,3 +1,3 @@
-Tristan Eliasson Ltd
-O,PERSON,PERSON
+Jocelyn Sandström Inc
+PERSON,PERSON,O,ORGANIZATION
 

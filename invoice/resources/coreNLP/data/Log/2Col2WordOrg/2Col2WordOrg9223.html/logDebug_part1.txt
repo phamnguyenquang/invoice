@@ -1,3 +1,3 @@
-37194, Last Vegas, Amnat Charoen, Saudi Arabia
-NUMBER,O,O,O,LOCATION,COUNTRY,COUNTRY
+Nicholas 74 16917, Denver, Bayern,
+PERSON,NUMBER,NUMBER,PERSON,PERSON
 

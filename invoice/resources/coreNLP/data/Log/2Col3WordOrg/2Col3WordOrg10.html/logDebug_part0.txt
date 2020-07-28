@@ -1,3 +1,3 @@
-James David Bergström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Kimberly Edward Ek Inc
+PERSON,PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Jordyn Håkansson Bryson 56 96254, Frankfurt am Main , Henan, South Korea Invoice Number: 231001
-PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 23, Nov, 2688
+URL,O,O,DATE,DATE,DATE
 

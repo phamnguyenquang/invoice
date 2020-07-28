@@ -1,3 +1,3 @@
-Izabella Sandström Pte
-PERSON,PERSON,O,O
+Josiah Isaksson Inc
+PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-72649, Dublin, Bremen, France email@example.net Date: 18 April 2020
-NUMBER,CITY,CITY,COUNTRY,URL,O,DATE,DATE,DATE,DATE
+Natalie 47 23547, Berlin, Kentucky,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

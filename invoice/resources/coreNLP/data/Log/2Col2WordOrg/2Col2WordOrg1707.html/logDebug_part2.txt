@@ -1,3 +1,3 @@
-Africa email@example.net Date: 18 April 2020
-LOCATION,URL,O,DATE,DATE,DATE,DATE
+Amnat Charoen, laos email@example.net Date: 17, June, 2602
+PERSON,PERSON,O,URL,O,O,DATE,DATE,DATE
 

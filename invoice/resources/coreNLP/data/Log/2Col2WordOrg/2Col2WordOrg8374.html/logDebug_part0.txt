@@ -1,3 +1,3 @@
-Brooklynn Sandberg Corp
-ORGANIZATION,ORGANIZATION,ORGANIZATION
+Wesley Åkesson Inc
+PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Jordan Louise Hellström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Sara John Isaksson Ltd
+PERSON,PERSON,PERSON,PERSON
 

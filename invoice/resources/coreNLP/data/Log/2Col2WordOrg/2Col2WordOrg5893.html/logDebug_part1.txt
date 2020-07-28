@@ -1,3 +1,3 @@
-62062, Milan, Amnat Charoen, New Zealand
-NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
+12405, Florence, Indiana, Ireland email@example.net Date: 1, May, 2100
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

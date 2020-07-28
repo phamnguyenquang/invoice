@@ -1,3 +1,3 @@
-Adam William Söderberg Inc
-PERSON,PERSON,PERSON,PERSON,PERSON
+Adalynn Mary Ekström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

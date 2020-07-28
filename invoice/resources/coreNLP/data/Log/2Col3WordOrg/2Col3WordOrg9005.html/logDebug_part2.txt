@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+17614, Osaka, khanh Hoa, United State
+NUMBER,LOCATION,O,LOCATION,LOCATION,LOCATION
 

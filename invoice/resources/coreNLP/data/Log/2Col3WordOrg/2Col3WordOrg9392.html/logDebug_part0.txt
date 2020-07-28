@@ -1,3 +1,3 @@
-James Peter Hellström Corp
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Preston David Öberg Corp
+PERSON,PERSON,PERSON,PERSON
 

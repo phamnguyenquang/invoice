@@ -1,3 +1,3 @@
-Avery 70 19542, Seoul, Saarland, Indonesia
-PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+10278, Melbourne, Huabei, Singapore
+NUMBER,PERSON,PERSON,PERSON
 

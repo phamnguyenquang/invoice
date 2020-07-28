@@ -1,3 +1,3 @@
-Ariel Mohamed Hailey 4 25938, Lisbon, khanh Hoa, New Zealand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+Date: 2, January, 2654
+O,DATE,DATE,DATE
 

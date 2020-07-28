@@ -1,3 +1,3 @@
-Stella Nyström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Alexis Holmgren Inc
+PERSON,PERSON,PERSON
 

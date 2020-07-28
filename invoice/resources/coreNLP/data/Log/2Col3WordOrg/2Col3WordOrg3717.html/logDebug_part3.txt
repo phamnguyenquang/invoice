@@ -1,3 +1,3 @@
-Jordyn Sjögren Luke 3 69207, Taipei, Hainan, Ireland Invoice Number: 231001
-PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+email@example.net Date: 24, January, 2362
+URL,O,O,DATE,DATE,DATE
 

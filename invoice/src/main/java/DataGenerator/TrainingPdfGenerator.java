@@ -54,7 +54,7 @@ public class TrainingPdfGenerator {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
 		SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName() + " "
-				+ OrgKeyword[j];
+				+ "Inc";
 //		SenderName = name.getRandomCompanyName();
 		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))+" "+Integer.toString(i)+", ";
 		SenderLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", "

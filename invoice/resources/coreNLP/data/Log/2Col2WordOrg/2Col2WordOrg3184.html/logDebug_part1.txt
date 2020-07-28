@@ -1,3 +1,3 @@
-70145, London , Phu Yen, Japan email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
+Kaleb 98 62763, Shanghai, Guangzhou,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

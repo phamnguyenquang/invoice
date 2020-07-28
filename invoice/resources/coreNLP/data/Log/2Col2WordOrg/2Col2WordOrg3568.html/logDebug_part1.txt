@@ -1,3 +1,3 @@
-Cooper 28 73691, SaiGon, California, laos
-PERSON,NUMBER,NUMBER,O,STATE_OR_PROVINCE,O
+90047, Last Vegas, Hamburg, Australia
+NUMBER,O,O,CITY,COUNTRY
 

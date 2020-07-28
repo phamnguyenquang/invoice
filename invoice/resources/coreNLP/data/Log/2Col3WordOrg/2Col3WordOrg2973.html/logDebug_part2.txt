@@ -1,3 +1,3 @@
-Summer 54 60276, Barcelona, Amnat
-DATE,NUMBER,NUMBER,PERSON,PERSON
+email@example.net Date: 5, Aug, 2244
+URL,O,O,DATE,DATE,DATE
 

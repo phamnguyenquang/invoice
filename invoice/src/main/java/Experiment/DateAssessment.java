@@ -18,6 +18,7 @@ public class DateAssessment {
 	private BufferedReader reader;
 	private double result;
 	private Pattern DatePattern;
+	private int correct = 0;
 
 	public DateAssessment() {
 		try {
@@ -40,7 +41,7 @@ public class DateAssessment {
 
 	private void doWork() {
 		try {
-			DatePattern = Pattern.compile(".*(DATE)(DATE)(DATE).*");
+			DatePattern = Pattern.compile("^(DATE)[\\s](DATE)[\\s](DATE)[\\s](DATE)[\\s]*");
 			String line = reader.readLine();
 			int YearAnomaly = 0;
 			int DateAnomaly = 0;
@@ -52,7 +53,22 @@ public class DateAssessment {
 					fileContent.add(processedSentence);
 				}
 				line = reader.readLine();
+
 			}
+			for (int i = 0; i < fileContent.size(); ++i) {
+				if (fileContent.get(i) != " ") {
+					sentence = split2(fileContent.get(i), 5);
+					if (DatePattern.matcher(fileContent.get(i)).find()) {
+						correct++;
+					}
+				}
+			}
+			double total = fileContent.size() / 2;
+			System.out.println("size " + total);
+			System.out.println("correct data " + correct);
+			double accuracy = correct / total;
+			System.out.println("date Percentage: " + accuracy);
+			result = accuracy;
 			for (int i = 0; i < fileContent.size(); ++i) {
 				int size = countWordsUsingStringTokenizer(fileContent.get(i));
 				sentence = split2(fileContent.get(i), size);
@@ -67,12 +83,12 @@ public class DateAssessment {
 					MonthAnomaly++;
 				}
 			}
-			double total = fileContent.size() / 2;
+			total = fileContent.size() / 2;
 			double correct = total - YearAnomaly;
 			System.out.println("size " + total);
 			System.out.println("correct data " + correct);
 			System.out.println("wrong data " + YearAnomaly);
-			double accuracy = correct / total;
+			accuracy = correct / total;
 			System.out.println("year Percentage: " + accuracy);
 			System.out.println("-------------------------------");
 			correct = total - DateAnomaly;

@@ -1,3 +1,3 @@
-Addison 73 18170, Florence, Guangzhou,
-PERSON,NUMBER,NUMBER,CITY,CITY
+Bengtsson Inc Alex 73
+PERSON,PERSON,PERSON,NUMBER
 

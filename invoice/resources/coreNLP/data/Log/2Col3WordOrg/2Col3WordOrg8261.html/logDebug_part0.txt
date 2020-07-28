@@ -1,3 +1,3 @@
-Izabella Anne Mattsson Ltd
-PERSON,PERSON,PERSON,PERSON
+Timothy David Nyström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

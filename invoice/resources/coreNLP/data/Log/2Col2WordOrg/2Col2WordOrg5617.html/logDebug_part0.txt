@@ -1,3 +1,3 @@
-Avery Åkesson Inc
-PERSON,PERSON,PERSON
+Austin Bergström Corp
+PERSON,PERSON,O,O
 

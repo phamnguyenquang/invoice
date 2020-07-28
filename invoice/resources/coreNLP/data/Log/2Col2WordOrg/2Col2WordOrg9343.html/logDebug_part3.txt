@@ -1,3 +1,3 @@
-Marcus Bergman Andrew 2 18450, Berlin, Chiang Mai, Australia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,MONEY,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 10, October, 2458
+O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-Isabel Lindberg Mckenzie 50 33297, Los Angeles, Chai Nat, South Africa Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 14, Jul, 2785
+URL,O,O,DATE,DATE,DATE
 

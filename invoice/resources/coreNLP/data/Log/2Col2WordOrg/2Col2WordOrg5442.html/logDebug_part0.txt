@@ -1,3 +1,3 @@
-Robert Bergström Corp
-PERSON,PERSON,O,O
+Colin Bergqvist Corp
+PERSON,PERSON,PERSON
 

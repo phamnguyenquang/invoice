@@ -1,3 +1,3 @@
-Arianna 96 49292, Milan, khanh Hoa, Russia
-PERSON,NUMBER,NUMBER,O,O,LOCATION,COUNTRY
+Eleanor 89 14318, Last Vegas, Saarland,
+PERSON,NUMBER,NUMBER,O,O,O
 

@@ -1,3 +1,3 @@
-52305, Chicago, Ang Thong, Japan
-NUMBER,CITY,CITY,CITY,COUNTRY
+17102, Los Angeles, Guangdong, Brazil
+NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY
 

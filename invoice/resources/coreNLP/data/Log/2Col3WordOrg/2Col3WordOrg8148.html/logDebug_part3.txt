@@ -1,3 +1,3 @@
-Camden Magnusson Jaxon 56 42493, Abu Dhabi, Bangkok, Switzerland Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+Piper Amy Lindholm Vincent 68 43162, Last Vegas, Texas, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

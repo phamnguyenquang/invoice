@@ -1,3 +1,3 @@
-Lila Lindholm Corp
-PERSON,PERSON,PERSON
+Brody Ekström Inc
+PERSON,PERSON,O,ORGANIZATION
 

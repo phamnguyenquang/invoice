@@ -1,3 +1,3 @@
-Joshua Victoria Bergman Corp
-PERSON,PERSON,PERSON,PERSON
+Mark Victoria Bergström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-King 84 94391, Frankfurt am Main , Amnat Charoen, ThaiLand
-TITLE,NUMBER,NUMBER,CITY,O,O,PERSON,PERSON,PERSON
+Inc Clara 18
+O,O,NUMBER
 

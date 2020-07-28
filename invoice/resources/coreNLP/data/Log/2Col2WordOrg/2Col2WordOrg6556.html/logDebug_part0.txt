@@ -1,3 +1,3 @@
-Stephanie Lindberg Inc
-PERSON,PERSON,PERSON
+Summer Söderberg Pte
+DATE,O,O,O
 

@@ -1,3 +1,3 @@
-Kaitlyn Åberg Ltd
-PERSON,PERSON,PERSON
+Sofia Åkesson Pte Ltd
+CITY,O,ORGANIZATION,ORGANIZATION
 

@@ -1,3 +1,3 @@
-Declan Hellström Inc
-PERSON,PERSON,O,ORGANIZATION
+Mariah Holmberg Inc
+PERSON,PERSON,PERSON
 

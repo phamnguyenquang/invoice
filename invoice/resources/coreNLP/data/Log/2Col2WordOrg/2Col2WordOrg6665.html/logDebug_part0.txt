@@ -1,3 +1,3 @@
-Brandon Löfgren Inc
-PERSON,PERSON,PERSON,PERSON
+Gael Bergström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

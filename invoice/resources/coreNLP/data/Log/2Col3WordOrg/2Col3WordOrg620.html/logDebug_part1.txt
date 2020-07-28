@@ -1,3 +1,3 @@
-Eden 85 97214, Melbourne, khanh Hoa,
-O,NUMBER,NUMBER,CITY,O,PERSON
+Colin 31 60070, Last Vegas, California,
+O,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE
 

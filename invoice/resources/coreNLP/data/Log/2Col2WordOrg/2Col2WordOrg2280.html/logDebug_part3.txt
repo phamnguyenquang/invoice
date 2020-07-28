@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Bryan Nordström Natalia 81 37194, Lisbon, Guangzhou, Australia Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
 

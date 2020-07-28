@@ -1,3 +1,3 @@
-Scarlett Peter Karlsson Inc
-PERSON,PERSON,PERSON,PERSON
+Khloe Louise Bergström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

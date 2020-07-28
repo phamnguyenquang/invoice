@@ -1,3 +1,3 @@
-95897, Los Angeles, Saarland, United State
-NUMBER,CITY,CITY,LOCATION,LOCATION,LOCATION
+63539, Paris, Saarland, Singapore
+NUMBER,CITY,LOCATION,COUNTRY
 

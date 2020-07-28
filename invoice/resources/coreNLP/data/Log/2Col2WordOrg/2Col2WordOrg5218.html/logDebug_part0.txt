@@ -1,3 +1,3 @@
-Alana Jönsson Corp
-PERSON,PERSON,PERSON,PERSON
+Alejandro Nordström Inc
+PERSON,PERSON,O,ORGANIZATION
 

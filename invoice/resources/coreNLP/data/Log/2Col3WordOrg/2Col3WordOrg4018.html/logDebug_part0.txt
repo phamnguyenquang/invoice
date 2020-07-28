@@ -1,3 +1,3 @@
-Max Rose Lundström Corp
-PERSON,PERSON,PERSON,O,O
+Camila Robert Isaksson Corp
+PERSON,PERSON,PERSON,PERSON
 

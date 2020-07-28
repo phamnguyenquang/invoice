@@ -1,3 +1,3 @@
-Colton 17 88103, Venice, Heibei, New
-PERSON,NUMBER,NUMBER,CITY,LOCATION,LOCATION
+95241, Berlin, California, Italy email@example.net Date: 9, Sep, 2856
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

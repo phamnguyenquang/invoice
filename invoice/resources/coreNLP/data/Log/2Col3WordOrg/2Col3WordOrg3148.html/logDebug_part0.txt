@@ -1,3 +1,3 @@
-Jesus Anne Nordström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Addison Grace Söderberg Ltd
+PERSON,PERSON,PERSON,PERSON,PERSON
 

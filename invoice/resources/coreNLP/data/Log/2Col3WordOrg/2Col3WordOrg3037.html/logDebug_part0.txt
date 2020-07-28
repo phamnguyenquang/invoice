@@ -1,3 +1,3 @@
-Abel Robert Johansson Inc
-PERSON,PERSON,PERSON,PERSON
+Julia Alexander Hellström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

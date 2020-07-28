@@ -1,3 +1,3 @@
-Jordan Söderberg Marcus 40 49817, Ho Chi Minh, Seattles, Argentina Invoice Number: 231001
-PERSON,O,O,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,NUMBER
+Summer Björklund Clara 10 84237, Hanoi, California, VietNam Invoice Number: 231001
+DATE,O,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

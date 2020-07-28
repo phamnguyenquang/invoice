@@ -1,3 +1,3 @@
-Cole Louise Hansen Inc
-PERSON,PERSON,PERSON,PERSON
+Jose Alexander Sandström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

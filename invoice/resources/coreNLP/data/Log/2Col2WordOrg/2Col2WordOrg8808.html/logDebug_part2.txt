@@ -1,3 +1,3 @@
-Indonesia s email@example.net Date: 18 April 2020
-COUNTRY,O,URL,O,O,DATE,DATE,DATE
+51779, Taipei, Tuscany, United Kingdom
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
 

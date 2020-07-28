@@ -1,3 +1,3 @@
-New Zealand email@example.net Date: 18 April 2020
-COUNTRY,COUNTRY,URL,O,O,DATE,DATE,DATE
+27214, Melbourne, Amnat Charoen, South Africa
+NUMBER,CITY,CITY,CITY,COUNTRY,COUNTRY
 

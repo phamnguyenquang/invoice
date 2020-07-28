@@ -1,3 +1,3 @@
-93526, Seoul, Kentucky, Turkey email@example.net Date: 18 April 2020
-NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
+Ezra 76 27525, Moscow, Amnat Charoen,
+PERSON,NUMBER,NUMBER,CITY,PERSON,PERSON
 

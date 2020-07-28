@@ -1,3 +1,3 @@
-Tristan 98 68828, Milan, Guangdong,
-O,NUMBER,NUMBER,PERSON,PERSON
+Cambodia email@example.net
+COUNTRY,URL,O
 

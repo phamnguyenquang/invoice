@@ -1,3 +1,3 @@
-Mårtensson Inc Cora 94
-O,O,PERSON,PERSON,NUMBER
+Jackson 41 85665, Barcelona, California,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

@@ -1,3 +1,3 @@
-Maria Eliasson Lilly 98 62268, Madrid, Bangkok, South Africa Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 19, June, 2988
+URL,O,DATE,DATE,DATE,DATE
 

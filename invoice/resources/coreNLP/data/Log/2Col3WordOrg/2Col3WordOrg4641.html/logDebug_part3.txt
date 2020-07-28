@@ -1,3 +1,3 @@
-Aubree Gunnarsson Emma 93 61169, Seoul, Amnat Charoen, VietNam Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
+email@example.net Date: 1, Jan, 2223
+URL,O,O,DATE,DATE,DATE
 

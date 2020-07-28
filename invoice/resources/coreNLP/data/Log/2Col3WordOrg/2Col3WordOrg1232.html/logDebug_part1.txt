@@ -1,3 +1,3 @@
-Vivian 14 67726, Melbourne, khanh Hoa,
-PERSON,NUMBER,NUMBER,CITY,O,PERSON
+Jennifer 58 11690, Moscow, Huabei,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

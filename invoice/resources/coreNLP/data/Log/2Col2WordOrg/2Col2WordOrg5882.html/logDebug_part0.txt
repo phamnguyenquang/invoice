@@ -1,3 +1,3 @@
-Luna Lindqvist Inc
-PERSON,PERSON,PERSON
+Jade Pålsson Corp
+PERSON,PERSON,PERSON,PERSON
 

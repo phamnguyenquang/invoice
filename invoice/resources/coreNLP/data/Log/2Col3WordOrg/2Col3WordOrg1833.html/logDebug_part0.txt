@@ -1,3 +1,3 @@
-Catherine Kate Bergström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Emmett Grace Fransson Ltd
+PERSON,PERSON,PERSON,PERSON
 

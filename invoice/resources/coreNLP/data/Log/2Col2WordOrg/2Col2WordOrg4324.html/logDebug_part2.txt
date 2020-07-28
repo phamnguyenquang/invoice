@@ -1,3 +1,3 @@
-Kentucky, South Africa email@example.net Date: 18 April 2020
-STATE_OR_PROVINCE,COUNTRY,COUNTRY,URL,O,DATE,DATE,DATE,DATE
+email@example.net Date: 23, January, 2342
+URL,O,O,DATE,DATE,DATE
 

@@ -1,3 +1,3 @@
-Jayce Thomas Bergman Pte Ltd
-PERSON,PERSON,PERSON,PERSON,PERSON
+Adalyn Catherine Wikström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

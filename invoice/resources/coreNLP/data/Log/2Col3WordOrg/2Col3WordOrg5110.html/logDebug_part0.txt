@@ -1,3 +1,3 @@
-Jonathan Lee Hedlund Ltd
-PERSON,PERSON,PERSON,PERSON
+Sydney Louise Nyström Ltd
+CITY,PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-Kingston 22 96587, Budapest, Chiang Rai,
-ORGANIZATION,NUMBER,NUMBER,PERSON,PERSON,PERSON
+Lindström Inc Oscar 41
+PERSON,O,O,O,NUMBER
 

@@ -1,3 +1,3 @@
-39036, Venice, Chai Nat, Japan email@example.net Date: 18 April 2020
-NUMBER,CITY,CITY,CITY,COUNTRY,O,O,O,DATE,DATE,DATE
+Nathan 63 20734, Berlin, Guangdong,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

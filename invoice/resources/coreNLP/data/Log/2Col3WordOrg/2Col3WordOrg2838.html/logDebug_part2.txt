@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+51270, Ho Chi Minh, Kentucky, India
+NUMBER,O,O,O,STATE_OR_PROVINCE,COUNTRY
 

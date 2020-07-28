@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+58881, Nha Trang, California, South Korea
+NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY,COUNTRY
 

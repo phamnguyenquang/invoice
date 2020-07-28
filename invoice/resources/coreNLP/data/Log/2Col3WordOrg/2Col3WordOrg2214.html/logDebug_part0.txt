@@ -1,3 +1,3 @@
-Weston Thomas Nyström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Avery Amy Hellström Corp
+PERSON,PERSON,PERSON,O,O
 

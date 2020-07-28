@@ -1,3 +1,3 @@
-Lily 5 40935, Shanghai, Amnat
-PERSON,NUMBER,NUMBER,PERSON,PERSON
+49240, Last Vegas, Seattles, Turkey
+NUMBER,O,O,O,COUNTRY
 

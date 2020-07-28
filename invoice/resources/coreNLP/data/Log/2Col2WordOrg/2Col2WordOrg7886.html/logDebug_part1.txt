@@ -1,3 +1,3 @@
-Kingston 74 34267, San Francisco, Bremen,
-ORGANIZATION,NUMBER,NUMBER,CITY,CITY,CITY
+81842, Last Vegas, Chiang Mai, Philippines
+NUMBER,O,PERSON,PERSON,PERSON,PERSON
 

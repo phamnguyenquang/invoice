@@ -1,3 +1,3 @@
-Stephanie Lindström Corp
-PERSON,PERSON,O,O
+Mary Samuelsson Ltd
+PERSON,PERSON,PERSON
 

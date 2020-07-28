@@ -1,3 +1,3 @@
-Mya Hansen Thomas 61 79538, Last Vegas, Binh Thuan, Denmark Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,O,COUNTRY,O,O,NUMBER
+George Sandberg Ezekiel 67 78058, Bonn, Floria, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

@@ -1,3 +1,3 @@
-Juan Persson Pte Ltd
-PERSON,PERSON,PERSON,PERSON
+Bryce Lindqvist Ltd
+PERSON,PERSON,PERSON
 

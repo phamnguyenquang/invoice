@@ -1,3 +1,3 @@
-93563, Melbourne, Floria, South Africa
-NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
+Natalia 35 69315, Minsk, Bremen,
+PERSON,NUMBER,NUMBER,CITY,CITY
 

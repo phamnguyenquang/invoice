@@ -1,3 +1,3 @@
-84433, Hanoi, California, Singapore
-NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+72867, Florence, Hessen, South Korea
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
 

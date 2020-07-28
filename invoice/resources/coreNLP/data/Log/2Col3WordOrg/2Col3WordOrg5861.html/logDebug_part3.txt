@@ -1,3 +1,3 @@
-Tristan Falk Margaret 78 17323, Shanghai, Heibei, laos Invoice Number: 231001
-O,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,O,O,O,NUMBER
+Date: 29, January, 2503
+O,DATE,DATE,DATE
 

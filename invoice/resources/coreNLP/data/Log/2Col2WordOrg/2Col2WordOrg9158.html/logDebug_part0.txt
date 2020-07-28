@@ -1,3 +1,3 @@
-Brooke Wikström Corp
-PERSON,PERSON,O,O
+Jace Hellström Pte Ltd
+PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
 

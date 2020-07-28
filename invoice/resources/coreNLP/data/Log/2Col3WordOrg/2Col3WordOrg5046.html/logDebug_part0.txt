@@ -1,3 +1,3 @@
-Luis Elizabeth Hellström Inc
+Thomas John Nordström Inc
 PERSON,PERSON,PERSON,O,ORGANIZATION
 

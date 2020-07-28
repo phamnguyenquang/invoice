@@ -1,3 +1,3 @@
-62264, Berlin, khanh Hoa, ThaiLand
-NUMBER,CITY,O,PERSON,COUNTRY
+30108, Budapest, Huabei, Brazil email@example.net
+NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,URL,O
 

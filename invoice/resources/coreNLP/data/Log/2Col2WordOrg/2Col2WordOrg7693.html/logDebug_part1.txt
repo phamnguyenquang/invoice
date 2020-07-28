@@ -1,3 +1,3 @@
-83489, Venice, Hessen, Denmark email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+John 76 76067, Minsk, Floria, Cambodia
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

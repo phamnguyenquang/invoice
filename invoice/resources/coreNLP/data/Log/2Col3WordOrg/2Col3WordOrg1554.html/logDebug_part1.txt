@@ -1,3 +1,3 @@
-Paisley 68 37055, Berlin, Amnat Charoen,
+Easton 72 59737, Vancouver, Chiang Mai,
 ORGANIZATION,NUMBER,NUMBER,PERSON,PERSON,PERSON
 

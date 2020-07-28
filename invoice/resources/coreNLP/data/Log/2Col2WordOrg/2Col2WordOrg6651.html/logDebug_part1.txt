@@ -1,3 +1,3 @@
-Harrison 99 42716, Amsterdam, Bremen,
-PERSON,NUMBER,NUMBER,CITY,CITY
+13138, Florence, Indiana, Denmark
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

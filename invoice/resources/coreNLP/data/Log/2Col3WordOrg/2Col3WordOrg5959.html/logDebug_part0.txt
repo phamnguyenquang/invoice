@@ -1,3 +1,3 @@
-Vincent Rose Wikström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Jayce Ann Gustafsson Ltd
+PERSON,PERSON,PERSON,PERSON
 

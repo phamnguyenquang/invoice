@@ -1,3 +1,3 @@
-Aiden 69 50667, Nha Trang, Buriam, laos
-PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,O
+69261, SaiGon, Hawaii, Australia email@example.net
+NUMBER,O,STATE_OR_PROVINCE,COUNTRY,URL,O
 

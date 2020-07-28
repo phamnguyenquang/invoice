@@ -1,3 +1,3 @@
-Chase Sandström Pte Ltd
-PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
+Grayson Hermansson Pte
+PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Jace Lindholm Riley 91 26584, Hanoi, Henan, South Korea Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 18, Jul, 2398
+URL,O,DATE,DATE,DATE,DATE
 

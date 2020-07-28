@@ -1,3 +1,3 @@
-Elias Blomqvist Ltd
-PERSON,PERSON,PERSON
+Carlos Ekström Corp
+PERSON,PERSON,O,O
 

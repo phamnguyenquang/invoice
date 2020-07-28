@@ -1,3 +1,3 @@
-Sophie Nyström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Stephanie Hassan Inc
+PERSON,PERSON,PERSON
 

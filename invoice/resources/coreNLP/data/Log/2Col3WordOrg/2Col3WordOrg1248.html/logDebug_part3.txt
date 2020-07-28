@@ -1,3 +1,3 @@
-Connor Bengtsson Aliyah 84 50451, Last Vegas, California, India Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+email@example.net Date: 25, Oct, 2475
+URL,O,O,DATE,DATE,DATE
 

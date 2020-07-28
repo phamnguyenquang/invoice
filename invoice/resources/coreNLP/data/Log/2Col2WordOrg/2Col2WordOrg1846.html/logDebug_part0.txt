@@ -1,3 +1,3 @@
-Cora Björklund Corp Evan 71
-PERSON,PERSON,O,O,O,NUMBER
+Brooklynn Eriksson Inc
+ORGANIZATION,ORGANIZATION,ORGANIZATION
 

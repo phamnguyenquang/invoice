@@ -1,3 +1,3 @@
-Jack Viklund Violet 16 50977, Florence, Binh Thuan, Australia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,O,COUNTRY,O,O,NUMBER
+Alexandra Lundberg Amelia 90 18426, Sydney, Saarland, Brazil Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

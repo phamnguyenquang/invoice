@@ -1,3 +1,3 @@
-Grace Håkansson Ltd
-PERSON,PERSON,PERSON,PERSON
+Abigail Wikström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

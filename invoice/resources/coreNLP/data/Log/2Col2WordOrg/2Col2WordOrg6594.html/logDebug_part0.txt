@@ -1,3 +1,3 @@
-Ariel Bergström Ltd Ivy 47
-PERSON,PERSON,O,ORGANIZATION,O,NUMBER
+Liam Svensson Inc
+PERSON,PERSON,PERSON
 

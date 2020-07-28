@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+38600, Ho Chi Minh, Chiang Mai, Saudi Arabia email@example.net
+NUMBER,O,LOCATION,LOCATION,CITY,CITY,COUNTRY,COUNTRY,URL,O
 

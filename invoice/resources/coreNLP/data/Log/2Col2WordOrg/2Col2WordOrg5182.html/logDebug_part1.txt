@@ -1,3 +1,3 @@
-Stephanie 39 82078, Hanoi, Texas, Switzerland
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+49887, Vancouver, Bayern, Singapore
+NUMBER,PERSON,PERSON,PERSON
 

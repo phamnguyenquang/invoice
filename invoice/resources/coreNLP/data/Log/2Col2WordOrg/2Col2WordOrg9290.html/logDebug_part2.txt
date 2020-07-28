@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Tuscany, Australia email@example.net Date: 1, Dec, 2960
+LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
 

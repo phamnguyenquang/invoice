@@ -1,3 +1,3 @@
-Everly 28 15423, Denver, Bremen, Turkey
-O,NUMBER,NUMBER,CITY,CITY,COUNTRY
+Destiny 97 97200, San Francisco, Hawaii,
+O,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE
 

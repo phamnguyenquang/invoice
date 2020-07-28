@@ -1,3 +1,3 @@
-Leilani 84 96009, San Francisco, Saarland,
-PERSON,NUMBER,NUMBER,CITY,CITY,LOCATION
+80065, Florence, Heibei, Japan email@example.net
+NUMBER,CITY,LOCATION,COUNTRY,O,O
 

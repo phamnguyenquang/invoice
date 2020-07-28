@@ -1,3 +1,3 @@
-Alexander Pålsson Inc
-PERSON,PERSON,PERSON,PERSON
+Katherine Fredriksson Corp
+PERSON,PERSON,PERSON
 

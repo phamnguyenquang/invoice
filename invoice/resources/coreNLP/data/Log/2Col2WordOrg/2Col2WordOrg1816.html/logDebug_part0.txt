@@ -1,3 +1,3 @@
-Levi Mårtensson Pte Ltd
-PERSON,PERSON,PERSON,PERSON,PERSON
+Juliana Lundström Inc
+PERSON,PERSON,O,ORGANIZATION
 

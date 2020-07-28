@@ -1,3 +1,3 @@
-Sarah Alexander Nyström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Lily Rose Abrahamsson
+PERSON,PERSON,PERSON
 

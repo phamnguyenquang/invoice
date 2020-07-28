@@ -1,3 +1,3 @@
-Preston 41 52996, Last Vegas, Ang Thong,
-PERSON,NUMBER,NUMBER,O,O,O,O
+Carson 1 10417, Berlin, Amnat Charoen,
+PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Levi 27 65599, Budapest, Bangkok,
+Sophia 78 72897, Minsk, Buriam,
 PERSON,NUMBER,NUMBER,PERSON,PERSON
 

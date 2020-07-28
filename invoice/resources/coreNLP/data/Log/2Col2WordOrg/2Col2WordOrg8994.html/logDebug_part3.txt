@@ -1,3 +1,3 @@
-Piper Bergqvist Willow 88 56722, Berlin, Bremen, ThaiLand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+Rachel Wikström Leo 79 11068, Frankfurt am Main , Texas, Italy Invoice Number: 231001
+PERSON,PERSON,O,O,NUMBER,NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

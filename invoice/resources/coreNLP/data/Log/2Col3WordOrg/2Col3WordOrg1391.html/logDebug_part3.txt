@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Santiago Victoria Öberg Eric 77 96458, Hanoi, Chai Nat, Switzerland Invoice Number: 231001
+CITY,CITY,O,PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON,COUNTRY,O,O,NUMBER
 

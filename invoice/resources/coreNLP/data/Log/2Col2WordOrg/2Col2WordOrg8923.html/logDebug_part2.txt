@@ -1,3 +1,3 @@
-South Korea email@example.net Date: 18 April 2020
-COUNTRY,COUNTRY,URL,O,DATE,DATE,DATE,DATE
+Edward Åberg Samuel 8 30296, Lisbon, Indiana, Turkey Invoice Number: 231001
+PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

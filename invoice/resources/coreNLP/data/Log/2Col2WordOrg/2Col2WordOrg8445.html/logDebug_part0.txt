@@ -1,3 +1,3 @@
-Adalynn Bergqvist Ltd
-PERSON,PERSON,PERSON
+Joshua Lindström Corp
+PERSON,PERSON,O,O
 

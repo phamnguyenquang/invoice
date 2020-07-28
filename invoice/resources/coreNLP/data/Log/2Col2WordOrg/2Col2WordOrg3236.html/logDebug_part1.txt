@@ -1,3 +1,3 @@
-57066, Last Vegas, Buriam, Australia
-NUMBER,O,O,O,COUNTRY
+13757, Hong Kong, Chai Nat, Denmark
+NUMBER,CITY,CITY,CITY,CITY,COUNTRY
 

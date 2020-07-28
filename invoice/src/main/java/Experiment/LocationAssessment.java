@@ -16,6 +16,7 @@ public class LocationAssessment {
 	private List<String> fileContent = new ArrayList<String>();
 	private BufferedReader reader;
 	private double accuracy;
+	private Pattern LocPattern;
 
 	public LocationAssessment() {
 		try {
@@ -38,6 +39,7 @@ public class LocationAssessment {
 
 	public void doWork() {
 		try {
+			LocPattern = Pattern.compile("^.*((CITY)[\\s])+((STATE_OR_PROVINCE)|(LOCATION)[\\s])+((COUNTRY)[\\s])+.*");
 			String line = reader.readLine();
 			int anomaly = 0;
 			ArrayList<String> sentence = new ArrayList<String>();
@@ -50,7 +52,7 @@ public class LocationAssessment {
 				line = reader.readLine();
 			}
 			for (int i = 0; i < fileContent.size(); ++i) {
-				if (getLastWord(fileContent.get(i)).toLowerCase().contains("country")) {
+				if (LocPattern.matcher(fileContent.get(i)).find()) {
 					anomaly++;
 				}
 			}

@@ -1,3 +1,3 @@
-Liliana Axelsson Caleb 48 89518, Minsk, Tuscany, United Kingdom Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+email@example.net Date: 16, June, 2329
+URL,O,O,DATE,DATE,DATE
 

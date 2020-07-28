@@ -1,3 +1,3 @@
-Margaret Wikström Aria 92 59400, Melbourne, Hessen, Japan Invoice Number: 231001
-PERSON,PERSON,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+Date: 4, August, 2621
+O,DATE,DATE,DATE
 

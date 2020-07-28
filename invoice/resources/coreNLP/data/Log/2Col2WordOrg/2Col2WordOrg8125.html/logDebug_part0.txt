@@ -1,3 +1,3 @@
-Isabella Engström Pte
-PERSON,PERSON,O,O
+Alex Nyström Pte Ltd
+PERSON,PERSON,O,ORGANIZATION,ORGANIZATION
 

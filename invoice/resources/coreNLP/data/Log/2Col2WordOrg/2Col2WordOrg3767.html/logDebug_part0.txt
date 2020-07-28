@@ -1,3 +1,3 @@
-Gabrielle Magnusson Inc
-PERSON,PERSON,PERSON
+Reagan Nordström Corp
+PERSON,PERSON,O,O
 

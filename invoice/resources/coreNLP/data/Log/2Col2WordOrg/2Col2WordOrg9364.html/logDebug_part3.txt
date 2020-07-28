@@ -1,3 +1,3 @@
-Abigail Lundqvist Micah 81 28408, Paris, Ang Thong, laos Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,O,O,O,NUMBER
+Cora Lindberg George 10 90782, Seoul, Floria, Australia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

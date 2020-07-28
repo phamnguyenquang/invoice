@@ -1,3 +1,3 @@
-Sara Anne Abrahamsson Inc
-PERSON,PERSON,PERSON,PERSON
+Emmanuel Amy Sandström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

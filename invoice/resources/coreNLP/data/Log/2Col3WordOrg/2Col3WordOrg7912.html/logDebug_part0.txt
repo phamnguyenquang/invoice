@@ -1,3 +1,3 @@
-Jose Christopher Nyström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Kevin Anne Lindström Pte
+PERSON,PERSON,PERSON,O,O
 

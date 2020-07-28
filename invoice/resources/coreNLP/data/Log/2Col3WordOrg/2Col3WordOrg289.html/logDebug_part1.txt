@@ -1,3 +1,3 @@
-Ashley 16 21592, Last Vegas, Phu Yen,
-PERSON,NUMBER,NUMBER,O,O,O,O
+Bradley 32 49382, Last Vegas, Binh Thuan,
+PERSON,NUMBER,NUMBER,O,O,PERSON,PERSON
 

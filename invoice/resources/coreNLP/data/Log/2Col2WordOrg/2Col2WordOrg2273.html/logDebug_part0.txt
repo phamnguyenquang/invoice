@@ -1,3 +1,3 @@
-Damian Nyström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Malachi Lundström Corp
+PERSON,PERSON,O,O
 

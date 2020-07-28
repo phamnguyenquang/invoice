@@ -1,3 +1,3 @@
-Aidan 81 85784, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Luca 77 96574, Vancouver, California,
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
 

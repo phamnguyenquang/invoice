@@ -1,3 +1,3 @@
-Alexander Bengtsson Malachi 1 74140, Berlin, Guangzhou, Australia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 29, August, 2830
+O,DATE,DATE,DATE
 

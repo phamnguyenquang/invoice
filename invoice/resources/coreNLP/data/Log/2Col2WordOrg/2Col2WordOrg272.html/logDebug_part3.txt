@@ -1,3 +1,3 @@
-Penelope Olofsson Nicholas 3 83315, Venice, Kentucky, Russia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Claire Eriksson Brian 59 82413, Minsk, Hessen, Switzerland Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

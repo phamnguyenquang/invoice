@@ -1,3 +1,3 @@
-Marcus Gustafsson Pte
-PERSON,PERSON,PERSON
+Destiny Mårtensson Inc
+O,O,ORGANIZATION,ORGANIZATION
 

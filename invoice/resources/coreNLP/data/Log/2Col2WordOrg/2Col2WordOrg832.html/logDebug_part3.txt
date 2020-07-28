@@ -1,3 +1,3 @@
-Logan Hansson Jameson 8 84785, Sydney, Buriam, Indonesia s Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,COUNTRY,O,O,O,NUMBER
+Max Wallin Natalie 28 69262, Moscow, Hainan, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

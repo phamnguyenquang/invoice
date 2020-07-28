@@ -1,3 +1,3 @@
-Eric Lundström Ltd
+Noah Nordström Ltd
 PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-Gianna Eriksson Isaiah 84 59613, Rome, Bangkok, Germany Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 7, Jul, 2674
+O,DATE,DATE,DATE
 

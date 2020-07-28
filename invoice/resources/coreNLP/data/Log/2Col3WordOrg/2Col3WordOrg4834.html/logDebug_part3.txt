@@ -1,3 +1,3 @@
-Alexandra Öberg Kaylee 34 88673, Florence, Hawaii, Turkey Invoice Number: 231001
-PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Cambodia email@example.net
+COUNTRY,URL,O
 

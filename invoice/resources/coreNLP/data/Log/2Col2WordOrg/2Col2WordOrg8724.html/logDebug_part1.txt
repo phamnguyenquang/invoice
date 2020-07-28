@@ -1,3 +1,3 @@
-Ltd Brooke 68
-PERSON,PERSON,NUMBER
+90901, Seoul, Hawaii, ThaiLand email@example.net
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O
 

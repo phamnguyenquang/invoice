@@ -1,3 +1,3 @@
-70899, Barcelona, Indiana, Japan email@example.net Date: 18 April 2020
-NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,O,O,O,DATE,DATE,DATE
+40445, Minsk, Hawaii, Russia email@example.net Date: 5, Oct, 2971
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

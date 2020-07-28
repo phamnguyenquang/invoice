@@ -1,3 +1,3 @@
-Bennett 83 13199, Last Vegas, Amnat
-PERSON,NUMBER,NUMBER,O,O,O
+Jaxon 9 29282, Beijing, Hessen, Italy
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

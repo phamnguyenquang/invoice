@@ -1,3 +1,3 @@
-Lydia Martinsson Inc
-PERSON,PERSON,PERSON
+Liliana Nordström Inc
+PERSON,PERSON,O,ORGANIZATION
 

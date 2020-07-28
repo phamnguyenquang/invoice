@@ -1,3 +1,3 @@
-Hayden Jane Fredriksson Ltd
-PERSON,PERSON,PERSON,PERSON
+Aurora Jane Bergström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

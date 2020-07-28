@@ -1,3 +1,3 @@
-Seattles, Ireland email@example.net Date: 18 April 2020
-O,COUNTRY,URL,O,O,DATE,DATE,DATE
+43165, Paris, Bayern, South Africa
+NUMBER,CITY,LOCATION,COUNTRY,COUNTRY
 

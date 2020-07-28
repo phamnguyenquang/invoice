@@ -1,3 +1,3 @@
-Giovanni Amy Öberg Corp
-PERSON,PERSON,PERSON,PERSON
+Maxwell Jane Nordström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

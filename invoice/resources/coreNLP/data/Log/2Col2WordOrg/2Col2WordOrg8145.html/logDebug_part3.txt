@@ -1,3 +1,3 @@
-Micah Sundberg Timothy 30 70251, Taipei, Phu Yen, Switzerland Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,MISC,MISC,COUNTRY,MISC,O,NUMBER
+Isabel Söderberg Maya 40 71755, Minsk, Saarland, South Korea Invoice Number: 231001
+MISC,O,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
 

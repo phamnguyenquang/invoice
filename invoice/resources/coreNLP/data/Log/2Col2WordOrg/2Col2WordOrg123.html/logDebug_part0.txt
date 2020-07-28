@@ -1,3 +1,3 @@
-Alejandro Mohamed Inc
-PERSON,PERSON,PERSON
+Adam Ström Corp Nora 82
+PERSON,PERSON,O,PERSON,PERSON,NUMBER
 

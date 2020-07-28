@@ -1,3 +1,3 @@
-Ellie Blom Avery 28 64324, Chicago, California, ThaiLand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Roman Forsberg Gavin 44 57090, Stuttgart, Tuscany, Indonesia s Invoice Number: 231001
+O,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
 

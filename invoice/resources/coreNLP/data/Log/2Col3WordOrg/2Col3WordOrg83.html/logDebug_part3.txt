@@ -1,3 +1,3 @@
-Cayden Norberg Valentina 73 80488, Minsk, khanh Hoa, New Zealand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+France email@example.net
+COUNTRY,URL,O
 

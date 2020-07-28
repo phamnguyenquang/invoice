@@ -1,3 +1,3 @@
-Catherine 4 21481, Last Vegas, Bremen,
-PERSON,NUMBER,NUMBER,O,O,O
+Alexandra 93 85480, Philadelphia, Saarland,
+PERSON,NUMBER,NUMBER,CITY,LOCATION
 

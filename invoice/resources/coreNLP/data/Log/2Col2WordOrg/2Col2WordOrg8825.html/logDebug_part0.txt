@@ -1,3 +1,3 @@
-Izabella Lundström Inc
-PERSON,PERSON,O,ORGANIZATION
+Lillian Öberg Pte Ltd
+PERSON,PERSON,PERSON,PERSON
 

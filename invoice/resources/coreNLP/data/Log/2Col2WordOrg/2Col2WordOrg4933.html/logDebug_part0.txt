@@ -1,3 +1,3 @@
-Miguel Sjöberg Inc
-PERSON,PERSON,PERSON,PERSON
+Sean Henriksson Inc
+PERSON,PERSON,PERSON
 

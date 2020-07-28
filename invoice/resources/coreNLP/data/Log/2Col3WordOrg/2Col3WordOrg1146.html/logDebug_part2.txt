@@ -1,3 +1,3 @@
-99236, Rome, Tuscany, China email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
+67568, Osaka, Chiang Rai, South Africa
+NUMBER,PERSON,PERSON,PERSON,COUNTRY,COUNTRY
 

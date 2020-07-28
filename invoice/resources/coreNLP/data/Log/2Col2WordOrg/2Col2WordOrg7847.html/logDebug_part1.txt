@@ -1,3 +1,3 @@
-44392, Venice, Floria, Germany email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+26076, Seoul, Hawaii, Denmark email@example.net Date: 1, Feb, 2784
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,DATE,DATE,DATE
 

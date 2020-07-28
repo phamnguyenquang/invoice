@@ -1,3 +1,3 @@
-laos email@example.net Date: 18 April 2020
-O,O,O,O,DATE,DATE,DATE
+17181, New York , Indiana, Japan
+NUMBER,STATE_OR_PROVINCE,STATE_OR_PROVINCE,STATE_OR_PROVINCE,COUNTRY
 

@@ -1,3 +1,3 @@
-Leah Alexander Sandström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Claire Victoria Lundqvist Ltd
+PERSON,PERSON,PERSON,PERSON
 

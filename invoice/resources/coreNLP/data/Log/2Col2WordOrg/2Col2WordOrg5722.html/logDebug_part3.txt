@@ -1,3 +1,3 @@
-Tucker Blom Cole 34 35773, Sydney, khanh Hoa, Italy Invoice Number: 231001
-O,O,O,NUMBER,NUMBER,CITY,O,LOCATION,COUNTRY,O,O,NUMBER
+Sean Lundgren Brady 59 58310, Osaka, khanh Hoa, Saudi Arabia Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,LOCATION,O,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
 

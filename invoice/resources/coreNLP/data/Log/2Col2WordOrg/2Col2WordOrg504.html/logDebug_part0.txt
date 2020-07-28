@@ -1,3 +1,3 @@
-Emmett Hellström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Gabriel Fransson Ltd
+PERSON,PERSON,PERSON
 

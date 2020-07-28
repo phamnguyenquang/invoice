@@ -1,3 +1,3 @@
-Daisy Christopher
-PERSON,PERSON
+Hazel Grace Nyström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

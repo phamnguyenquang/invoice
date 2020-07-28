@@ -1,3 +1,3 @@
-Madeline 5 91860, Seoul, Tuscany, Cambodia
-PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+Canada email@example.net
+COUNTRY,URL,O
 

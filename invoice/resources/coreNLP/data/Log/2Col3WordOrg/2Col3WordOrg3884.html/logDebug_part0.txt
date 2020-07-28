@@ -1,3 +1,3 @@
-Valerie Marie Bengtsson Inc
-PERSON,PERSON,PERSON,PERSON
+Joshua John Nyström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

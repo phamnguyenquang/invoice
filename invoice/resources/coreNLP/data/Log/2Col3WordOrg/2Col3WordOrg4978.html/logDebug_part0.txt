@@ -1,3 +1,3 @@
-Oscar William Sandström Corp
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Jonah Kate Holmgren Ltd
+PERSON,PERSON,PERSON,PERSON
 

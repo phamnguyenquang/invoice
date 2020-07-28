@@ -1,3 +1,3 @@
-42885, Frankfurt am Main , California, China
-NUMBER,CITY,O,O,STATE_OR_PROVINCE,COUNTRY
+Miles 42 23369, Hong Kong, Guangdong,
+O,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE
 

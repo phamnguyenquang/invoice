@@ -1,3 +1,3 @@
-Jessica Hermansson
-PERSON,PERSON
+Juliana Nordström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

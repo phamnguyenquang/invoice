@@ -1,3 +1,3 @@
-Elizabeth Ann Lundström Inc
+Zoe Jane Lindström Inc
 PERSON,PERSON,PERSON,O,ORGANIZATION
 

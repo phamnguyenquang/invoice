@@ -1,3 +1,3 @@
-Kaden Karlsson Inc
-PERSON,PERSON,PERSON
+Katherine Lundström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

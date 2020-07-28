@@ -1,3 +1,3 @@
-Delilah Nordström Corp
-PERSON,PERSON,O,O
+Bryson Nordin Ltd
+ORGANIZATION,ORGANIZATION,ORGANIZATION
 

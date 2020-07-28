@@ -1,3 +1,3 @@
-Michael Söderberg Bryce 35 95151, Taipei, Tuscany, ThaiLand Invoice Number: 231001
-PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
+Date: 25, December, 2303
+O,DATE,DATE,DATE
 

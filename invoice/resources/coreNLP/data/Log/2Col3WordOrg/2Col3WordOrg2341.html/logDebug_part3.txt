@@ -1,3 +1,3 @@
-Everly Dahlberg Avery 64 13689, Boston, Bremen, ThaiLand Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 12, November, 2312
+O,DATE,DATE,DATE
 

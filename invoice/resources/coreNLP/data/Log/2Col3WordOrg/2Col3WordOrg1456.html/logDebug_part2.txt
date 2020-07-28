@@ -1,3 +1,3 @@
-Nicolas 45 74675, Osaka, Chiang Rai,
-PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+France email@example.net
+COUNTRY,URL,O
 

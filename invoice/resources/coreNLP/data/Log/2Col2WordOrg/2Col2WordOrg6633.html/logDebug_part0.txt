@@ -1,3 +1,3 @@
-David Bengtsson Ltd
-PERSON,PERSON,PERSON
+Elijah Ekström Inc
+PERSON,PERSON,O,ORGANIZATION
 

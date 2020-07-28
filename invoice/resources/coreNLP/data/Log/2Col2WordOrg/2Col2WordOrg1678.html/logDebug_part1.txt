@@ -1,3 +1,3 @@
-79735, Berlin, Hessen, Turkey email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+Diego 76 39695, San Francisco, Indiana,
+O,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE
 

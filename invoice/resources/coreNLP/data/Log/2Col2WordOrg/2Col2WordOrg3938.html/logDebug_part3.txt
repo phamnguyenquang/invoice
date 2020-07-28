@@ -1,3 +1,3 @@
-Lyla Bengtsson Abraham 39 56425, Madrid, Texas, Philippines Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,O,O,NUMBER
+email@example.net Date: 10, October, 2781
+URL,O,O,DATE,DATE,DATE
 

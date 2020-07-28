@@ -1,3 +1,3 @@
-Sophia Söderberg Inc
-PERSON,PERSON,PERSON,PERSON
+Clara Gustafsson Ltd
+PERSON,PERSON,PERSON
 

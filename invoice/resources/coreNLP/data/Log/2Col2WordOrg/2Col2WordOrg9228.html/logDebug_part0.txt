@@ -1,3 +1,3 @@
-Justin Ahmed Ltd
-PERSON,PERSON,PERSON
+Emmett Sandström Ltd
+PERSON,PERSON,O,ORGANIZATION
 

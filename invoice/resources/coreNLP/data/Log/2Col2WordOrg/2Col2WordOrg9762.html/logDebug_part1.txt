@@ -1,3 +1,3 @@
-Ariel 35 46973, Munich, Chiang Mai,
-PERSON,NUMBER,NUMBER,PERSON,PERSON,PERSON
+48745, Berlin, Bremen, Turkey email@example.net
+NUMBER,CITY,CITY,COUNTRY,URL,O
 

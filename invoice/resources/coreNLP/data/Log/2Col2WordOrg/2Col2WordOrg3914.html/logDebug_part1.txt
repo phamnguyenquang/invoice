@@ -1,3 +1,3 @@
-Genesis 14 84335, Sydney, Seattles,
-O,NUMBER,NUMBER,CITY,LOCATION
+79020, Taipei, Guangdong, Canada
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

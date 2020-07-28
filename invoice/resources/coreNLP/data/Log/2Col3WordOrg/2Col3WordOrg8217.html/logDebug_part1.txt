@@ -1,3 +1,3 @@
-Makayla 91 88229, Shanghai, Bangkok,
-ORGANIZATION,NUMBER,NUMBER,CITY,CITY
+15696, Tokyo, Phu Yen, laos email@example.net
+NUMBER,CITY,MISC,MISC,O,URL,O
 

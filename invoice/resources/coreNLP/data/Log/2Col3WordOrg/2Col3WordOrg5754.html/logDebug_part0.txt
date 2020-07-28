@@ -1,3 +1,3 @@
-Ella Lee Ek Inc Scarlett 64
-PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER
+Sebastian Thomas Eliasson
+PERSON,PERSON,PERSON
 

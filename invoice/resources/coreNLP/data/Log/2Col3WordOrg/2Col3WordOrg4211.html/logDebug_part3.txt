@@ -1,3 +1,3 @@
-Natalia Viklund Bradley 7 75390, Los Angeles, Guangzhou, Ireland Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+Date: 13, March, 2893
+O,DATE,DATE,DATE
 

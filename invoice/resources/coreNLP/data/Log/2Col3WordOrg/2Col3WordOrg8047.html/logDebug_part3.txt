@@ -1,3 +1,3 @@
-Kai Hedlund Ella 49 42087, Chicago, Tuscany, Indonesia s Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+Date: 18, August, 2008
+O,DATE,DATE,DATE
 

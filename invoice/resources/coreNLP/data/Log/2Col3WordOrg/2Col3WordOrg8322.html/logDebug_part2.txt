@@ -1,3 +1,3 @@
-28066, Chicago, Saarland, Brazil email@example.net Date: 18 April 2020
-NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,URL,O,O,DATE,DATE,DATE
+Canada email@example.net
+COUNTRY,URL,O
 

@@ -1,3 +1,3 @@
-Eleanor Nyström Kennedy 21 81110, Last Vegas, California, South Africa Invoice Number: 231001
-PERSON,PERSON,O,ORGANIZATION,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY,COUNTRY,O,O,NUMBER
+Singapore email@example.net Date: 0, May, 2614
+COUNTRY,URL,O,O,NUMBER,DATE,DATE
 

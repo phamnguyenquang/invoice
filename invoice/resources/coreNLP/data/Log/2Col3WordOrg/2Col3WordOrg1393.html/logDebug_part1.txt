@@ -1,3 +1,3 @@
-Andrea 95 90798, Budapest, Saarland, New
-PERSON,NUMBER,NUMBER,O,O,O
+Gianna 57 42102, Beijing, Hessen, ThaiLand
+PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
 

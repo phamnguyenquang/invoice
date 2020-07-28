@@ -1,3 +1,3 @@
-Luis Hellström Corp Stella 96
-PERSON,PERSON,O,PERSON,PERSON,NUMBER
+Ivy Strömberg Corp
+O,O,O,O
 

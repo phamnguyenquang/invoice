@@ -1,3 +1,3 @@
-Bryson Alexander
-PERSON,PERSON
+John Robert Magnusson Corp
+PERSON,PERSON,PERSON,PERSON
 

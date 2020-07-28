@@ -1,3 +1,3 @@
-Connor Sandström Corp
-PERSON,PERSON,O,O
+Ellie Månsson Pte Ltd
+PERSON,PERSON,PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Brayden Ström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Juliana Nilsson Ltd
+PERSON,PERSON,PERSON
 

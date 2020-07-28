@@ -1,3 +1,3 @@
-Richard Edward Lundgren Inc
-PERSON,PERSON,PERSON,PERSON
+Alana Catherine Löfgren Corp
+PERSON,PERSON,PERSON,PERSON,PERSON
 

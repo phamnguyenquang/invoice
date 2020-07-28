@@ -1,3 +1,3 @@
-Charles 28 76778, Last Vegas, Bayern,
-PERSON,NUMBER,NUMBER,O,O,O
+26055, Vancouver, Huabei, Japan email@example.net Date: 0, May, 2017
+NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,O,O,O,NUMBER,DATE,DATE
 

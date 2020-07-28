@@ -1,3 +1,3 @@
-Maverick 48 49770, Berlin, Bremen, Turkey
-O,NUMBER,NUMBER,CITY,CITY,COUNTRY
+47393, Beijing, Bayern, Philippines
+NUMBER,CITY,LOCATION,COUNTRY
 

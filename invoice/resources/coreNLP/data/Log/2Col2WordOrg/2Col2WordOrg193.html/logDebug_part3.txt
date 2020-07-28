@@ -1,3 +1,3 @@
-Katelyn Ekström Kai 95 33804, Istanbul, khanh Hoa, ThaiLand Invoice Number: 231001
-PERSON,PERSON,O,O,NUMBER,NUMBER,CITY,O,O,COUNTRY,O,O,NUMBER
+email@example.net Date: 17, Jan, 2038
+URL,O,O,DATE,DATE,DATE
 

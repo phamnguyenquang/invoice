@@ -1,3 +1,3 @@
-Mark Hansen Corp
-PERSON,PERSON,PERSON
+Patrick Nordström Inc
+PERSON,PERSON,O,ORGANIZATION
 

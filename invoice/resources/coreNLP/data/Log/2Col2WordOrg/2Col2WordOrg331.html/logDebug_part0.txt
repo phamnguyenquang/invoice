@@ -1,3 +1,3 @@
-Jordyn Holm Pte Ltd
-PERSON,PERSON,PERSON,PERSON
+Jeremiah Bergqvist Corp
+PERSON,PERSON,PERSON
 

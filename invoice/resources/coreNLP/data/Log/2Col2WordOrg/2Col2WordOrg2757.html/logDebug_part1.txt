@@ -1,3 +1,3 @@
-Patrick 78 39671, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+52078, Amsterdam, Guangzhou, laos
+NUMBER,CITY,CITY,O
 

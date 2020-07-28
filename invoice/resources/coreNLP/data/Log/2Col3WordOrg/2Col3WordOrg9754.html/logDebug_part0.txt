@@ -1,3 +1,3 @@
-Reese William Löfgren Corp
-PERSON,PERSON,PERSON,PERSON,PERSON
+Gavin Victoria Nordström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

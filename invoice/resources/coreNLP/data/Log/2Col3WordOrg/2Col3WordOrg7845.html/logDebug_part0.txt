@@ -1,3 +1,3 @@
-Kimberly Ann Nyström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Brantley Mary Håkansson Inc
+PERSON,PERSON,PERSON,PERSON,PERSON
 

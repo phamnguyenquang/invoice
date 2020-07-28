@@ -1,3 +1,3 @@
-Elena David Åberg Corp
-PERSON,PERSON,PERSON,PERSON
+Josiah Anne Sandström Ltd
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-Alaina Hermansson Justin 10 67844, Tokyo, Binh Thuan, Turkey Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,LOCATION,COUNTRY,O,O,NUMBER
+Date: 1, November, 2444
+O,DATE,DATE,DATE
 

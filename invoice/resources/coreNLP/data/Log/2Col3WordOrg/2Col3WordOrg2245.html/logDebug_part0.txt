@@ -1,3 +1,3 @@
-Maddox Amy Nordström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Sydney Marie Lundgren Corp
+CITY,PERSON,PERSON,PERSON
 

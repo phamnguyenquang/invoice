@@ -1,3 +1,3 @@
-Logan Elizabeth Wikström Ltd
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Aaliyah David Mårtensson Pte
+PERSON,PERSON,PERSON,PERSON,PERSON
 

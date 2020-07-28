@@ -1,3 +1,3 @@
-Noah Bergström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Alice Bengtsson Ltd
+PERSON,PERSON,PERSON
 

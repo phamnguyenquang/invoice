@@ -1,3 +1,3 @@
-66619, Los Angeles, Bangkok, Philippines
-NUMBER,CITY,CITY,CITY,COUNTRY
+85564, Boston, Hainan, United Kingdom
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,COUNTRY
 

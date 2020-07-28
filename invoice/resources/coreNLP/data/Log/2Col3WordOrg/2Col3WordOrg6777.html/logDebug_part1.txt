@@ -1,3 +1,3 @@
-Ezra 77 19480, Frankfurt am Main ,
-PERSON,NUMBER,NUMBER,CITY,O,O
+Andreasson Corp Tyler 75
+PERSON,PERSON,PERSON,NUMBER
 

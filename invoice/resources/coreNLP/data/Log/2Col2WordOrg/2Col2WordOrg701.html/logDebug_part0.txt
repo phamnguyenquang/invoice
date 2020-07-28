@@ -1,3 +1,3 @@
-Sophia Sandström Corp
-PERSON,PERSON,O,O
+Ariel Johansson Ltd
+PERSON,PERSON,PERSON
 

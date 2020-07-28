@@ -1,3 +1,3 @@
-Savannah 71 19719, Toronto, California,
-ORGANIZATION,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+63243, Munich, Binh Thuan, laos email@example.net
+NUMBER,PERSON,PERSON,PERSON,O,URL,O
 

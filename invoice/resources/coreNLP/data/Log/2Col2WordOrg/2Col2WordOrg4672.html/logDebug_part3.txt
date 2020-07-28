@@ -1,3 +1,3 @@
-George Engström Samantha 52 98382, Frankfurt am Main , Buriam, Turkey Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,O,O,O,COUNTRY,O,O,NUMBER
+Carlos Nordström Joshua 63 95054, Stuttgart, Hessen, ThaiLand Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

@@ -1,3 +1,3 @@
-Ruby 73 87475, Tokyo, Buriam, Russia
-O,NUMBER,NUMBER,PERSON,PERSON,PERSON
+81314, Last Vegas, Saarland, ThaiLand
+NUMBER,O,O,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+93848, Dublin, Chai Nat, Mexico email@example.net
+NUMBER,CITY,CITY,CITY,COUNTRY,URL,O
 

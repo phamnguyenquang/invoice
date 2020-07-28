@@ -1,3 +1,3 @@
-Catherine John Wallin Inc
-PERSON,PERSON,PERSON,PERSON
+Alejandro Marie Ekström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

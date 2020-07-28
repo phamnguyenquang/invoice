@@ -1,3 +1,3 @@
-64138, Florence, Hawaii, Canada email@example.net Date: 18 April 2020
-NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,DATE,DATE,DATE,DATE
+Alice 89 68398, Last Vegas, Indiana,
+PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE
 

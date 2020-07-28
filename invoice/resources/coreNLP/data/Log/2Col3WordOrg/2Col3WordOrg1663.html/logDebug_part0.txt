@@ -1,3 +1,3 @@
-Calvin David Nordström Inc
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Kinsley Grace Olofsson Inc
+PERSON,PERSON,PERSON,PERSON
 

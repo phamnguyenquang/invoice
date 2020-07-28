@@ -1,3 +1,3 @@
-Mia Nordström Matthew 41 49813, Rome, Guangdong, Australia Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Aaron Blomqvist John 74 79312, Philadelphia, Saarland, ThaiLand Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

@@ -1,3 +1,3 @@
-16862, Shanghai, Bangkok, Mexico
-NUMBER,CITY,CITY,COUNTRY
+Chiang Mai, Germany email@example.net Date: 14, June, 2814
+CITY,CITY,COUNTRY,URL,O,O,DATE,DATE,DATE
 

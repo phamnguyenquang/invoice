@@ -1,3 +1,3 @@
-96435, Stuttgart, khanh Hoa, ThaiLand
-NUMBER,O,O,PERSON,COUNTRY
+Tucker 67 17277, Toronto, Texas, laos
+PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,O
 

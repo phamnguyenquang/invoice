@@ -1,3 +1,3 @@
-Switzerland email@example.net Date: 18 April 2020
-COUNTRY,URL,O,O,DATE,DATE,DATE
+12119, Tokyo, Tuscany, Mexico email@example.net Date: 9, Feb, 2012
+NUMBER,CITY,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
 

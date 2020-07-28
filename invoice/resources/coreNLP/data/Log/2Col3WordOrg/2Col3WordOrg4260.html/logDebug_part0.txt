@@ -1,3 +1,3 @@
-Jackson Victoria Lindström Corp
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Arianna William Sandberg Inc
+PERSON,PERSON,PERSON,PERSON
 

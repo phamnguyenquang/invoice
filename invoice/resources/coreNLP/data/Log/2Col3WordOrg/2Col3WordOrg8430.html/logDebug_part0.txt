@@ -1,3 +1,3 @@
-Owen Robert Lindström Corp
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Silas Alexander Bengtsson Inc
+PERSON,PERSON,PERSON,PERSON
 

@@ -1,3 +1,3 @@
-Zachary Engström Pte
-PERSON,PERSON,O,O
+Logan Danielsson Ltd
+ORGANIZATION,ORGANIZATION,ORGANIZATION
 

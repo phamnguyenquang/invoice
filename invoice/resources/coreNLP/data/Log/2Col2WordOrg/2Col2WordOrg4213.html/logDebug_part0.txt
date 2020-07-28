@@ -1,3 +1,3 @@
-Caroline Bergman Corp
-PERSON,PERSON,PERSON
+Jocelyn Bergström Inc
+PERSON,PERSON,O,ORGANIZATION
 

@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+72403, Taipei, Indiana, Australia email@example.net Date: 0, May, 2736
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,URL,O,O,NUMBER,DATE,DATE
 

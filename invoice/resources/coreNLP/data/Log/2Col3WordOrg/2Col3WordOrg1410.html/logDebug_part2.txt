@@ -1,3 +1,3 @@
-90678, Shanghai, Henan, laos email@example.net Date: 18 April 2020
-NUMBER,CITY,STATE_OR_PROVINCE,O,URL,O,O,DATE,DATE,DATE
+Brazil email@example.net
+COUNTRY,URL,O
 

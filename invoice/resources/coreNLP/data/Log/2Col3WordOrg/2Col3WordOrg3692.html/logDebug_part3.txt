@@ -1,3 +1,3 @@
-Christian Nyström Ethan 34 73739, Tokyo, Guangdong, Russia Invoice Number: 231001
-PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Charoen, France email@example.net
+LOCATION,COUNTRY,URL,O
 

@@ -1,3 +1,3 @@
-Luca 27 30623, Shanghai, Guangzhou,
-PERSON,NUMBER,NUMBER,CITY,CITY
+Mateo 17 15102, Tokyo, Bremen, Japan
+O,NUMBER,NUMBER,CITY,CITY,COUNTRY
 

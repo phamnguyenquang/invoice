@@ -1,3 +1,3 @@
-85314, Venice, California, Australia
-NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
+61227, Toronto, Huabei, ThaiLand
+NUMBER,CITY,LOCATION,COUNTRY
 

@@ -1,3 +1,3 @@
-Julian Samuelsson Charles 31 96765, San Francisco, khanh Hoa, Japan Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,O,LOCATION,COUNTRY,O,O,NUMBER
+email@example.net Date: 29, Feb, 2707
+URL,O,O,NUMBER,DATE,DATE
 

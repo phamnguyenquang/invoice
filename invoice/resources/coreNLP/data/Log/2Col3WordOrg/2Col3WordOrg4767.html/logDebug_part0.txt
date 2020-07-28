@@ -1,3 +1,3 @@
-Evan William Lindström Corp
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Mary David Bergman Inc
+PERSON,PERSON,PERSON,PERSON
 

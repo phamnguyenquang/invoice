@@ -1,3 +1,3 @@
-Alan 96 38018, Last Vegas, khanh Hoa,
-PERSON,NUMBER,NUMBER,O,O,O,PERSON
+39658, Lisbon, khanh Hoa, China email@example.net Date: 25, Oct, 2199
+NUMBER,CITY,O,LOCATION,COUNTRY,O,O,O,DATE,DATE,DATE
 

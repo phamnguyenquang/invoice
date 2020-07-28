@@ -1,3 +1,3 @@
-Brian Ekström Inc
-PERSON,PERSON,O,ORGANIZATION
+Bella Andreasson Ltd
+PERSON,PERSON,PERSON
 

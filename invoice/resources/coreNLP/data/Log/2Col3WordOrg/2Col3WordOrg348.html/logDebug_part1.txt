@@ -1,3 +1,3 @@
-Nicholas 13 27153, Taipei, Kentucky,
-PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE
+Ltd Cole 57
+O,O,NUMBER
 

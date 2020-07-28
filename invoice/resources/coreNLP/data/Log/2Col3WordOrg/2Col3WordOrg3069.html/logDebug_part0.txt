@@ -1,3 +1,3 @@
-Jack Victoria Lindström Corp
-PERSON,PERSON,PERSON,O,ORGANIZATION
+Ian Alexander Abrahamsson Pte
+PERSON,PERSON,PERSON,PERSON
 

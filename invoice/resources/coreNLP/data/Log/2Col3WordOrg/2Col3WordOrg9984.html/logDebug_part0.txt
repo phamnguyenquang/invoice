@@ -1,3 +1,3 @@
-Hadley Mary Åkesson Inc
-PERSON,PERSON,PERSON,PERSON
+Hailey Alexander Lindström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

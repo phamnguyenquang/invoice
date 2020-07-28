@@ -1,3 +1,3 @@
-Luke Abrahamsson Inc
-PERSON,PERSON,PERSON
+Arianna Engström Inc
+PERSON,PERSON,O,ORGANIZATION
 

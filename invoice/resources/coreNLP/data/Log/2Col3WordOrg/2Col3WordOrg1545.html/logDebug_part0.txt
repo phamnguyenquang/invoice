@@ -1,3 +1,3 @@
-Alexis Amy Karlsson Corp
-PERSON,PERSON,PERSON,PERSON
+Elijah Elizabeth Lindström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

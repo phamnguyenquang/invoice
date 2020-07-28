@@ -1,3 +1,3 @@
-Asher 74 11982, Last Vegas, Tuscany,
-PERSON,NUMBER,NUMBER,O,O,O
+Amy 1 29265, Los Angeles, Hamburg,
+PERSON,NUMBER,NUMBER,CITY,CITY,CITY
 

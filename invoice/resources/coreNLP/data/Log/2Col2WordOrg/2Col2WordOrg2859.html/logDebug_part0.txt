@@ -1,3 +1,3 @@
-Richard Åkesson Ltd
-PERSON,PERSON,PERSON
+Quinn Abrahamsson
+PERSON,PERSON
 

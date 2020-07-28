@@ -1,3 +1,3 @@
-88517, Munich, Hamburg, Denmark
-NUMBER,PERSON,PERSON,PERSON
+91254, Lisbon, Guangzhou, Germany
+NUMBER,CITY,CITY,COUNTRY
 

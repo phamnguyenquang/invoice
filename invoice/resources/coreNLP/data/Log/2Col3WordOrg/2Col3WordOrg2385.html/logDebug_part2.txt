@@ -1,3 +1,3 @@
-65153, Toronto, Huabei, Ireland email@example.net Date: 18 April 2020
-NUMBER,ORGANIZATION,ORGANIZATION,ORGANIZATION,URL,O,O,DATE,DATE,DATE
+80575, Bonn, Tuscany, India email@example.net
+NUMBER,CITY,LOCATION,COUNTRY,URL,O
 

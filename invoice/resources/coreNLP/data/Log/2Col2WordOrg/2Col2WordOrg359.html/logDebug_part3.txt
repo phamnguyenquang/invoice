@@ -1,3 +1,3 @@
-Xavier Holm Michelle 65 54106, Last Vegas, California, Switzerland Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,O,O,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
+Edward Jakobsson Nathaniel 46 92003, Tokyo, Buriam, Denmark Invoice Number: 231001
+PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,O,COUNTRY,O,O,NUMBER
 

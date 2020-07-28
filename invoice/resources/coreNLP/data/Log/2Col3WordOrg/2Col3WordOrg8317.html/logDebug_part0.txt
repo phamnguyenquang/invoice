@@ -1,3 +1,3 @@
-Logan Marie Engström Corp
-PERSON,PERSON,PERSON,O,O
+Victor Rose Löfgren Ltd
+PERSON,PERSON,PERSON,PERSON,PERSON
 

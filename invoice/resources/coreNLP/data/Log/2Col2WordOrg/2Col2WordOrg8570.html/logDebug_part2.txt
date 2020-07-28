@@ -1,3 +1,3 @@
-Africa email@example.net Date: 18 April 2020
-LOCATION,URL,O,DATE,DATE,DATE,DATE
+37504, Barcelona, Hainan, Indonesia s
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O
 

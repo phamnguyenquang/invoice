@@ -1,3 +1,3 @@
-Serenity Bergström Inc
-O,O,O,ORGANIZATION
+Xavier Olofsson Inc
+PERSON,PERSON,PERSON
 

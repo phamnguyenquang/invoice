@@ -1,3 +1,3 @@
-37837, Last Vegas, Hamburg, Japan
-NUMBER,O,O,CITY,COUNTRY
+email@example.net Date: 15, Oct, 2862
+URL,O,DATE,DATE,DATE,DATE
 

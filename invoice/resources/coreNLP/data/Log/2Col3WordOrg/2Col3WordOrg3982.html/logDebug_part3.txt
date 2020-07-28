@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+Oscar May/Mae Jakobsson Ezekiel 46 93549, Chicago, Chiang Rai, Mexico Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
 

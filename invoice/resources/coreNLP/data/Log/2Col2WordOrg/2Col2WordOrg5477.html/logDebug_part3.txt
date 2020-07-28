@@ -1,3 +1,3 @@
-Emilia Arvidsson Cole 85 34297, Denver, Huabei, Indonesia s Invoice Number: 231001
-O,O,O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+Date: 26, February, 2375
+O,DATE,DATE,DATE
 

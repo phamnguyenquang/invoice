@@ -1,3 +1,3 @@
-22983, Sydney, Floria, Italy email@example.net Date: 18 April 2020
-NUMBER,CITY,LOCATION,COUNTRY,URL,O,O,DATE,DATE,DATE
+Arabia email@example.net
+O,URL,O
 

@@ -1,3 +1,3 @@
-Noah Nyström Ltd
-PERSON,PERSON,O,ORGANIZATION
+Autumn Bergqvist Ltd
+DATE,PERSON,PERSON
 

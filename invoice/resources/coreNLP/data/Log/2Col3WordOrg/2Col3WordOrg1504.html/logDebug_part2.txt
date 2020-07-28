@@ -1,3 +1,3 @@
-email@example.net Date: 18 April 2020
-URL,O,O,DATE,DATE,DATE
+62681, Last Vegas, Floria, France email@example.net Date: 19, Sep, 2775
+NUMBER,O,O,O,COUNTRY,URL,O,DATE,DATE,DATE,DATE
 

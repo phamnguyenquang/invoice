@@ -1,3 +1,3 @@
-Thomas Louise Håkansson Ltd
-PERSON,PERSON,PERSON,PERSON,PERSON
+Juan David Lundström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

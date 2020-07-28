@@ -1,3 +1,3 @@
-68796, Last Vegas, Huabei, Canada
-NUMBER,O,O,LOCATION,COUNTRY
+ThaiLand email@example.net
+COUNTRY,URL,O
 

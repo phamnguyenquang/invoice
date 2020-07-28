@@ -1,3 +1,3 @@
-Gabriella William Dahl Ltd
-PERSON,PERSON,PERSON,PERSON
+Patrick Catherine Lindström Inc
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

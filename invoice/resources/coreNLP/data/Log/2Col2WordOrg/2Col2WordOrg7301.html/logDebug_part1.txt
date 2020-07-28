@@ -1,3 +1,3 @@
-82344, Frankfurt am Main , Heibei, Italy
-NUMBER,CITY,O,O,O,COUNTRY
+36394, Montreal, Indiana, Mexico
+NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY
 

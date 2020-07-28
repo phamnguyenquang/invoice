@@ -1,3 +1,3 @@
-Victoria Jönsson Violet 75 38938, Los Angeles, Bangkok, VietNam Invoice Number: 231001
-PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,CITY,COUNTRY,O,O,NUMBER
+Juliana Alexander Åberg Stephanie 57 17664, Moscow, Buriam, Turkey Invoice Number: 231001
+PERSON,PERSON,O,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,NUMBER
 

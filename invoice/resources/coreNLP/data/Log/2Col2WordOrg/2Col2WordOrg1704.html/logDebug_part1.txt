@@ -1,3 +1,3 @@
-Maya 93 18917, Tokyo, Tuscany, Mexico
-O,NUMBER,NUMBER,CITY,LOCATION,COUNTRY
+61969, Last Vegas, Chiang Mai, Singapore
+NUMBER,O,O,PERSON,PERSON,PERSON
 

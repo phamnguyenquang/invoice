@@ -1,3 +1,3 @@
-Luna Catherine Mohamed Inc
-PERSON,PERSON,PERSON,PERSON
+Izabella Lee Ekström Corp
+PERSON,PERSON,PERSON,O,ORGANIZATION
 

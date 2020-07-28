@@ -1,3 +1,3 @@
-Katelyn Bergqvist Eleanor 66 29646, Dubai, Huabei, Saudi Arabia Invoice Number: 231001
-PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,COUNTRY,O,O,NUMBER
+Tristan Björklund Jake 93 53936, Bonn, California, Turkey Invoice Number: 231001
+O,O,O,PERSON,NUMBER,NUMBER,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 

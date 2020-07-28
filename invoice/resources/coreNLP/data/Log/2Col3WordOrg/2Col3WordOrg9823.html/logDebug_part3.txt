@@ -1,3 +1,3 @@
-Hailey Lindqvist Summer 32 55436, Moscow, Tuscany, Indonesia s Invoice Number: 231001
-PERSON,PERSON,DATE,NUMBER,NUMBER,CITY,LOCATION,COUNTRY,O,O,O,NUMBER
+Jacob David Persson Ryleigh 36 16804, Hong Kong, California, Russia Invoice Number: 231001
+PERSON,PERSON,PERSON,PERSON,NUMBER,NUMBER,CITY,CITY,STATE_OR_PROVINCE,COUNTRY,O,O,NUMBER
 
