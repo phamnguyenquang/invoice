@@ -24,8 +24,6 @@ public class DataAssessment {
 	public DataAssessment() {
 		try {
 			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
-
-			doWork();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -35,7 +33,6 @@ public class DataAssessment {
 		AssessDir = dir;
 		try {
 			reader = new BufferedReader(new FileReader(new File(new ClassPathResource(AssessDir).getPath())));
-			doWork();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
