@@ -22,21 +22,43 @@ public class TrainingPdfGenerator {
 	private String[] OrgKeyword = { "Inc", "Pte Ltd", "Pte Pte Ltd", "Pte Ltd", "Pte Ltd" };
 	private int totalKeyword = OrgKeyword.length;
 	private int FileIndex = -1;
+	private int LineIndex = -1;
+	private int SenderLength = 0;
+	private int ReceiverLength = 0;
 
 	private DictionaryReader name;
 
 	private void generateSenderNameContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		SenderName = name.getRandomGivenName() + " " + name.getRandomSureName();
-//		SenderAddress = "Scheidswald str 61, ";
+		if (SenderLength == 2) {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomSureName();
+		} else if (SenderLength == 3) {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName();
+		} else {
+			generateMixSenderNameContent();
+		}
 		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
 	}
 
+	private void generateMixSenderNameContent() {
+		int ran = ThreadLocalRandom.current().nextInt(0, 100);
+		if (ran >= 50) {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomSureName();
+		} else {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName();
+		}
+	}
+
 	private void generateSenderCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		SenderName = name.getRandomCompanyName();
+		int j = 0;
+		if (LineIndex >= 0) {
+			SenderName = name.getCompanyAt(LineIndex);
+		} else {
+			SenderName = name.getRandomCompanyName();
+		}
 		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
 		SenderLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
@@ -45,50 +67,103 @@ public class TrainingPdfGenerator {
 	private void generateSenderCompanyContent(int index) {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		SenderName = name.getCompanyNameAt(index);
-		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))+" "+Integer.toString(i)+", ";
-		SenderLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", "
-				+ name.getRandomCountry();
+		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))
+				+ " " + Integer.toString(i) + ", ";
+		SenderLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", " + name.getRandomCountry();
 	}
 
 	private void generateVirtualSenderCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
-		SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName() + " "
-				+ "Inc";
-//		SenderName = name.getRandomCompanyName();
-		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))+" "+Integer.toString(i)+", ";
-		SenderLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", "
-				+ name.getRandomCountry();
+		if (SenderLength == 3) {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
+					+ " " + OrgKeyword[j];
+		} else if (SenderLength == 2) {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		} else {
+			generateMixVirtualSenderCompanyName();
+		}
+		SenderAddress = name.getRandomGivenName() + " " + Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))
+				+ " " + Integer.toString(i) + ", ";
+		SenderLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", " + name.getRandomCountry();
+	}
+
+	private void generateMixVirtualSenderCompanyName() {
+		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
+		int ran = ThreadLocalRandom.current().nextInt(0, 100);
+		if (ran >= 50) {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
+					+ " " + OrgKeyword[j];
+		} else {
+			SenderName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		}
 	}
 
 	private void generateRecNameContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName();
-//		ReceiverAddress = "Scheidswald str 61";
+		if (ReceiverLength == 2) {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName();
+		} else if (ReceiverLength == 3) {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " "
+					+ name.getRandomSureName();
+		} else {
+			generateMixRecNameContent();
+		}
 		ReceiverAddress = name.getRandomGivenName() + " "
-				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))+" "+Integer.toString(i)+", ";
-		ReceiverLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", "
-				+ name.getRandomCountry();
+				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100)) + " " + Integer.toString(i) + ", ";
+		ReceiverLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", " + name.getRandomCountry();
+	}
+
+	private void generateMixRecNameContent() {
+		int ran = ThreadLocalRandom.current().nextInt(0, 100);
+		if (ran >= 50) {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName();
+		} else {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " "
+					+ name.getRandomSureName();
+		}
 	}
 
 	private void generateRecCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
-		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + "Pte Ltd";
-//		ReceiverAddress = "Scheidswald str 61";
+		int j = 0;
+		if (LineIndex >= 0) {
+			ReceiverName = name.getCompanyAt(LineIndex);
+		} else {
+			ReceiverName = name.getRandomCompanyName();
+		}
 		ReceiverAddress = name.getRandomGivenName() + " "
-				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))+" "+Integer.toString(i)+", ";
-		ReceiverLocation =name.getRandomCity() + ", " + name.getRandomStatte() + ", "
+				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100));
+		ReceiverLocation = Integer.toString(i) + ", " + name.getRandomCity() + ", " + name.getRandomStatte() + ", "
 				+ name.getRandomCountry();
 	}
 
 	private void generateVirtualRecCompanyContent() {
 		int i = ThreadLocalRandom.current().nextInt(10000, 99999);
 		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
-		ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		if (ReceiverLength == 2) {
+
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		} else if (ReceiverLength == 3) {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
+					+ " " + OrgKeyword[j];
+		} else {
+			generateMixVirtualRecCompanyName();
+		}
 		ReceiverAddress = name.getRandomGivenName() + " "
-				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100))+" "+Integer.toString(i)+", ";
-		ReceiverLocation =  name.getRandomCity() + ", " + name.getRandomStatte() + ", "
-				+ name.getRandomCountry();
+				+ Integer.toString(ThreadLocalRandom.current().nextInt(1, 100)) + " " + Integer.toString(i) + ", ";
+		ReceiverLocation = name.getRandomCity() + ", " + name.getRandomStatte() + ", " + name.getRandomCountry();
+	}
+
+	private void generateMixVirtualRecCompanyName() {
+		int j = ThreadLocalRandom.current().nextInt(0, totalKeyword - 1);
+		int ran = ThreadLocalRandom.current().nextInt(0, 100);
+		if (ran >= 50) {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
+					+ " " + OrgKeyword[j];
+		} else {
+			ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
+		}
 	}
 
 	private void generateDate() {
@@ -104,6 +179,10 @@ public class TrainingPdfGenerator {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
+	}
+
+	public void setLineIndex(int k) {
+		LineIndex = k;
 	}
 
 	public TrainingPdfGenerator(String template, String nameOutput, int sType, int rType) {
@@ -143,6 +222,14 @@ public class TrainingPdfGenerator {
 		generateDate();
 		generatePdf();
 
+	}
+
+	public void SetSenderNameLength(int i) {
+		SenderLength = i;
+	}
+
+	public void SetReceiverNameLength(int i) {
+		ReceiverLength = i;
 	}
 
 	public void ClearAux() {

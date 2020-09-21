@@ -19,6 +19,7 @@ public class DataAssessment {
 	private Pattern CompanyPattern;
 	private Pattern MistagCompanyPattern;
 	private String RegEx = "";
+	private boolean state = false;
 	private String MisTagRegEx = "";
 
 	public DataAssessment() {
@@ -64,6 +65,10 @@ public class DataAssessment {
 	public void AssessFile() {
 		doWork();
 	}
+	public void setLogUnfragment(boolean unfra)
+	{
+		state = unfra;
+	}
 
 	private void doWork() {
 		try {
@@ -85,7 +90,15 @@ public class DataAssessment {
 					}
 				}
 			}
-			double total = fileContent.size() / 2;
+			
+			double total = 0;
+			if(state)
+			{
+				total = fileContent.size()/2;
+			}
+			else {
+				total= fileContent.size();
+			}
 			System.out.println("size " + total);
 			System.out.println("correct data " + correct);
 			double accuracy = correct / total;

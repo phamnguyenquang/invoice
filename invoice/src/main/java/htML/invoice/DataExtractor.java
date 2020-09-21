@@ -11,7 +11,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.nd4j.linalg.io.ClassPathResource;
 
-import Backend.CommandExecutor;
 
 public class DataExtractor {
 
@@ -21,7 +20,6 @@ public class DataExtractor {
 	private String filepath;
 	private String outDir;
 	private Document doc;
-	private CommandExecutor exec;
 	private int totalDoc = 0;
 
 	private void initialize(File file) {

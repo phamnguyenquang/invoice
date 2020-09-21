@@ -12,8 +12,6 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.nd4j.linalg.io.ClassPathResource;
 
-import Backend.CommandExecutor;
-
 public class MassDataExtractor {
 	private File fileList;
 	private File subFolder;
@@ -22,7 +20,6 @@ public class MassDataExtractor {
 	private String outDir;
 	private String subF;
 	private Document doc;
-	private CommandExecutor exec;
 	private int totalDoc = 0;
 	private int totalParam = 0;
 	private Element body;

@@ -1,7 +1,6 @@
 package Default;
 
 import DataGenerator.TrainingPdfGenerator;
-import Misc.PdfToImage;
 import NER.CoreNlpPreprocess;
 import NER.OpenNlpPreprocess;
 import htML.invoice.DataExtractor;
