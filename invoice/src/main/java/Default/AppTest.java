@@ -17,21 +17,23 @@ public class AppTest {
 		 * company, 2 for imaginary company, left to right (!) & (!!): 2 = 2 words, 3 =
 		 * 3 words, other number = mix
 		 */
-		generalWork.GeneratePDF("HInvoiceWLogo", 2, 0, 1, 1);
+//		generalWork.GeneratePDF("InvoiceNew2", 2, 0, 1, 1);
+//		generalWork.GenerateTestPDF("InvoiceNew2", 2, 0, 1, 1);
 // ===================================================================================================
 //	
 		/*
 		 * pdf to html, look in the class for the concrete implementation true for
 		 * extracting part, false for putting all into 1 text file
 		 */
-		generalWork.ConvertToHtml("HInvoiceWLogo", true);
+		generalWork.ConvertToHtml("InvoiceNew2", true);
+//		generalWork.ConvertToHtml("HInvoiceWLogoInvoice", true);
 //===================================================================================================
 		/*
 		 * Annotating and logging the result look in the file for concrete
 		 * implementation
 		 * 
 		 */
-		generalWork.Annotate("HInvoiceWLogo");
+//		generalWork.Annotate("HInvoiceWParagraph2.5");
 //===================================================================================================
 
 		/*

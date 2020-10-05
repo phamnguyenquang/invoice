@@ -13,6 +13,7 @@ public class LatexTemplateParser {
 	private String textOutPath = "";
 	private String templatePath = filePath + "/invoiceTemplate.tex";
 	private String outputName;
+	private String tName;
 	private JLRConverter converter;
 	private JLRGenerator pdfGen = new JLRGenerator();
 
@@ -24,7 +25,7 @@ public class LatexTemplateParser {
 
 	private void initialize() {
 		template = new File(templatePath);
-		workingDirectory = new File(filePath);
+		workingDirectory = new File(filePath + "/" + tName);
 
 		tempDir = new File(workingDirectory.getAbsolutePath() + "/temp");
 		if (!tempDir.isDirectory()) {
@@ -38,13 +39,15 @@ public class LatexTemplateParser {
 	}
 
 	public LatexTemplateParser(String templateName, String nameOut) {
-		templatePath = filePath + "/" + templateName;
+		tName = templateName;
+		templatePath = filePath + "/" + templateName + "/" + templateName + ".tex";
 		outputName = nameOut;
 		initialize();
 	}
 
 	public void setTemplte(String template) {
-		templatePath = filePath + "/" + template;
+		tName = template;
+		templatePath = filePath + "/" + template + template + ".tex";
 		initialize();
 	}
 
@@ -81,6 +84,7 @@ public class LatexTemplateParser {
 	public void parseOutput() {
 		try {
 			texOutput = new File(textOutPath);
+			System.out.println(templatePath);
 			converter.parse(template, texOutput);
 			pdfOutput = new File(pdfFile);
 			File pdfDir = new File(pdfOutPath);

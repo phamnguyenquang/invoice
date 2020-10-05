@@ -23,9 +23,9 @@ public class Functions {
 		 * company, 2 for imaginary company, left to right (!) & (!!): 2 = 2 words, 3 =
 		 * 3 words, other number = mix
 		 */
-		new Thread(new ParallelPdfGen(name + ".tex", name, Stype, Rtype, SLength, Rlength, 3333, 1)).start();
-		new Thread(new ParallelPdfGen(name + ".tex", name, Stype, Rtype, SLength, Rlength, 3333, 2)).start();
-		new Thread(new ParallelPdfGen(name + ".tex", name, Stype, Rtype, SLength, Rlength, 3333, 3)).start();
+		new Thread(new ParallelPdfGen(name , name, Stype, Rtype, SLength, Rlength, 3333, 1)).start();
+		new Thread(new ParallelPdfGen(name , name, Stype, Rtype, SLength, Rlength, 3333, 2)).start();
+		new Thread(new ParallelPdfGen(name , name, Stype, Rtype, SLength, Rlength, 3333, 3)).start();
 	}
 
 	public void GenerateTestPDF(String name, int Stype, int Rtype, int SLength, int Rlength) {
@@ -35,7 +35,7 @@ public class Functions {
 		 * company, 2 for imaginary company, left to right (!) & (!!): 2 = 2 words, 3 =
 		 * 3 words, other number = mix
 		 */
-		new Thread(new ParallelPdfGen(name + ".tex", name, Stype, Rtype, SLength, Rlength, 20, 1)).start();
+		new Thread(new ParallelPdfGen(name, name, Stype, Rtype, SLength, Rlength, 20, 1)).start();
 	}
 
 	public void ConvertToHtml(String name, boolean part) {
