@@ -145,8 +145,10 @@ public class TrainingPdfGenerator {
 
 			ReceiverName = name.getRandomGivenName() + " " + name.getRandomSureName() + " " + OrgKeyword[j];
 		} else if (ReceiverLength == 3) {
+//			ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
+//					+ " " + OrgKeyword[j];
 			ReceiverName = name.getRandomGivenName() + " " + name.getRandomMiddleName() + " " + name.getRandomSureName()
-					+ " " + OrgKeyword[j];
+			+ " " + "Corp";
 		} else {
 			generateMixVirtualRecCompanyName();
 		}

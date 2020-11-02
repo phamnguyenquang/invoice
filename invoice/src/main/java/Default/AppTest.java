@@ -2,6 +2,7 @@ package Default;
 
 import Backend.Functions;
 import Experiment.DataAssessment;
+import Experiment.LogBackup;
 import Experiment.LogMerge;
 
 /**
@@ -17,7 +18,7 @@ public class AppTest {
 		 * company, 2 for imaginary company, left to right (!) & (!!): 2 = 2 words, 3 =
 		 * 3 words, other number = mix
 		 */
-//		generalWork.GeneratePDF("InvoiceNew2", 2, 0, 1, 1);
+//		generalWork.GeneratePDF("InvoiceReversedWParagraph2.5","InvoiceReversedWParagraph2.5RealComp", 1, 0, 1, 1);
 //		generalWork.GenerateTestPDF("InvoiceNew2", 2, 0, 1, 1);
 // ===================================================================================================
 //	
@@ -25,15 +26,17 @@ public class AppTest {
 		 * pdf to html, look in the class for the concrete implementation true for
 		 * extracting part, false for putting all into 1 text file
 		 */
-		generalWork.ConvertToHtml("InvoiceNew2", true);
-//		generalWork.ConvertToHtml("HInvoiceWLogoInvoice", true);
+//		generalWork.ConvertToHtml("HInvoiceWParagraph2.5RealComp"); //ALREADY: CORP, LLC, LTD,INC, PTE LTD,ORG
+//		generalWork.ConvertToHtml("HInvoiceWParagraphRealComp"); //ALREADY: CORP, LLC, LTD,INC, PTE LTD,ORG,RealComp
+//		generalWork.GetRawText("HInvoiceWParagraph2.5RealComp", true);
 //===================================================================================================
 		/*
 		 * Annotating and logging the result look in the file for concrete
 		 * implementation
 		 * 
 		 */
-//		generalWork.Annotate("HInvoiceWParagraph2.5");
+//		generalWork.Annotate("HInvoiceWParagraph2.5RealComp");
+//		generalWork.AnnotateMass("HInvoiceWParagraphRealComp");
 //===================================================================================================
 
 		/*
@@ -42,15 +45,26 @@ public class AppTest {
 		 * compare True, means tagging included. This comes before general data
 		 * assessment purpose
 		 */
-//		new LogMerge("resources/coreNLP/data/Log/Hindent/",9570, 1, true);
+//		new LogMerge("resources/coreNLP/data/Log/HInvoiceWParagraph2.5LLC/", 9988, 1, true);
 //		new LogMerge("resources/coreNLP/data/Log/InvoiceRI2.5VO/", 9999, 1, false);
+
+		/*
+		 * Backup log Use after log merge in this class Also called in other class
+		 */
+//		new LogBackup("resources/coreNLP/data/Log/HInvoiceWParagraph2.5LLC/logDebugS.txt",
+//				"resources/coreNLP/data/Debug/HInvoiceWParagraph2.5LLC/logDebugS.txt");
+//		new LogBackup("resources/coreNLP/data/Log/HInvoiceWParagraph2.5LLC/logDebugR.txt",
+//				"resources/coreNLP/data/Debug/HInvoiceWParagraph2.5LLC/logDebugR.txt");
+//		new LogBackup("resources/coreNLP/data/Log/HInvoiceWParagraph2.5LLC/logDebugLast.txt",
+//				"resources/coreNLP/data/Debug/HInvoiceWParagraph2.5LLC/logDebugLast.txt");
 //===================================================================================================
 		/*
 		 * Data Assessment, Use various regex for assessing accuracy
 		 */
-//		DataAssessment CA = new DataAssessment("resources/coreNLP/data/Log/InvoiceNewVO/logDebug.txt");
-//		CA.AssessFileByRegex("^(ORGANIZATION)[\\s](ORGANIZATION)[\\s]+.*");	
-//		CA.getDetails();
+		DataAssessment CA = new DataAssessment("resources/coreNLP/data/Debug/HInvoiceWParagraph2.5RealComp/logDebugS.txt");
+		CA.setLogUnfragment(false);
+		CA.AssessFileByRegex("^(ORGANIZATION)[\\s](ORGANIZATION)[\\s]+.*");	
+		CA.getDetails();
 	}
 
 }

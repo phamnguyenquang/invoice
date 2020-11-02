@@ -12,20 +12,23 @@ import htML.invoice.MassDataExtractor;
 import htML.invoice.pdf2html;
 
 public class Functions {
+
+	private String outDir = "";
+
 	public Functions() {
 
 	}
 
-	public void GeneratePDF(String name, int Stype, int Rtype, int SLength, int Rlength) {
+	public void GeneratePDF(String templateName, String outpoutName, int Stype, int Rtype, int SLength, int Rlength) {
 		/*
 		 * Left to right: tex template, output dir, senderType,
 		 * receivierType,SenderLength(!), ReceiverLength(!!) 0 for person, 1 for real
 		 * company, 2 for imaginary company, left to right (!) & (!!): 2 = 2 words, 3 =
 		 * 3 words, other number = mix
 		 */
-		new Thread(new ParallelPdfGen(name , name, Stype, Rtype, SLength, Rlength, 3333, 1)).start();
-		new Thread(new ParallelPdfGen(name , name, Stype, Rtype, SLength, Rlength, 3333, 2)).start();
-		new Thread(new ParallelPdfGen(name , name, Stype, Rtype, SLength, Rlength, 3333, 3)).start();
+		new Thread(new ParallelPdfGen(templateName, outpoutName, Stype, Rtype, SLength, Rlength, 3333, 1)).start();
+		new Thread(new ParallelPdfGen(templateName, outpoutName, Stype, Rtype, SLength, Rlength, 3333, 2)).start();
+		new Thread(new ParallelPdfGen(templateName, outpoutName, Stype, Rtype, SLength, Rlength, 3333, 3)).start();
 	}
 
 	public void GenerateTestPDF(String name, int Stype, int Rtype, int SLength, int Rlength) {
@@ -38,7 +41,13 @@ public class Functions {
 		new Thread(new ParallelPdfGen(name, name, Stype, Rtype, SLength, Rlength, 20, 1)).start();
 	}
 
-	public void ConvertToHtml(String name, boolean part) {
+	public void ConvertToHtml(String name) {
+
+		new pdf2html("resources/pdf/" + name + "/", "resources/html/" + name + "/");
+
+	}
+
+	public void GetRawText(String name, boolean part) {
 		File ff = new File("resources/coreNLP/data/original/");
 		for (File fff : ff.listFiles()) {
 			try {
@@ -51,11 +60,14 @@ public class Functions {
 				e.printStackTrace();
 			}
 		}
-		new pdf2html("resources/pdf/" + name + "/", "resources/html/" + name + "/");
 		if (part) {
+			System.out.println("extracting");
 			new MassDataExtractor("resources/html/" + name + "/", "resources/coreNLP/data/original/").extractPart();
+			System.out.println("done");
 		} else {
+			System.out.println("extracting");
 			new MassDataExtractor("resources/html/" + name + "/", "resources/coreNLP/data/original/").extract();
+			System.out.println("done");
 		}
 	}
 
@@ -91,8 +103,8 @@ public class Functions {
 
 	public void AnnotateMass(String name) {
 		/*
-		 * Use after merge file, (with removing fragmented annotated data) warning, may
-		 * be obsolete.
+		 * Use after merge file, (with removing fragmented annotated data) or annotating
+		 * file that have not been fragmented
 		 */
 		new Annotator("file0.txt", "neural").doWork();
 		new LogBackup("resources/coreNLP/data/processed/logDebug.txt",

@@ -11,31 +11,35 @@ public class LogMerge {
 	private File folder;
 	private BufferedWriter writer;
 	private BufferedWriter writer1;
+	private BufferedWriter writer2;
+
 	private int lower;
 	private int upper;
 	private boolean second;
 
 	public LogMerge(String file, boolean secondLine) {
 		folder = new File(file);
-		second=secondLine;
+		second = secondLine;
 //		half = firstHalf;
 		try {
-			writer = new BufferedWriter(new FileWriter(new File(file + "logDebug.txt")));
-			writer1 = new BufferedWriter(new FileWriter(new File(file + "logDebugLast.txt")));
+			writer = new BufferedWriter(new FileWriter(new File(file + "logDebugS.txt")));
+			writer1 = new BufferedWriter(new FileWriter(new File(file + "logDebugR.txt")));
+			writer2 = new BufferedWriter(new FileWriter(new File(file + "logDebugLast.txt")));
 			doWork();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 	}
 
-	public LogMerge(String file,int batchNo, int index, boolean secondLine) {
+	public LogMerge(String file, int batchNo, int index, boolean secondLine) {
 		folder = new File(file);
 		upper = batchNo * index - 1;
 		lower = batchNo * (index - 1);
-		second=secondLine;
+		second = secondLine;
 		try {
-			writer = new BufferedWriter(new FileWriter(new File(file + "logDebug.txt")));
-			writer1 = new BufferedWriter(new FileWriter(new File(file + "logDebugLast.txt")));
+			writer = new BufferedWriter(new FileWriter(new File(file + "logDebugS.txt")));
+			writer1 = new BufferedWriter(new FileWriter(new File(file + "logDebugR.txt")));
+			writer2 = new BufferedWriter(new FileWriter(new File(file + "logDebugLast.txt")));
 			doWork();
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -47,10 +51,12 @@ public class LogMerge {
 			if (f.isDirectory()) {
 				System.out.println(f.getName());
 				LogConcat make = new LogConcat(f.getAbsolutePath(), second);
-				writer.append(make.getPartResult());
+				writer.append(make.getSenderResult());
 				writer.append("\n");
-				writer1.append(make.getLastFileResult());
+				writer1.append(make.getReceiverResult());
 				writer1.append("\n");
+				writer2.append(make.getLastFileResult());
+				writer2.append("\n");
 				System.gc();
 			}
 
@@ -69,6 +75,7 @@ public class LogMerge {
 			}
 			writer.close();
 			writer1.close();
+			writer2.close();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}

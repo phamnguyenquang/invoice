@@ -83,6 +83,7 @@ public class DataAssessment {
 				}
 				line = reader.readLine();
 			}
+			System.out.println("array size: "+fileContent.size());
 			for (int i = 0; i < fileContent.size(); ++i) {
 				if (fileContent.get(i) != " ") {
 					if (CompanyPattern.matcher(fileContent.get(i)).find()) {
