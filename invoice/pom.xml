@@ -112,18 +112,18 @@
 		<dependency>
 			<groupId>edu.stanford.nlp</groupId>
 			<artifactId>stanford-corenlp</artifactId>
-			<version>3.9.2</version>
+			<version>4.5.8</version>
 		</dependency>
 		<dependency>
 			<groupId>edu.stanford.nlp</groupId>
 			<artifactId>stanford-corenlp</artifactId>
-			<version>3.9.2</version>
+			<version>4.5.8</version>
 			<classifier>models</classifier>
 		</dependency>
 		<dependency>
 			<groupId>edu.stanford.nlp</groupId>
 			<artifactId>stanford-corenlp</artifactId>
-			<version>3.9.2</version>
+			<version>4.5.8</version>
 			<classifier>models-german</classifier>
 		</dependency>
 		<!-- Google Guava for some file manipulation -->
